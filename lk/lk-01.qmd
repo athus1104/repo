@@ -48,19 +48,19 @@ Setiap peran menuntut repertoar komunikasi tertentu \[116, 129\]. Sering kali, t
 
 *Silakan salin bagian ini ke dalam lembar pengerjaan tugas atau dokumen portofolio Anda.*
 
-**Nama Mahasiswa:** \[Nama Anda / Gunakan Samaran untuk Privasi\] \[350\] **Tanggal Pengerjaan:** \[Tanggal\]
+**Nama Mahasiswa:** \ Azka Atha'us Salam \
+**Tanggal Pengerjaan:** \ 9 September 2026 \
 
 ### Bagian A: Peta 5 Domain Kehidupan \[135\]
 
-Lengkapi tabel berikut untuk memetakan peran komunikasi Anda saat ini:
 
 | Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai | Tanggung Jawab Utama Komunikasi |
 |:-----------------|:-----------------|:-----------------|:-----------------|
-| **1. Diri Sendiri** |  |  |  |
-| **2. Keluarga / Sahabat** |  |  |  |
-| **3. Profesional / Akademik** |  |  |  |
-| **4. Komunitas / Kelompok** |  |  |  |
-| **5. Dunia / Publik** |  |  |  |
+| **1. Diri Sendiri** | Mahasiswa Relfektif | Diri sendiri  | Mengambarkan pemahaman mandiri, menilai proses belajar, dan mengatur emosi ketika menghadapi logika pemrograman yang menantang. |
+| **2. Keluarga / Sahabat** | Sahabat Pendengar | Teman satu kelompok praktikum | Memberi dukungan emosional, mempertahankan solidaritas, dan menyediakan tempat aman untuk bersandar. |
+| **3. Profesional / Akademik** | Mahasiswa Akademik | Dosen pembimbing | Menunjukkan kompetensi akademik, berkontribusi dalam diskusi ilmiah, dan memenuhi tanggung jawab akademik. |
+| **4. Komunitas / Kelompok** | Fasilitator Edukasi Sosial | Anak-anak panti asuhan | Menyiapkan bahan pembelajaran literasi AI dan keamanan siber dengan menggunakan perumpamaan sederhana yang mudah dipahami. |
+| **5. Dunia / Publik** | Mahasiswa Peneliti | Responden kuesioner mahasiswa / Dosen pembimbing | Menyediakan dan mengumpulkan informasi peneliti akademis tentang etika penggunaan AI dengan cara yang objektif dan bertanggung jawab. |
 
 ### Bagian B: Analisis Kontras Dua Peran Utama \[136\]
 
@@ -68,30 +68,30 @@ Pilih dua peran dari tabel di atas yang paling kontras atau menantang (misalnya:
 
 | Unsur Komunikasi | Peran A: \[Tulis Nama Peran A\] | Peran B: \[Tulis Nama Peran B\] |
 |:-----------------------|:-----------------------|:-----------------------|
-| **1. Tujuan Tugas & Relasi** \[128\] |  |  |
-| **2. Repertoar Utama** \[129\] |  |  |
-| **3. Pilihan Bahasa & Nada** \[130\] |  |  |
-| **4. Respons yang Harus Dibaca** \[131\] |  |  |
-| **5. Tindakan yang Diharapkan** \[131\] |  |  |
-| **6. Relasi yang Harus Dirawat** \[131\] |  |  |
+| **1. Tujuan Tugas & Relasi** \[128\] | Pencapaian penyelesaian milestone proyek dan pembagaian tugas yang terdefinisi dengan baik. | Terpeliharanya kesejahteraan emosional sahabat dan adanya rasa saling percaya dalam persahabatan. |
+| **2. Repertoar Utama** \[129\] | Mengajukan pertanyaan yang tepat (check-in), bernegosiasi batas waktu, dan menetapkan kesepakatan solusi. | Mendengarkan dengan penuh perhatian, mengonfirmasi emosi, dan menyediakan ruang untuk bercerita tanpa gangguan. |
+| **3. Pilihan Bahasa & Nada** \[130\] | Asertif, fokus pada tujuan, rasional, dan profesional. | Tenang, penuh empati, ramah, fleksibel, dan tidak menghakimi. |
+| **4. Respons yang Harus Dibaca** \[131\] | Ketegasan komitmen, indikasi halangan teknis, dan kemampuan beban kerja anggota tim.| Bahada tubuh, intonasi suara, serta kebutuhan mental untuk diperhatikan. |
+| **5. Tindakan yang Diharapkan** \[131\] | Tim rekan menindaklanjuti penyelesaian isu teknis dan menyelesaikan pekerjaan sesuai kesepakatan yang baru. | Sahabat merasa tenang, tekanan berkurang, dan merasakan dukungan emosional. |
+| **6. Relasi yang Harus Dirawat** \[131\] | Kerja sama produktif, profesional, dan dapat diandalkan secara teknis. | Persahabatan yang saling mendukung, serta, dan aman secara emosional tanpa merasa diadili. |
 
 ### Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan \[351\]
 
 Jawablah pertanyaan reflektif berikut dengan jujur berdasarkan Template Lampiran B.2 \[351\]:
 
 1.  **Nilai Utama:** Nilai-nilai kemanusiaan apa saja yang paling ingin Anda tampakkan dalam komunikasi Anda sehari-hari? (Contoh: ketulusan, kejujuran, penghargaan, atau keadilan) \[351\]
-    - *Jawaban:*
+    - *Jawaban:* Ketulusan, tanggung jawab, kolaborasi, dan empati.
 2.  **Kekuatan Komunikasi:** Kekuatan atau kecenderungan kepribadian apa yang sudah Anda miliki dan membantu komunikasi Anda selama ini? \[351\]
-    - *Jawaban:*
+    - *Jawaban:* Polapikir analitis, kemampuan menyusun strategi kolaborasi secara terstruktur, dan fokus pada penyelesaian masalah (problem-solving).
 3.  **Pola Hambatan Otomatis:** Pola atau kebiasaan komunikatif apa yang paling sering menghambat Anda saat berada di bawah tekanan atau situasi tidak nyaman? \[351\]
-    - *Jawaban:*
+    - *Jawaban:* Terlalu berorientasi pada target dan logika sehingga cenderung terburu-buru memberikan solusi teknis saat seseorang sedang bercerita, atau terkesan mendesak ketika berada di bawah tekanan deadline.
 4.  **Ketegangan Peran & Kepribadian:** Tuliskan satu situasi spesifik di mana kecenderungan kepribadian otomatis Anda bergesekan dengan tuntutan tanggung jawab peran Anda \[136\] (gunakan pola: *"Saya cenderung \[kepribadian\], tetapi peran saya sebagai \[nama peran\] menuntut saya untuk \[perilaku komunikasi\]"*).
-    - *Jawaban:*
+    - *Jawaban:* Saya cenderung berorientasi analitis dan ingin segera memberikan solusi untuk masalah, tetapi peran saya sebagai Sahabat Pendengar mengharuskan saya untuk bersabar, hadir sepenuhnya, dan mengakui perasaan teman tanpa harus segera memperbaiki keadaan.
 5.  **Sasaran Pertumbuhan Perilaku Terukur:** Berdasarkan ketegangan di atas, susun satu pernyataan sasaran pertumbuhan perilaku yang spesifik untuk 4-6 minggu ke depan \[109, 351\].
     - *Aturan perumusan:* Jangan menulis sasaran abstrak (seperti "Saya ingin menjadi komunikator hebat") \[109\]. Tulislah sasaran mikro yang nyata, misalnya: *"Ketika seorang teman sedang bercerita, saya akan menahan diri untuk tidak langsung memotong atau memberi solusi selama 3 menit pertama. Saya akan merangkum maknanya dan memvalidasi perasaannya terlebih dahulu."* \[109\]
-    - *Sasaran Saya:*
+    - *Sasaran Saya:* Saat rekan satu kelompok mengeluhkan beban akademik atau kesulitan dalam tugas, saya akan mengendalikan diri untuk tidak segera memberikan saran atau solusi teknis dalam 3 menit pertama. Saya akan memanfaatkan waktu itu sepenuhnya untuk mendengarkan dengan aktif, merangkum ceritanya, dan mengonfirmasi rasa lelahnya terlebih dahulu.
 6.  **Umpan Balik Jujur:** Siapa nama (atau inisial) orang terdekat di sekitar Anda yang dapat Anda mintai umpan balik jujur untuk memantau pertumbuhan perilaku ini? \[351\]
-    - *Jawaban:*
+    - *Jawaban:* Dimas (Rekan tim satu kelompok).
 
 ------------------------------------------------------------------------
 
