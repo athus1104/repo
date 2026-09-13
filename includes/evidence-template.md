@@ -14,14 +14,14 @@ Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti
 
 ## Analisis komunikasi
 
-| Elemen | Evidence dan analisis |
-|---|---|
-| Person & character | Ganti dengan analisis Anda. |
-| Objective & state | Ganti dengan analisis Anda. |
+| Elemen                | Evidence dan analisis       |
+| --------------------- | --------------------------- |
+| Person & character    | Ganti dengan analisis Anda. |
+| Objective & state     | Ganti dengan analisis Anda. |
 | Repertoire & language | Ganti dengan analisis Anda. |
 | Response & adaptation | Ganti dengan analisis Anda. |
-| Agreement/action | Ganti dengan analisis Anda. |
-| Relationship outcome | Ganti dengan analisis Anda. |
+| Agreement/action      | Ganti dengan analisis Anda. |
+| Relationship outcome  | Ganti dengan analisis Anda. |
 
 ## Penggunaan AI
 
@@ -33,7 +33,7 @@ Nyatakan `Tidak menggunakan AI` atau jelaskan:
 - pemeriksaan accuracy, privacy, dan authority;
 - apa yang tetap Anda pelajari sebagai manusia.
 
-## Feedback dan tindak lanjut
+## Feedback dan tindak lanjutx`
 
 **Feedback yang diterima:** Ganti dengan kutipan atau ringkasan berbasis evidence.
 
@@ -43,22 +43,22 @@ Nyatakan `Tidak menggunakan AI` atau jelaskan:
 
 ## Self-assessment
 
-| Dimensi | Skor 1–4 | Evidence singkat |
-|---|---:|---|
-| Person & Character | — | — |
-| Objective & State | — | — |
-| Repertoire, Language & AI | — | — |
-| Response & Adaptation | — | — |
-| Agreement, Action & Relationship | — | — |
+| Dimensi                          | Skor 1–4 | Evidence singkat |
+| -------------------------------- | --------: | ---------------- |
+| Person & Character               |        — | —               |
+| Objective & State                |        — | —               |
+| Repertoire, Language & AI        |        — | —               |
+| Response & Adaptation            |        — | —               |
+| Agreement, Action & Relationship |        — | —               |
 
 **Total:** — / 20
 
 ::: {.assessor-only}
+
 ### Assessment dosen
 
-**Skor:** — / 20  
-**Evidence yang mendukung:** —  
-**Prioritas perbaikan:** —  
+**Skor:** — / 20
+**Evidence yang mendukung:** —
+**Prioritas perbaikan:** —
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 :::
-
