@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Draft"
+self_score: "16"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -18,8 +18,73 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 - Initial story dan sedikitnya dua alternative narratives.
 - Internal agreement dan bukti tindakan berikutnya.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+**Episode: Keterlambatan Progres Tugas Besar Visual Novel "MIRROR"**
+
+1. **Event:** Anggota tim tidak membalas pesan WhatsApp terkait update progress kinerja selama beberapa jam.
+2. **Fact (Pengamatan):** Pesan saya belum dijawab selama beberapa jam. Belum ada laporan progress yang dikirimkan.
+3. **Initial story:** Tim mengabaikan instruksi saya. Mereka menganggap saya bukan Project Manager tugas besar yang tegas. Proyek ini akan gagal rilis sesuai jadwal yang telah ditentukan.
+4. **Emotional/body signal:** Mesal 6/10 (menandai batas pribadi yang mungkin dilanggar), Cemas 8/10 (Mengantisipasi ketidakpastian), detak jantuk berdebat agak cepat, berulang kali mengecek ponsel(Hp).
+5. **Reactive character:** "Sang Hakim" (menyalahkan diri sendiri karena kurang tegas) dan "Sang Pencemas" (membersar-besarkan ancaman keterlambatan perilisian tugas).
+6. **Desired character:** "Perencana" yang berfokus pada langkah konkret dan tindak lanjut, serta "Pembelajar" yang mencari tahu fakta sebenarnya tanpa vonis.
+
+**Alternative Narratives:**
+
+1. *Kebutuhan Saat Ini:* Anggota tim mungkin sedang kelelahan secara fisik atau memiliki kesibukan mendesak lain di luar kewajibannya sebagai anggota tim, sehingga belum sempat membuka pesan instruksi pengerjaan tugas.
+2. *Kendala Teknis:* Anggota tim mungkin sedang mengalami kesulitan dalam memahami atau mengerjakan tugas yang diberikan dan sedanh berusaha memperbaikinya sebelum melapor.
+
+## Evidence
+
+::: {.evidence-block}
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Analisis komunikasi
+
+| Elemen                | Evidence dan analisis       |
+| --------------------- | --------------------------- |
+| Person & character    | Tejradi pergulatan antara "Sang Hakim" dan "Sang Pencemas" yang bereaksi secara otomatis, sebelum akhirnya dialihkan secara sadar kepada "Perencana. Karakter internal dikenal tanpa menjadikannya identitas permanen. |
+| Objective & state     | Bergeser dari *unhealthy state* (merasa kehilangan kendali dan lumpuh oleh kecemasan) menuju *healthy state* yang dipimpin oleh narasi pertumbuhan dan tujuan proyek. |
+| Repertoire & language | Menggunakan teknik "Keheningan & Jeda Fisik" untuk memperlambat pikiran dan memisahkan antara fakta obyektif (pesan belum dibalas) dan asumsi subyektif (saya diabaikan). |
+| Response & adaptation | Memanfaatkan milidetik antara peristiwa dan reaksi untuk "Memasuki Ruang Jeda". Respons diadaptasi dari dorongan awal untuk kesal menjadi tidandakan mencari data (bertanya.) |
+| Agreement/action      | *Internal agreement* menghasilkan pilihan untuk "Menunda Reaksi" hingga emosi mereda, dilanjut dengan "Mencari Data" melalui pesan klarifikasi asertif. |
+| Relationship outcome  | Mengubah arah percakapan intrapribadi menjadi tindakan eksternal yang nyata. Hubungan dengan anggota tim tetap terjada dengan baik tanpa adanya konflik yang tidak perlu akibat asumsi yang salah. |
+
+## Penggunaan AI
+
+Menggunakan AI (Cermin AI) sebagai pelatih netral untuk menguraikan benang kusut pemaknaan.
+
+- **Promt:** "Berikut kejadian dalam kerja kelompok tim saya dalam mengerjakan projek: Anggota tim proyek saya tidak membalas pesan instruksi pengerjaan tugas dari saya. Saya merasa kesal karena merasa diremehkan dan proyek belum ada progress. Pisahkan mana yang merupakan pengamatan objektif dan mana yang merupalan asumsi saya. Ajukan 3 pertanyaan reflektif, tapi jangan mendiagnosis saya."
+
+- **Output:** Bagian analisis yang memisahan fakta ("pesan belum dibalas") dan vonis ("diremehkan") saya gunakan sepenuhnya. Pertanyaan reflektif dari AI membantu mengaktifkan karakter "Pembelajar".
+
+- **Pembelajaran Manusia:** AI membantu memperlihatkan ilusi relaitas; namun, keputusan untuk menekan ego dan mengirim pesan asertif sepenuhnya membuduhkan kedewasaan batin manusia.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Ganti dengan kutipan atau ringkasan berbasis evidence.
+
+**Adaptation/replay:** Mengubah kalimat *follow-up* dari "Kenapa progres belum dilkirim?" menjadi pertanyaan klarifikasi yang berbasis empati ("Apakah ada kendala teknis?"). Respons anggota tim membuktikan bahwa asumsi awal saya keliru.
+
+**Next practice:** Saat menghadapi kebuntuan komunikasi, saya akan melatih metode TIADA (Target, Attention, Interest, Desire, Action) sebagai kompas navigasi sebelum memberikan respons eksternal.
+
+## Self-assessment
+
+| Dimensi                          | Skor 1–4 | Evidence singkat |
+| -------------------------------- | --------: | ---------------- |
+| Person & Character               |        3 | Berhasil mengenali peran Sang Pencemas dan mengaktifkan Perencanaan.               |
+| Objective & State                |        3 | Mengubah narasi dari reaktif menjadi narasi pertumbuhan.               |
+| Repertoire, Language & AI        |        4 | Berhasil menggunakan ruang jeda dan Cermin AI secara efektif.               |
+| Response & Adaptation            |        3 | Tindakan disesuikan setelah menyadari perbedaa fakta dan vonis pikiran (asumsi awal).              |
+| Agreement, Action & Relationship |        3 | Tindak spesifik diambil (pesan klarifikasi) dan menjaga profesionalitas.               |
+
+**Total:** 16 / 20
+
+::: {.assessor-only}
+
+### Assessment dosen
+
+**Skor:** — / 20
+**Evidence yang mendukung:** —
+**Prioritas perbaikan:** —
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
