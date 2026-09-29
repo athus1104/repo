@@ -13,15 +13,15 @@ title: "Lembar Kerja Bab 04"
 ## **A. Deskripsi Tugas**
 Salah satu rintangan komunikasi terbesar bagi seorang calon profesional adalah **"Kutukan Pengetahuan" (*Curse of Knowledge*)**—situasi di mana Anda sangat memahami sebuah konsep rumit, hingga Anda lupa rasanya menjadi orang yang belum mengetahuinya. Akibatnya, Anda cenderung menggunakan istilah teknis (jargon) kaku yang justru menjauhkan gagasan Anda dari pendengar.
 
-Dalam tugas ini, Anda ditantang untuk melatih **kelenturan register dan alih ragam bahasa (*code-switching*)**. Anda akan memilih satu konsep teknis dari bidang keilmuan atau program studi Anda, meruntuhkan jargon di dalamnya, lalu menerjemahkan makna inti konsep tersebut ke dalam **lima versi bahasa komunikasi** yang berbeda tanpa mengubah esensi kebenarannya.
+Dalam tugas ini, Anda ditantang untuk melatih **kelenturan register dan alih ragam bahasa (*code-switching*)** Anda akan memilih satu konsep teknis dari bidang keilmuan atau program studi Anda, meruntuhkan jargon di dalamnya, lalu menerjemahkan makna inti konsep tersebut ke dalam **lima versi bahasa komunikasi** yang berbeda tanpa mengubah esensi kebenarannya.
 
 ---
 
 ## **B. Identitas Mahasiswa**
-*   **Nama Lengkap:** ______________________________________
-*   **NIM:** ______________________________________
-*   **Program Studi:** ______________________________________
-*   **Tanggal Pengisian:** ______________________________________
+*   **Nama Lengkap:** Azka Atha'us Salam
+*   **NIM:** 18225011
+*   **Program Studi:** Sistem dan Teknologi Informasi
+*   **Tanggal Pengisian:** 23 September 2026
 
 ---
 
@@ -29,58 +29,64 @@ Dalam tugas ini, Anda ditantang untuk melatih **kelenturan register dan alih rag
 Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemukan "sumsum" atau kebenaran inti dari pesan Anda.
 
 1. **Konsep Teknis yang Dipilih:**
-   *(Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.)*
-   *Jawab:*
-   
+   *Jawab:* **Mekanisme Transmisi Paket Data Andal pada Protokol TCP/IP (*Reliable Packet Transmission*)**
+
 2. **Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):**
-   *(Tuliskan definisi asli lengkap dengan jargon teknisnya)*
    *Jawab:*
-   
+   > "TCP (Transmission Control Protocol) adalah protokol transport layer berorientasi koneksi (connection-oriented) yang memecah aliran data byte menjadi unit-unit paket diskret (segmen), mengelolanya melalui mekanisme three-way handshake, sequence numbering, acknowledgment (ACK), sliding window flow control, serta retransmission timeout untuk menjamin transmisi data end-to-end yang bebas galat, berurutan, dan tanpa duplikasi melintasi infrastruktur IP yang bersifat un-reliable best-effort."
+
 3. **Daftar Jargon Teknis & Artian Sederhananya:**
-   *Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.*
-   *   **Jargon 1:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 2:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 3:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
+   * **Jargon 1:** `Packet / Segment` $\rightarrow$ **Arti Sederhana:** Potongan-potongan kecil dari satu file besar (foto/video/teks) agar dapat dikirim lewat kabel internet bersama data lain tanpa membuat jaringan macet total.
+   * **Jargon 2:** `Acknowledgment (ACK)` $\rightarrow$ **Arti Sederhana:** Bukti tanda terima dua arah, semacam pesan konfirmasi bertuliskan: *"Potongan nomor 1 sudah sampai dengan selamat, silakan kirim potongan berikutnya."*
+   * **Jargon 3:** `Retransmission` $\rightarrow$ **Arti Sederhana:** Pengiriman ulang otomatis secara spesifik hanya pada bagian data yang sempat hilang, nyasar, atau rusak di jalan.
 
 4. **Kebenaran Inti (*Marrow of the Message*):**
-   *(Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia)*
-   *Jawab:*
-   
+   *Jawab:* **Memastikan data digital apa pun yang kita kirim lewat internet sampai ke penerima secara utuh, rapi, dan tidak ada yang hilang, meskipun jalur lalu lintas jaringan sedang padat atau mengalami gangguan.**
+
 ---
 
 ## **D. Tahap 2: Matriks Terjemahan Lima Bahasa**
 Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai bagi masing-masing dari lima audiens berikut.
 
 ### **1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)**
-*   **Karakteristik Pendengar:** Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
-*   **Strategi:** Gunakan **analogi fisik atau cerita** yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
-*   *Draf Terjemahan Anda:*
-   
-   
+- **Karakteristik Pendengar:** Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
+- **Strategi:** Gunakan **analogi fisik atau cerita** yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
+- *Draf Terjemahan:*
+  > "Bayangkan kamu membuat robot raksasa dari balok Lego, lalu ingin mengirimkannya ke rumah temanmu yang jauh. Kalau robotnya dikirim langsung utuh, kotaknya terlalu besar dan pasti tidak muat di tas kurir sepeda. 
+  > 
+  > Jadi, kamu membongkar robot itu menjadi ratusan balok kecil. Di setiap balok, kamu tempelkan stiker angka: nomor 1, nomor 2, sampai nomor 100, lalu kamu masukkan ke kantong pos. Temanmu punya buku petunjuk rakitnya. Begitu balok nomor 1 sampai di tangannya, dia meneleponmu: *'Balok nomor 1 sudah sampai!'* Kalau ternyata balok nomor 5 jatuh di jalan dan hilang, temanmu akan bilang: *'Tolong kirim balok nomor 5 lagi ya!'* Setelah semua 100 balok lengkap tanpa ada yang kurang, barulah robotnya dirakit kembali persis seperti semula di meja temanmu."
+
 ### **2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)**
-*   **Karakteristik Pendengar:** Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
-*   **Strategi:** Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
-*   *Draf Terjemahan Anda:*
-   
-   
+- **Karakteristik Pendengar:** Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
+- **Strategi:** Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
+- *Draf Terjemahan:*
+  > "Bro, lu pernah kepikiran nggak sih pas lagi ngirim video tugas ukuran 500 MB atau nonton streaming, gimana caranya file segede itu bisa nembus kabel optik tanpa bikin jalur internet langsung macet total?
+  > 
+  > Logikanya tuh mirip kayak lu mau ngirim motor vespa utuh tapi cuma punya bagasi motor bebek kecil. Ya terpaksa vespanya lu preteli dulu jadi baut, roda, sama bodi, terus dikasih stiker nomor urut. Pas nyampe di seberang, temen lu ngecek satu-satu. Tiap ada bagian nyampe, dia chat lu: *'oke baut aman'*. Kalau ada satu baut yang jatuh di jalan, sistem bakal langsung ngirim baut cadangannya aja tanpa lu harus ngulang kirim seluruh motor dari awal. Begitu semua komponen kumpul lengkap, langsung dirakit lagi jadi motor utuh di layar HP dia. Makanya video yang lu terima gambarnya nggak pernah cacat atau bolong-bolong."
+
 ### **3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)**
-*   **Karakteristik Pendengar:** Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.
-*   **Strategi:** Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
-*   *Draf Terjemahan Anda:*
-   
-   
+- **Karakteristik Pendengar:** Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.
+- **Strategi:** Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
+- *Draf Terjemahan:*
+  > "Pada transport layer, transmisi data end-to-end yang reliable diimplementasikan menggunakan protokol TCP di atas network layer IP yang sifatnya unreliable (*best-effort*). Sesi diawali melalui *three-way handshake* (SYN, SYN-ACK, ACK) untuk sinkronisasi ISN (Initial Sequence Number) dan alokasi buffer. 
+  > 
+  > Byte stream dipecah ke dalam unit MSS (Maximum Segment Size). Integritas urutan dijamin oleh sequence numbering 32-bit dan mekanisme cumulative ACK. Jika packet loss terdeteksi via RTO adaptif maupun *triple duplicate ACK* (fast retransmit), engine secara deterministik mengeksekusi retransmisi segmen yang hilang tanpa memicu overhead transfer ulang pada stream yang sudah terverifikasi di receiving window, sementara *congestion window* (cwnd) dikendalikan guna mencegah network congestion."
+
 ### **4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)**
-*   **Karakteristik Pendengar:** Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.
-*   **Strategi:** Tekankan **nilai tambah (*value proposition*)**, biaya (*cost*), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
-*   *Draf Terjemahan Anda:*
-   
-   
+- **Karakteristik Pendengar:** Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.
+- **Strategi:** Tekankan **nilai tambah (*value proposition*)**, biaya (*cost*), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
+- *Draf Terjemahan:*
+  > "Dalam operasional layanan digital kita, keandalan transmisi data adalah fondasi mitigasi risiko finansial dan retensi pelanggan. Bayangkan kerugian operasional dan biaya hukum bila satu invoice transaksi digital atau dokumen kontrak korup di tengah jalan akibat koneksi seluler pelanggan yang tidak stabil.
+  > 
+  > Protokol transmisi data berbasis paket andal ini menjamin efisiensi bandwidth cloud: perusahaan tidak perlu membuang biaya kuota server untuk mengirim ulang seluruh file berukuran besar ketika terjadi interferensi jaringan mikro; sistem hanya menambal paket yang gagal secara otomatis. Hasilnya adalah pengurangan beban komplain tim CS, pencegahan sengketa data transaksi, serta penjagaan SLA keandalan sistem pada standar enterprise."
+
 ### **5. Ragam Bahasa: Publik Umum (Masyarakat Luas)**
-*   **Karakteristik Pendengar:** Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.
-*   **Strategi:** Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.
-*   *Draf Terjemahan Anda:*
-   
-   
+- **Karakteristik Pendengar:** Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.
+- **Strategi:** Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.
+- *Draf Terjemahan:*
+  > "Di era digital saat ini, hampir seluruh pelayanan publik dan urusan penting masyarakat mengandalkan internet—mulai dari pendaftaran sekolah anak, pengurusan berkas bansos di kelurahan, hingga rekam medis di rumah sakit. 
+  > 
+  > Aturan pengiriman data di balik layar dirancang dengan prinsip kepastian dan keadilan: tidak boleh ada satu pun lembar dokumen penting warga yang hilang, tercecer, atau rusak hanya karena sinyal ponsel di daerahnya sedang lemah. Teknologi ini bekerja seperti layanan pos tercatat yang teliti memeriksa kelengkapan tiap halaman sebelum diserahkan, memastikan setiap warga menerima pelayanan publik secara utuh, aman, dan tanpa dirugikan oleh kendala jaringan."
 
 ---
 
@@ -89,29 +95,30 @@ Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai
 
 1. **Ragam bahasa mana yang paling sulit Anda buat? Mengapa?**
    *Jawab:*
-   
+   Ragam bahasa anak-anak (usia 10 tahun) dan publik umum. Kesulitannya terletak pada menahan godaan ego teknis—ada dorongan spontan untuk langsung memakai istilah seperti "server", "file", atau "koneksi data". Merumuskan padanan fisik konkret (seperti membongkar lego bernomor dan merakitnya kembali) menuntut empati kognitif yang intens untuk memosisikan diri kembali ke masa sebelum mengenal dunia informatika.
+
 2. **Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?**
    *Jawab:*
-   
+   Proses ini menyadarkan saya bahwa kehebatan seorang sarjana teknologi informasi bukan dinilai dari kemampuannya melontarkan istilah rumit yang membingungkan orang lain. Istilah teknis hanyalah alat kerja internal sesama ahli, sementara inti sejati dari teknologi informasi adalah memberikan pelayanan makna dan menghadirkan kepastian, rasa aman, serta keadilan bagi kehidupan masyarakat nyata.
+
 3. **Catatan Penggunaan AI Kopilot (Jika Ada):**
-   *Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.*
    *Jawab:*
-   
+   * **Instruksi/Prompt yang digunakan:** 
+     > *"Bertindaklah sebagai teman tongkrongan non-teknik yang kritis dan seorang anak usia 10 tahun. Nilai draf penjelasan tentang transmisi paket TCP berikut: bagian mana yang masih terdengar kaku seperti buku teks, membosankan, atau memakai analogi yang sulit kalian bayangkan?"*
+   * **Umpan balik berharga AI:** 
+     AI menunjukkan bahwa pada draf awal ragam sahabat, penjelasan saya langsung melompat dari mempreteli motor ke perakitan kembali tanpa menyebutkan fungsi konfirmasi (ACK). AI menyarankan menambahkan interaksi berupa chat konfirmasi 'oke baut aman' agar prinsip acknowledgment dua arah dan selective retransmission tetap utuh secara faktual tanpa merusak gaya bahasa santai.
 
 ---
 
 ## **F. Rubrik Evaluasi Mandiri & Penilaian Portofolio**
-Gunakan rubrik ini untuk menguji kualitas draf Anda sebelum dimasukkan ke dalam Portofolio Komunikasi akhir semester Anda.
 
 | Kriteria | Skor 4 (Sangat Baik) | Skor 3 (Baik) | Skor 2 (Cukup) | Skor 1 (Kurang) | Skor Mandiri |
 | :--- | :--- | :--- | :--- | :--- | :---: |
-| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | |
-| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | |
-| **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | |
-| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | |
-| **Total Skor (Maksimal 16)** | | | | | **___ / 16** |
-
----
+| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | **4** |
+| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | **3** |
+| **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | **4** |
+| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | **3** |
+| **Total Skor (Maksimal 16)** | | | | | **14 / 16** |
 
 ### **G. Contoh Pengisian Singkat (Sebagai Inspirasi)**
 *   **Konsep:** *Database Replication (Replikasi Basis Data)*
