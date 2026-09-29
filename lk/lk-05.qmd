@@ -7,113 +7,100 @@ title: "Lembar Kerja Bab 05"
 
 ---
 
-> **“Produk yang canggih belum tentu bernilai. Nilai lahir ketika pengetahuan, pekerjaan, dan layanan sungguh-sungguh menjawab persoalan manusia.”**
+> **“Produk yang canggih belum tentu bernilai. Nilai lahir ketika pengetahuan, pekerjaan, dan layanan sungguh-sungguh menjawab persoalan manusia.”**  
 > — *Komunikasi Interpersonal dan Publik*, Bab 5
 
 ---
 
 ## 📌 PENGANTAR: NILAI ADA DALAM PENGALAMAN PENERIMA
-Sebagai calon profesional, kesalahan terbesar yang sering kita lakukan adalah **terlalu cepat menyodorkan solusi atau membuat fitur sebelum benar-benar memahami masalahnya**. Permintaan awal dari rekan kerja atau pelanggan (seperti meminta dibuatkan "aplikasi baru", "pemberitahuan SMS", atau "sistem pencatatan otomatis") sering kali bukanlah solusi terbaik. Kebutuhan nyata mereka mungkin hanyalah akses informasi yang lebih cepat, kejelasan pembagian tugas, atau pengurangan waktu tunggu.
+Sebagai mahasiswa teknologi, kecenderungan terbesar saya di awal sering kali adalah terburu-buru merancang solusi teknis atau memikirkan fitur sebelum benar-benar membedah akar persoalannya. Permintaan permukaan dari mitra usaha (seperti ingin menerapkan digitalisasi kasir atau sistem inventaris otomatis) sering kali belum tentu menjadi titik temu masalah yang sebenarnya. Nilai nyata yang mereka butuhkan biasanya jauh lebih membumi: alur koordinasi yang tidak membebani staf, kejelasan serah terima barang, dan kepastian status operasional harian.
 
-Lembar kerja ini dirancang untuk menuntun Anda melakukan **Wawancara Penemuan Kebutuhan** yang berempati, mendengarkan secara mendalam sebelum menjelaskan, serta merumuskan **Pernyataan Masalah Pelanggan** (*Customer Problem Statement*) secara presisi.
+Lembar kerja ini saya gunakan sebagai catatan lapangan langsung untuk memandu jalannya **Wawancara Penemuan Kebutuhan**, melatih diri menahan dorongan pamer solusi, serta merumuskan **Pernyataan Masalah Pelanggan** (*Customer Problem Statement*) secara objektif bersama narasumber.
 
 ---
 
 ## 🛠️ FASE 1: PERSIAPAN & WAWANCARA (5 PERTANYAAN PENEMUAN)
-Sebelum melakukan wawancara selama 15–20 menit dengan narasumber (rekan kerja, mahasiswa, staf kampus, atau pemilik usaha mikro di sekitar Anda), pelajari **5 Pertanyaan Penemuan** berikut yang berfungsi sebagai kompas penelusuran Anda:
+Wawancara dilaksanakan selama kurang lebih 20 menit bersama narasumber pengelola usaha mikro. Saya memandu percakapan dengan berpegang pada lima poros pertanyaan penemuan berikut:
 
-1. **Apa yang sedang terjadi?** (Minta contoh peristiwa secara konkret, bukan penjelasan umum).
-2. **Mengapa hal itu menjadi masalah?** (Temukan dampak nyata, beban, kerugian, atau hambatan emosionalnya).
-3. **Siapa yang terdampak?** (Kenali pribadi dan peran spesifik mereka dalam sistem tersebut).
-4. **Keadaan yang lebih baik seperti apa?** (Rumuskan hasil akhir yang diharapkan, bukan berupa fitur atau teknologi tertentu).
-5. **Apa kendalanya?** (Periksa batas-batas nyata seperti waktu, biaya, kebijakan, kemampuan teknis, dan risiko).
-
-### 💡 Repertoar Pertanyaan Profesional Tambahan:
-Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan berikut secara proporsional:
-*   **Pertanyaan Tertutup (Memastikan fakta):** *"Apakah laporan ini dikirimkan setiap hari Senin?"*
-*   **Pertanyaan Klarifikasi (Memeriksa istilah):** *"Apa yang Ibu maksud dengan sistem yang 'siap digunakan'?"*
-*   **Pertanyaan Dampak (Memahami akibat):** *"Siapa saja yang akan terhambat jika data ini terlambat Anda terima?"*
-*   **Pertanyaan Masa Depan (Merumuskan hasil):** *"Jika masalah ini selesai, seperti apa alur kerja ideal yang Anda bayangkan?"*
-
-*⚠️ **Pemberitahuan Etis & Privasi:** Pastikan Anda mendapatkan persetujuan lisan/tertulis dari narasumber, jelaskan bahwa data sensitif mereka akan dilindungi/disamarkan, dan wawancara bersifat sukarela.*
+1. **Apa yang sedang terjadi?** (Menggali contoh peristiwa konkret di jam operasional sibuk, bukan sekadar teori kerja).
+2. **Mengapa hal itu menjadi masalah?** (Mencari dampak langsung terhadap waktu kerja, akurasi stok, dan beban mental pengelola).
+3. **Siapa yang terdampak?** (Memetakan peran spesifik yang mengalami kendala langsung dalam alur kerja harian).
+4. **Keadaan yang lebih baik seperti apa?** (Menangkap hasil kerja nyata yang diharapkan tanpa langsung menyebut perkakas teknologi).
+5. **Apa kendalanya?** (Mengidentifikasi batasan riil dari segi waktu kerja kurir, kebiasaan staf, dan fleksibilitas aturan di lapangan).
 
 ---
 
 ## 📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA
 
 ### 👥 1. Profil Narasumber (Disamarkan Demi Privasi)
-*   **Nama Samaran:** 
-*   **Peran/Pekerjaan Nyata:** 
-*   **Domain Hubungan:** Rekan Kerja / Pelanggan / Rekan Mahasiswa *(Coret yang tidak perlu)*
-*   **Konteks Lingkungan:** *(Misal: Kantin Kampus, Kelompok Proyek Kelas, Administrasi Jurusan)*
+- **Nama Samaran:** Pak Budi
+- **Peran/Pekerjaan Nyata:** Pemilik & Penanggung Jawab Operasional Gerai Depot Air Minum
+- **Domain Hubungan:** Pelanggan / Mitra Studi Lapangan *(Rekan kerja / rekan mahasiswa dicoret)*
+- **Konteks Lingkungan:** Gerai Depot Air Minum Isi Ulang
 
 ---
 
 ### 📓 2. Log Catatan Wawancara (Gunakan 5 Pertanyaan Penemuan)
 
 #### **Pertanyaan 1: Kejadian Nyata & Contoh Konkret**
-*   *Tuliskan pertanyaan Anda & contoh kasus nyata yang diceritakan narasumber:*
-    > 
+- *Tuliskan pertanyaan Anda & contoh kasus nyata yang diceritakan narasumber:*
+  > **Pertanyaan saya:**  
+  > *"Bisa diceritakan bagaimana dinamika pengantaran galon saat jam-jam puncak pesanan, dan bagaimana teman-teman di gerai mencatat barang yang keluar?"*  
+  >  
+  > **Jawaban narasumber:**  
+  > *"Ketika pesanan sedang menumpuk di siang hari, kurir biasanya langsung buru-buru memuat 10 sampai 15 galon ke motor untuk beberapa titik alamat sekaligus. Di atas kertas, SOP awal kami mewajibkan kurir mencatat nota keluar di meja kasir dan meminta verifikasi saat berangkat. Namun kenyataannya di lapangan alur itu sering dilewati karena kurir mengejar waktu agar pelanggan tidak menunggu lama. Akibatnya, kasir di gerai sering tidak memegang catatan pasti galon mana saja yang sedang jalan, siapa yang bawa, dan apakah sudah sampai ke tangan pembeli."*
 
 #### **Pertanyaan 2: Dampak Nyata & Beban Masalah**
-*   *Tuliskan dampak langsung dari masalah tersebut terhadap pekerjaan, waktu, atau perasaan mereka:*
-    > 
+- *Tuliskan dampak langsung dari masalah tersebut terhadap pekerjaan, waktu, atau perasaan mereka:*
+  > **Catatan saya:**  
+  > Dampak langsungnya muncul di akhir jam kerja saat proses tutup buku dan cek fisik galon. Sering terjadi selisih antara jumlah galon isi yang keluar dengan uang setoran yang masuk di kasir. Hal ini menimbulkan ketegangan kecil antara kasir dan kurir karena saling melempar tanggung jawab rekap. Dari sisi pemilik, timbul kekhawatiran operasional karena tidak ada visibilitas pasti apakah pesanan tertunda karena kurir macet di jalan atau memang ada pesanan yang terlewat.
 
 #### **Pertanyaan 3: Pemetaan Pihak Terdampak**
-*   *Siapa saja pribadi dan peran yang ikut terganggu oleh peristiwa ini?*
-    > 
+- *Siapa saja pribadi dan peran yang ikut terganggu oleh peristiwa ini?*
+  > 1. **Kurir Pengantaran (Delivery):** Pihak paling tertekan oleh waktu. Jika dibebani prosedur administrasi manual yang rumit di sela mengemudi, ritme kerja fisik mereka akan sangat terhambat.  
+  > 2. **Kasir / Staf Gerai:** Kesulitan mengontrol arus keluar-masuk galon kosong dan galon isi secara akurat saat pelanggan datang bertubi-tubi.  
+  > 3. **Pemilik Gerai:** Memikul risiko kerugian selisih modal galon, ketidakcocokan uang kas harian, serta risiko komplain dari pelanggan yang pesanannya lambat tiba.
 
 #### **Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir, Bukan Fitur)**
-*   *Bagaimana situasi ideal yang diharapkan? Ingat: Fokus pada KEMAMPUAN narasumber, bukan teknologi digitalnya.*
-    > 
+- *Bagaimana situasi ideal yang diharapkan? Ingat: Fokus pada KEMAMPUAN narasumber, bukan teknologi digitalnya.*
+  > **Catatan saya:**  
+  > Keadaan ideal yang diharapkan narasumber adalah kurir mampu memperbarui dan mengonfirmasi status penyelesaian kiriman dalam hitungan detik tanpa menyita waktu mobilitas mereka di jalan, sehingga kasir dan pemilik selalu mengetahui posisi persediaan galon secara transparan tanpa perlu rekap manual berulang kali di sore hari.
 
 #### **Pertanyaan 5: Batasan & Kendala Lapangan**
-*   *Apa saja kendala nyata dari segi waktu, biaya, kebijakan, atau kemampuan yang membatasi solusi mereka?*
-    > 
+- *Apa saja kendala nyata dari segi waktu, biaya, kebijakan, atau kemampuan yang membatasi solusi mereka?*
+  > **Catatan saya:**  
+  > 1. **Waktu dan mobilitas:** Kurir berada di atas kendaraan di tengah lalu lintas padat; tidak memungkinkan mengisi formulir panjang.  
+  > 2. **Kebiasaan staf:** Tim lapangan sudah terbiasa dengan interaksi verbal cepat, sehingga resistan terhadap tata cara yang kaku dan menyulitkan.  
+  > 3. **Biaya & infrastruktur:** Pemilik tidak menghendaki adanya pengeluaran modal tambahan untuk perangkat operasional khusus kurir.
 
 ---
 
 ## ✒️ FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN
 
-Gunakan formula terstruktur dari buku ajar berikut untuk menyusun masalah narasumber Anda. **Aturan utama: Pernyataan ini TIDAK BOLEH menyebutkan solusi teknis (seperti aplikasi, website, database, dll.)!**
-
-### 📐 Formula Standar:
-> **`[Pribadi/Peran]` mengalami `[keadaan yang dapat diamati]` ketika `[konteks]`, sehingga `[dampak]`. Ia membutuhkan `[hasil/kemampuan]`, dengan mempertimbangkan `[kendala]`.**
-
-#### 💡 Contoh Model Buku (Kasus Kantin Kampus):
-*Mahasiswa pengguna kantin mengalami antrean yang tidak dapat diperkirakan pada jam pergantian kuliah sehingga terlambat masuk kelas. Mereka membutuhkan cara mengetahui waktu tunggu dan mengambil pesanan lebih cepat, dengan mempertimbangkan kemampuan kasir, biaya pemilik, serta akses pengguna tanpa telepon pintar.*
-
----
-
 ### ✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
 *Susun draf pertama Anda setelah selesai mewawancarai narasumber:*
-> 
+> *Pemilik gerai depot air minum mengalami kendala pencatatan penjualan dan stok galon karena belum menggunakan sistem digitalisasi kasir terpadu, sehingga membutuhkan aplikasi sistem informasi untuk mengotomasi alur jual beli dan inventaris gerai.*  
+> *(Refleksi draf 1: Rumusan ini masih sangat keliru karena masih mengunci solusi berupa "aplikasi kasir digital" dan tidak memotret hambatan kurir di lapangan).*
 
 ### 🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)
 *Bacakan draf pertama Anda kepada narasumber, minta masukan mereka ("Apakah rumusan ini menggambarkan situasi Anda?"), dan tulis perbaikannya di bawah ini berdasarkan koreksi narasumber:*
-> 
+> **Pemilik dan staf operasional gerai** mengalami **ketidaksesuaian pencatatan status pengantaran dan stok fisik dengan SOP** ketika **volume pesanan delivery galon sedang tinggi**, sehingga **terjadi selisih rekapitulasi harian serta ketidakpastian status penyelesaian pesanan pelanggan**.  
+> Mereka membutuhkan **mekanisme pelacakan alur pengantaran galon yang ringkas dan mudah dipatuhi kurir**, dengan mempertimbangkan **keterbatasan waktu kurir saat di jalan serta fleksibilitas penyesuaian SOP lokal gerai.**
 
 ---
 
 ## 🎯 FASE 4: REFLEKSI INTRAPRIBADI
-Tuliskan refleksi singkat Anda (100–150 kata) mengenai proses wawancara ini:
-1. *Seberapa cepat Anda menahan ego untuk tidak langsung menawarkan solusi teknologi di awal percakapan?*
-2. *Asumsi awal apa yang Anda miliki yang ternyata terbukti keliru atau berubah setelah mendengarkan penjelasan narasumber secara utuh?*
-3. *Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?*
 
-> **Jurnal Refleksi:**
-> 
+> **Jurnal Refleksi:**  
+> Pada menit-menit awal wawancara, godaan terbesar saya adalah segera membuka obrolan mengenai arsitektur sistem digital yang sudah saya bayangkan sebelumnya. Namun, saya sengaja mengerem dorongan tersebut dan memfokuskan diri murni pada alur 5 Pertanyaan Penemuan. Dari proses mendengar ini, asumsi saya terbantahkan secara telak: gerai ini tidak sedang mencari aplikasi canggih yang serba terintegrasi, melainkan membutuhkan cara koordinasi yang luwes dan tidak memberatkan kurir. Jika saya memaksakan rancangan sistem kasir yang rumit, hal tersebut justru akan menjadi beban baru bagi operasional harian mereka. Langkah nyata yang segera saya ambil untuk menjaga kredibilitas dan kepercayaan narasumber adalah membatalkan ide mendemonstrasikan sistem yang terlalu kompleks, dan berfokus memetakan alur pelacakan delivery galon yang paling sederhana untuk kemudian saya diskusikan kembali dengan beliau.
 
 ---
 
 ## 📊 FASE 5: RUBRIK PENILAIAN MANDIRI (SELF-ASSESSMENT)
-Evaluasi lembar kerja Anda secara jujur menggunakan kriteria rubrik Bab 5 berikut sebelum dikumpulkan ke dalam portofolio Anda.
 
 | Kriteria Evaluasi | ⭐ Belum Tampak (Skor < 60) | ⭐⭐ Mulai Berkembang (Skor 60-79) | ⭐⭐⭐ Cakap / Unggul (Skor 80-100) | Skor Mandiri |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kualitas Mendengarkan** | Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah. | Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak. | Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh. | |
-| **Ketepatan Rumusan Masalah** | Rumusan masalah masih berupa usulan solusi teknis (misal: "Memerlukan aplikasi database"). | Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber. | Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi. | |
-| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | |
-| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | |
-
-*Simpan lembar kerja ini, catatan log wawancara, dan rekaman (jika ada izin) sebagai **Artefak Portofolio Bab 5** Anda.*
+| :--- | :--- | :--- | :--- | :---: |
+| **Kualitas Mendengarkan** | Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah. | Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak. | Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh. | **90** |
+| **Ketepatan Rumusan Masalah** | Rumusan masalah masih berupa usulan solusi teknis (misal: "Memerlukan aplikasi database"). | Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber. | Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi. | **92** |
+| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | **95** |
+| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | **88** |
