@@ -2,7 +2,7 @@
 title: "Intra-Self Communication Journal"
 week: 2
 status: "Siap dinilai"
-self_score: "16"
+self_score: "19"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -20,64 +20,70 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 **Episode: Keterlambatan Progres Tugas Besar Visual Novel "MIRROR"**
 
-1. **Event:** Anggota tim tidak membalas pesan WhatsApp terkait update progress kinerja selama beberapa jam.
-2. **Fact (Pengamatan):** Pesan saya belum dijawab selama beberapa jam. Belum ada laporan progress yang dikirimkan.
-3. **Initial story:** Tim mengabaikan instruksi saya. Mereka menganggap saya bukan Project Manager tugas besar yang tegas. Proyek ini akan gagal rilis sesuai jadwal yang telah ditentukan.
-4. **Emotional/body signal:** Mesal 6/10 (menandai batas pribadi yang mungkin dilanggar), Cemas 8/10 (Mengantisipasi ketidakpastian), detak jantuk berdebat agak cepat, berulang kali mengecek ponsel(Hp).
-5. **Reactive character:** "Sang Hakim" (menyalahkan diri sendiri karena kurang tegas) dan "Sang Pencemas" (membersar-besarkan ancaman keterlambatan perilisian tugas).
-6. **Desired character:** "Perencana" yang berfokus pada langkah konkret dan tindak lanjut, serta "Pembelajar" yang mencari tahu fakta sebenarnya tanpa vonis.
+1. **Event:** Saya membagi *jon description* kepada anggota kelompok di grup WhatsApp, namun mereka hanya membaca pesan tersebut (*read*) dan tidak membalas apa pun selama beberapa jam.
+2. **Fact (Pengamatan):** Pesan saya berstatus 'dibaca' tetapi belum ada balasan selaam beberapa jam. Saat ditanya mengenai *update* progres pengerjaan beberapa hari kemudian, progresnya minim dan anggota kelompok secara eksplisit terlihat kebigungan dengan tugasnya.
+3. **Initial story:** Anggota kelompok tidak peduli dengan apa yang saya sampaikan. Mereka mengabaikan instruksi saya, meremehkan proyek tugas besar ini, dan menganggap saya bukan Project Manager yang tegas.
+4. **Emotional/body signal:** Kesal 7/10 (meraa tidak dihargai), cemas 7/10 (takut jadwal proyek terbengkalai), gelisah dan bolak-balik mengecek grup WhatsApp.
+5. **Reactive character:** "Sang Hakim" (langsung menganggap bahwa anggota kelompok malas, tidak peduli, dan tidak profesioal).
+6. **Desired character:** "Perencana" (fokus pada penyelesaian proyek dan pemecahan masalah) serta "Pembelajar" (mencari tahu akar masalah secara objektif tanpa menghakimi).
 
 **Alternative Narratives:**
-
-1. *Kebutuhan Saat Ini:* Anggota tim mungkin sedang kelelahan secara fisik atau memiliki kesibukan mendesak lain di luar kewajibannya sebagai anggota tim, sehingga belum sempat membuka pesan instruksi pengerjaan tugas.
-2. *Kendala Teknis:* Anggota tim mungkin sedang mengalami kesulitan dalam memahami atau mengerjakan tugas yang diberikan dan sedanh berusaha memperbaikinya sebelum melapor.
+1. *Kebutuhan Saat Ini:* Anggota kelompok mungkin sedang sibuk dengan jadwal kuliah lain, sehingga butuh waktu mencerna tugas yang diberikan dan baru sempat merespons "Ok" beberapa jam kemudian.
+2. *Kendala Teknis:* Anggota kelompok mungkin sebenarnya bingung dengan *job description*  yang saya berikan sejak awal, namun merasa sungkan atau tidak tahu bagaimana cara menanyakannya kepada saya.
 
 ## Evidence
 
 ::: {.evidence-block}
-Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+**Catatan Percakapan WhatsApp (Rekonstruksi Kejadian):**
+
+* **Pesan Awal saya:** (Membagukan daftar *job desc* untuk masing-masing anggota kelompok) "Tolong dicek ya tugasnya masing-masing." -> *(Hanya di-read selama beberapa jam.)*
+
+* **Respons Internal (Aplikasi Ruang Jeda):** Menyadari emosi mulai naik dan "Sang Hakim" mulai mendominasi pikiran, saya secara sadar menunda membalas. Saya menahan diri untuk tidak mengirim spam atau marah di grup.
+
+* **Tindak Lanjut Eksternal:** Selang beberapa jam, beberapa orang membalas "Ok". Namun karena saat *follow-up* progresnya lambat, saya mengubah pendekatan komunikasi. Daripada menekan, saya bertanya secara asertif: *"Apakah ada bagian dari job desc yang masih membingungkan dan perlu gua perjelas lagi?"*
+
 :::
 
 ## Analisis komunikasi
 
 | Elemen                | Evidence dan analisis       |
 | --------------------- | --------------------------- |
-| Person & character    | Tejradi pergulatan antara "Sang Hakim" dan "Sang Pencemas" yang bereaksi secara otomatis, sebelum akhirnya dialihkan secara sadar kepada "Perencana. Karakter internal dikenal tanpa menjadikannya identitas permanen. |
-| Objective & state     | Bergeser dari *unhealthy state* (merasa kehilangan kendali dan lumpuh oleh kecemasan) menuju *healthy state* yang dipimpin oleh narasi pertumbuhan dan tujuan proyek. |
-| Repertoire & language | Menggunakan teknik "Keheningan & Jeda Fisik" untuk memperlambat pikiran dan memisahkan antara fakta obyektif (pesan belum dibalas) dan asumsi subyektif (saya diabaikan). |
-| Response & adaptation | Memanfaatkan milidetik antara peristiwa dan reaksi untuk "Memasuki Ruang Jeda". Respons diadaptasi dari dorongan awal untuk kesal menjadi tidandakan mencari data (bertanya.) |
-| Agreement/action      | *Internal agreement* menghasilkan pilihan untuk "Menunda Reaksi" hingga emosi mereda, dilanjut dengan "Mencari Data" melalui pesan klarifikasi asertif. |
-| Relationship outcome  | Mengubah arah percakapan intrapribadi menjadi tindakan eksternal yang nyata. Hubungan dengan anggota tim tetap terjada dengan baik tanpa adanya konflik yang tidak perlu akibat asumsi yang salah. |
+| Person & character    | Terjadi transisi kesadaran yang sangat jelas. "Sang Hakim" bereaksi otomatis berprasangka buruk terhadap kelompok, namun saya berhasil menjedanya dan secara proaktid  memanggil "Pembelajar" untuk menganalisis situasi lebih dalam. |
+| Objective & state     | Berhasil melakukan *shifting* total dari *unhealthy state* (merasa diremehkan dan reaktif) menuju *healthy stae* (fokus pada solusi manajerial dan komunikasi empatik). |
+| Repertoire & language | Pemisahan yang tajam antara fakta objektif ("pesan di-read", "anggota kelompok bingung") dengan asumsi ilusif yang diciptakan ego ("meraka tidak peduli"). |
+| Response & adaptation | Alih-alih merespons dengan ego kepemimpinan (memarahi anggota kelompk), saya beradaptasi dengan mengevaluasi gaya komunikasi dan efektivitas instruksi saya sendiri sebagai PM. |
+| Agreement/action      | *Internal agreement* menghasilkan kesimpulan matang: masalahnya ada pada kejelasan instruksi, bukan kepedulian anggota kelompk. Tindak korektif langsung diambil dengan menawarkan bantuan klarifikasi. |
+| Relationship outcome  | Menghindari konflik internal tim yang berpotensi merusak *mood* pengerjaan proyek. Hubungan profesional terjaga, dan anggota kelompok menjadi lebih terbuka menyampaikan kesulitannya. |
 
 ## Penggunaan AI
 
 Menggunakan AI (Cermin AI) sebagai pelatih netral untuk menguraikan benang kusut pemaknaan.
 
-- **Promt:** "Berikut kejadian dalam kerja kelompok tim saya dalam mengerjakan projek: Anggota tim proyek saya tidak membalas pesan instruksi pengerjaan tugas dari saya. Saya merasa kesal karena merasa diremehkan dan proyek belum ada progress. Pisahkan mana yang merupakan pengamatan objektif dan mana yang merupalan asumsi saya. Ajukan 3 pertanyaan reflektif, tapi jangan mendiagnosis saya."
+- **Promt:** "Anggota kelompok proyek visual novel saya hanya membaca pesan pembagian tugas selama beberapa jam, dan saat mengerjakan mereka terlihat bingung. Awalnya saya kesal dan ngira mereka ngga peduli. Bantu saya pisahkan mana fakta dan mana asumsi saya secara objektif."
 
-- **Output:** Bagian analisis yang memisahan fakta ("pesan belum dibalas") dan vonis ("diremehkan") saya gunakan sepenuhnya. Pertanyaan reflektif dari AI membantu mengaktifkan karakter "Pembelajar".
+- **Output:** AI memetakan dengan sangat presisi bahwa "hanya me-read" dan "terlihat bingung" adalah ***fakta** yang bisa diukur, sedangkan "tidak peduli" dan "meremehkan" adalah murni **asumsi/vonis**.
 
-- **Pembelajaran Manusia:** AI membantu memperlihatkan ilusi relaitas; namun, keputusan untuk menekan ego dan mengirim pesan asertif sepenuhnya membuduhkan kedewasaan batin manusia.
+- **Pembelajaran Manusia:** AI bertindak seperti cermin rasional yang sangat efektif, namun keberanian untuk menekan ego, mengakui kelemahan sendiri (*"Ternyata saya yang kurang ngasih penduan*), dan meminta maaf kepada anggota kelompok adalah hasil dari kedewasaan emosional saya sepenuhnya.
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Ganti dengan kutipan atau ringkasan berbasis evidence.
+**Feedback yang diterima:** Setelah pendekatan komunikasi diubah menjadi lebih empatik, anggota kelompok berani menyampaikan bahwa mereka memang kebingungan dengan detail teknis *job desc* tersebut. Asumsi awal saya terbukti 100% keliru. Kendala murni pada kurangnya kejelasan pendaun dari saya.
 
-**Adaptation/replay:** Mengubah kalimat *follow-up* dari "Kenapa progres belum dilkirim?" menjadi pertanyaan klarifikasi yang berbasis empati ("Apakah ada kendala teknis?"). Respons anggota tim membuktikan bahwa asumsi awal saya keliru.
+**Adaptation/replay:** Mengubah narasi dari *"Mengapa anggota kelompok saya tidak peduli?"* menjadi pertanyaan yang memberdayakan: *"Bagaiman cara saya menyusun instruksi yang lebih komprehensif agar anggota kelompk mudah bekerja?*
 
-**Next practice:** Saat menghadapi kebuntuan komunikasi, saya akan melatih metode TIADA (Target, Attention, Interest, Desire, Action) sebagai kompas navigasi sebelum memberikan respons eksternal.
+**Next practice:** Ke dapannya, saya mendelegasikan tugas (*tasking*), saya tidak akan sekadar melempar daftar *job desc* di grup. Saya akan menerapkan metode **TIADA** (Target, Attention, Interest, Desire, Action) dan mengadakan *briefing* singkat (bisa via **call group*) untuk memastikan pemahaman bersama sebelum eksekusi dimulai.
 
 ## Self-assessment
 
 | Dimensi                          | Skor 1–4 | Evidence singkat |
 | -------------------------------- | --------: | ---------------- |
-| Person & Character               |        3 | Berhasil mengenali peran Sang Pencemas dan mengaktifkan Perencanaan.               |
-| Objective & State                |        3 | Mengubah narasi dari reaktif menjadi narasi pertumbuhan.               |
-| Repertoire, Language & AI        |        4 | Berhasil menggunakan ruang jeda dan Cermin AI secara efektif.               |
-| Response & Adaptation            |        3 | Tindakan disesuikan setelah menyadari perbedaa fakta dan vonis pikiran (asumsi awal).              |
-| Agreement, Action & Relationship |        3 | Tindak spesifik diambil (pesan klarifikasi) dan menjaga profesionalitas.               |
+| Person & Character               |        4 | Sangat sadar menekan "Sang Hakim" dan mengaktifkan "Pembelajar" sebagai emosi mengambil alih.               |
+| Objective & State                |        4 | Bergeser total dari *state* reaktif (kesal) menjadi proaktif (solusi manajerial).               |
+| Repertoire, Language & AI        |        4 | AI dieksekusi sempurna untuk membedah bias kognitif; pemisahan fakta-asumsi sangat jernih.               |
+| Response & Adaptation            |        4 | Mampu merevisi ego kepemimpinan dan secara nyata mengevaluasi kekurangan diri sendiri.            |
+| Agreement, Action & Relationship |        3 | Tindak korektif langsung diambil (komunikasi asertif), komunilasi anggota kelompok membaik signifikan.               |
 
-**Total:** 16 / 20
+**Total:** 19 / 20
 
 ::: {.assessor-only}
 
