@@ -116,6 +116,7 @@ Memberi waktu sejenak hingga emosi mereda, lalu mengirimkan pesan pribadi yang a
 
 *Siapa orang tepercaya (teman, keluarga, dosen) yang dapat Anda mintai umpan balik jujur atau bantuan untuk mendampingi Anda menjalankan pilihan ini? \[13, 158\]* \* **Nama rekan/pendamping:** 
 
+Rekan sesama anggota tim pengembang proyek "MIRROR" (selain anggota yang sedang terkendala), untuk mendiskusikan penggunaan sketsa kasar dan memastikan langkah mitigasi ini disetujui bersama.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ------------------------------------------------------------------------
