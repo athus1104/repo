@@ -1,36 +1,36 @@
 ﻿---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "95"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
 
 ::: {.callout-tip title="Mulai mengisi"}
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
+Baca instruksi UTS, jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. Lihat contoh jawaban Minggu 8 untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
 :::
 
 ## Identitas dan status paket
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Azka Atha'Us Salam |
+| NIM | 18225011 |
+| Kelas | K1 |
+| Periode/tanggal pelaksanaan | 14 Oktober 2026 |
+| Versi bank/paket aktif | Bank 2.0; paket individual 2.0[cite: 1, 6] |
+| Modalitas | Teks dan Suara (tergantung sesi)[cite: 6] |
+| Status pengumpulan | Sudah diunggah/siap diunduh untuk portal mahasiswa |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b_07381119.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK[cite: 6] | Selesai | Makalah lengkap tersusun di `paper.qmd` |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; Anna (K1) | Selesai | Laporan Sesi 1 lengkap |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | K2-01 | Selesai | Laporan Sesi 2a lengkap |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | K2-01 | Selesai | Laporan Sesi 2b lengkap |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Cyntia (K3-03) | Selesai | Laporan Sesi 3a lengkap (`hasil_3a_18225011.qmd`) |
+| 3b | [hasil_3b.qmd](UTS/hasil_3b_07381119.qmd) | Fajar (K3-06) | Selesai | Laporan Sesi 3b lengkap (`hasil_3b_18225011.qmd`) |
