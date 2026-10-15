@@ -1,5 +1,5 @@
 ---
-title: "Laporan UTS KIPP 2026 — Versi 2.0"
+title: "Laporan UTS KIPP 2026"
 subtitle: "Sesi 2b — Kasus 2"
 author: "Azka Atha'us Salam"
 lang: id
@@ -57,9 +57,9 @@ execute:
 # C) Skrip Percakapan
 
 ### AI001 - Fasilitator - Tahap A (Identifikasi)
-Halo Azka! Sesuai instruksi pada PENUGASAN.md, saat ini kita akan menjalankan simulasi untuk Sesi 2b - Kasus 2. Kita akan memulai dengan Tahap A: Identifikasi[cite: 6].
+Halo Azka! Sesuai instruksi pada PENUGASAN.md, saat ini kita akan menjalankan simulasi untuk Sesi 2b - Kasus 2. Kita akan memulai dengan Tahap A: Identifikasi.
 Berdasarkan data penugasan:
-Nama Mahasiswa: Azka Atha'Us Salam, NIM: 18225011, Sesi / Kasus: Sesi 2b / Kasus 2 (Target: Ali / K2-01)[cite: 6]
+Nama Mahasiswa: Azka Atha'Us Salam, NIM: 18225011, Sesi / Kasus: Sesi 2b / Kasus 2 (Target: Ali / K2-01)  
 Untuk melengkapi data identifikasi sebelum kita masuk ke brief kasus, mohon konfirmasi dan jawab pertanyaan berikut:
 1. Apa kelas Anda?
 2. Tanggal berapa pelaksanaan sesi asesmen ini?
@@ -181,7 +181,7 @@ Tindak lanjut:
 
 ### AI008 - Fasilitator - Tahap G (Konfirmasi)
 Refleksi dan analisis yang sangat luar biasa, Azka! Anda telah menunjukkan kepekaan yang tinggi terhadap kebutuhan relasional dan psikologis Ali.
-Kita sekarang telah sampai pada Tahap G: Konfirmasi. Sebelum saya menyusun kode QMD final untuk hasil_2b_18225011.qmd, mohon periksa ringkasan data akhir... Apakah seluruh ringkasan di atas sudah akurat dan sesuai?[cite: 6]
+Kita sekarang telah sampai pada Tahap G: Konfirmasi. Sebelum saya menyusun kode QMD final untuk hasil_2b_18225011.qmd, mohon periksa ringkasan data akhir... Apakah seluruh ringkasan di atas sudah akurat dan sesuai?  
 
 ### U008 - Mahasiswa - Tahap G (Konfirmasi)
 sudah broww
