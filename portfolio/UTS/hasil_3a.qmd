@@ -1,5 +1,5 @@
 ---
-title: "Laporan UTS KIPP 2026 — Versi 2.0"
+title: "Laporan UTS KIPP 2026"
 subtitle: "Sesi 3a — Kasus 3"
 author: "Azka Atha'us Salam"
 lang: id
@@ -20,7 +20,7 @@ execute:
 | Kelas dan tanggal | K1, 14 Oktober 2026 |
 | Nomor/judul kasus | Sesi 3a; Kasus 3 |
 | Nama dan ID target | Cyntia (K3-03) |
-| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md[cite: 6] |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
 | Modalitas | Suara/Teks |
 | Kasus nyata/fiktif | Nyata |
 | Kelengkapan transkrip | Lengkap |
@@ -29,8 +29,8 @@ execute:
 
 ## Kasus dan tujuan tindakan
 
-**Brief:** Seorang customer (Cyntia) menangani pertanyaan pelanggan yang berulang dan pesanan yang tercecer dengan tenaga kerja terbatas, serta belum yakin apakah memerlukan solusi AI atau TI[cite: 8].
-**Tujuan Tindakan:** Menggali kebutuhan operasional Cyntia, menawarkan solusi TI/AI yang sesuai dan sederhana, serta menyepakati keputusan uji coba (*pilot project*) konkret tanpa memaksa atau menjanjikan hal berlebihan[cite: 8].
+**Brief:** Seorang customer (Cyntia) menangani pertanyaan pelanggan yang berulang dan pesanan yang tercecer dengan tenaga kerja terbatas, serta belum yakin apakah memerlukan solusi AI atau TI.
+**Tujuan Tindakan:** Menggali kebutuhan operasional Cyntia, menawarkan solusi TI/AI yang sesuai dan sederhana, serta menyepakati keputusan uji coba (*pilot project*) konkret tanpa memaksa atau menjanjikan hal berlebihan.
 **Indikator Keberhasilan:** Cyntia memahami solusi sederhana yang ditawarkan, menyetujui uji coba selama satu minggu, dan menunjuk penanggung jawab operasional yang jelas.
 
 ## Profil awal komunikator
@@ -57,8 +57,8 @@ execute:
 # C) Skrip Percakapan
 
 ### AI001 - Fasilitator - Tahap A (Identifikasi)
-Halo Azka! Selamat datang di Sesi 3a. Berdasarkan PENUGASAN.md, saat ini kita akan beralih ke Kasus 3 dengan target/komunikan baru, yaitu Cyntia (ID K3-03). Pada kasus ini, peran Anda adalah sebagai pihak yang menawarkan solusi TI/AI kepada customer yang menghadapi masalah operasional[cite: 8].
-Mari kita mulai dengan Tahap A: Identifikasi[cite: 8].
+Halo Azka! Selamat datang di Sesi 3a. Berdasarkan PENUGASAN.md, saat ini kita akan beralih ke Kasus 3 dengan target/komunikan baru, yaitu Cyntia (ID K3-03). Pada kasus ini, peran Anda adalah sebagai pihak yang menawarkan solusi TI/AI kepada customer yang menghadapi masalah operasional.
+Mari kita mulai dengan Tahap A: Identifikasi.
 Berdasarkan dokumen penugasan:
 Nama Mahasiswa: Azka Atha'Us Salam, NIM: 18225011, Sesi / Kasus: Sesi 3a / Kasus 3 (Target: Cyntia / K3-03)
 Untuk melengkapi identifikasi awal, mohon konfirmasi tiga hal berikut:
@@ -73,9 +73,9 @@ Suara
 
 ### AI002 - Fasilitator - Tahap B (Kasus dan Tujuan)
 Terima kasih atas konfirmasinya, Azka. Data kelas K1, tanggal 14 Oktober 2026, dan modalitas suara telah saya catat. Identifikasi selesai.
-Kita sekarang masuk ke Tahap B: Kasus dan Tujuan[cite: 8].
-Berikut adalah brief untuk Kasus 3: "Seorang customer (Cyntia) menangani pertanyaan pelanggan yang berulang dan pesanan yang tercecer, dengan tenaga kerja yang terbatas. Ia belum yakin apakah memerlukan solusi AI atau TI. Tugas Anda sebagai komunikator adalah menggali kebutuhan operasionalnya, menawarkan solusi TI/AI yang sesuai, dan mengarahkan pada keputusan atau uji coba konkret tanpa langsung memaksa membeli atau menjanjikan hal berlebihan."[cite: 8]
-Untuk menyusun rencana sebelum simulasi dimulai, mohon jawab pertanyaan berikut[cite: 8]:
+Kita sekarang masuk ke Tahap B: Kasus dan Tujuan.
+Berikut adalah brief untuk Kasus 3: "Seorang customer (Cyntia) menangani pertanyaan pelanggan yang berulang dan pesanan yang tercecer, dengan tenaga kerja yang terbatas. Ia belum yakin apakah memerlukan solusi AI atau TI. Tugas Anda sebagai komunikator adalah menggali kebutuhan operasionalnya, menawarkan solusi TI/AI yang sesuai, dan mengarahkan pada keputusan atau uji coba konkret tanpa langsung memaksa membeli atau menjanjikan hal berlebihan."
+Untuk menyusun rencana sebelum simulasi dimulai, mohon jawab pertanyaan berikut:
 1. Tujuan: Apa tujuan utama komunikasi Anda dengan Cyntia dalam situasi ini?
 2. Profil Diri (SWOT & ASK): Sebagai komunikator yang menawarkan solusi TI/AI, bagaimana Anda menilai SWOT dan status Attitude, Knowledge, serta Skill Anda?
 3. Dugaan Status Target (TAIDA Cyntia): Sebelum profil Cyntia diungkap secara penuh, apa dugaan awal Anda mengenai status TAIDA Cyntia dan hambatannya?
@@ -94,7 +94,7 @@ Target: Menemukan solusi pengelolaan pesanan & pelanggan. Attention: Sadar ada m
 
 ### AI003 - Fasilitator - Tahap C (Simulasi Awal)
 Analisis dan rencana awal yang Anda susun sudah sangat luar biasa, Azka! Anda telah memetakan SWOT diri dengan realistis, memahami status ASK Anda, serta menyusun rencana pembuka yang tidak langsung memaksa produk, melainkan menggali akar masalah operasional yang dialami Cyntia.
-Kita sekarang masuk ke Tahap C: Simulasi Awal[cite: 8].
+Kita sekarang masuk ke Tahap C: Simulasi Awal.
 Anda mengirimkan pesan pembuka kepada Cyntia. Berikut adalah tanggapan pembuka dari Cyntia (K3-03) sesuai dengan karakternya:
 "Menarik! Tapi minggu ini banyak hal yang harus saya kerjakan."
 Tugas Anda: Bagaimana Anda akan merespons Cyntia? Tuliskan balasan persis yang akan Anda sampaikan untuk menghargai kesibukannya, mengakui antusiasmenya, dan mulai menggali masalah operasional utamanya tanpa membebaninya.
@@ -186,7 +186,7 @@ Lesson Learned: Solusi terbaik adalah yang paling sesuai kapasitas pengguna, buk
 Tindak lanjut: Menyederhanakan format Google Sheets, memberi panduan singkat 10-15 menit untuk Rian, mengevaluasi hasil uji coba setelah 1 minggu, dan menjaga konsistensi operasional.
 
 ### AI009 - Fasilitator - Tahap G (Konfirmasi)
-Refleksi dan analisis yang sangat komprehensif, Azka! Kita telah sampai pada Tahap G: Konfirmasi. Apakah seluruh ringkasan di atas sudah akurat dan sesuai?[cite: 8]
+Refleksi dan analisis yang sangat komprehensif, Azka! Kita telah sampai pada Tahap G: Konfirmasi. Apakah seluruh ringkasan di atas sudah akurat dan sesuai?
 
 ### U009 - Mahasiswa - Tahap G (Konfirmasi)
 sudah blayyy langsung ajah
@@ -253,4 +253,4 @@ sudah blayyy langsung ajah
 
 *Batas Bukti: Transkrip simulasi ini mencerminkan skenario interaktif profesional. Implementasi nyata di lapangan memerlukan pendampingan teknis berkelanjutan.*
 
-**Konfirmasi akhir:** Diterima dan disetujui di U009. Berkas laporan siap digunakan[cite: 8].
+**Konfirmasi akhir:** Diterima dan disetujui di U009. Berkas laporan siap digunakan.
