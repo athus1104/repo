@@ -2,7 +2,7 @@
 title: "Multi-Person Negotiation Challenge"
 week: 11
 status: "Siap dinilai"
-self_score: "19/20"
+self_score: "19"
 assessor_score: "—"
 description: "Stakeholder map, multi-state TAIDA, interests, options, trade-offs, negotiation, dan agreement dalam koordinasi kelompok mahasiswa."
 categories: [Negotiation, Stakeholder]

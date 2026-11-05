@@ -2,7 +2,7 @@
 title: "Action & Agreement Challenge"
 week: 10
 status: "Siap dinilai"
-self_score: "18/20"
+self_score: "18"
 assessor_score: "—"
 description: "Barrier, authority, negotiation, agreement, dan action evidence dalam penerapan solusi koordinasi kelompok mahasiswa."
 categories: [TAIDA, Action]
