@@ -2,7 +2,7 @@
 title: "Desire-State Communication"
 week: 9
 status: "Siap dinilai"
-self_score: "19/20"
+self_score: "19"
 assessor_score: "—"
 description: "Current state, desired state, value, evidence, dan risk dalam meningkatkan efektivitas koordinasi kelompok mahasiswa."
 categories: [TAIDA, Desire]
