@@ -1,7 +1,7 @@
 ---
 title: "Problem–Solution Interest Pitch"
 week: 7
-status: "Siap dinilai"
+status: "Perlu revisi"
 self_score: "19"
 assessor_score: "—"
 description: "Problem–solution fit dan pengembangan ketertarikan terhadap solusi koordinasi kelompok mahasiswa."
@@ -438,6 +438,40 @@ Perilaku spesifik yang akan saya latih adalah mengajukan pertanyaan terbuka sepe
 > "Menurut kamu, hal apa yang paling perlu diperhatikan supaya cara ini benar-benar bisa membantu koordinasi kelompok?"
 
 Melalui pertanyaan tersebut, saya berharap dapat memahami prioritas target terlebih dahulu sehingga demonstrasi dan penjelasan solusi lebih relevan.
+
+## Revisi atas Feedback
+
+::: {.callout-warning title="Feedback tiket 1054 — Perlu revisi (total rubrik 19)"}
+Map person, objective, dan state sudah baik dan adaptation terhadap hidden concern sudah terlihat, tetapi agreement dan action masih berupa rencana simulasi yang belum diverifikasi sebagai hasil nyata.
+:::
+
+::: {.callout-important title="Status revisi"}
+Bagian di atas tetap saya pertahankan sebagai **rancangan dan skenario role-play**. Saya tidak mengubah skenario tersebut menjadi klaim hasil nyata. Revisi minggu ini berfokus pada pengumpulan bukti pelaksanaan yang dapat diverifikasi. Selama bukti belum terkumpul, status halaman ini tetap **Perlu revisi**.
+:::
+
+### Perubahan yang Saya Lakukan
+
+| Bagian yang dikritik | Perubahan | Status |
+|---|---|---|
+| Agreement uji coba satu minggu hanya ada di skenario | Saya menyampaikan prototype V2 langsung ke ketua kelompok dan meminta konfirmasi tertulis lewat chat | Belum dilaksanakan |
+| Tidak ada artefak kesepakatan yang disetujui kedua pihak | Menambahkan bagian *Evidence Pelaksanaan Nyata* yang menautkan screenshot konfirmasi dan pesan yang disematkan di grup | Menunggu bukti |
+| Respons target hanya berasal dari role-play | Respons asli ketua akan dicatat apa adanya, termasuk jika ia menolak atau meminta perubahan | Menunggu bukti |
+
+### Pesan untuk Memperoleh Konfirmasi Target
+
+Pesan berikut saya kirim apa adanya kepada target. Apa pun jawabannya, termasuk penolakan atau permintaan perubahan, akan saya catat sebagai evidence.
+
+> "Halo, aku udah bikin contoh rangkuman info kelompok (jadwal, pembagian tugas, deadline + waktu update terakhir). Aku yang nyusun, kamu cukup cek isinya sebelum di-pin. Kalau kamu setuju, kita coba seminggu dulu terus evaluasi bareng. Boleh balas 'setuju dicoba seminggu' atau kasih masukan kalau ada yang perlu diubah?"
+
+### Evidence Pelaksanaan Nyata
+
+| Artefak | Status | File |
+|---|---|---|
+| Screenshot chat konfirmasi ketua (setuju / menolak / minta revisi) | Belum dikumpulkan | `evidence/w07-konfirmasi-ketua.png` |
+| Screenshot pesan rangkuman yang disematkan di grup | Belum dikumpulkan | `evidence/w07-pinned-message.png` |
+| Catatan hasil evaluasi setelah satu minggu | Belum dikumpulkan | `evidence/w07-evaluasi.png` |
+
+Setelah bukti terkumpul, file disimpan di folder `portfolio/images/evidence/` dan ditampilkan di bagian ini. Respons asli target akan menggantikan respons role-play sebagai dasar penilaian agreement dan action.
 
 ## Self-Assessment
 

@@ -1,7 +1,7 @@
 ---
 title: "Multi-Person Negotiation Challenge"
 week: 11
-status: "Siap dinilai"
+status: "Perlu revisi"
 self_score: "19"
 assessor_score: "—"
 description: "Stakeholder map, multi-state TAIDA, interests, options, trade-offs, negotiation, dan agreement dalam koordinasi kelompok mahasiswa."
@@ -548,6 +548,40 @@ Saya juga akan menggunakan pertanyaan:
 > "Sebelum kita menentukan keputusan, apakah masih ada kebutuhan atau keberatan dari salah satu pihak yang belum terakomodasi?"
 
 Dengan cara tersebut, saya berharap proses negosiasi dapat menjadi lebih inklusif dan menghasilkan kesepakatan yang lebih kuat.
+
+## Revisi atas Feedback
+
+::: {.callout-warning title="Feedback tiket 1057 — Perlu revisi (total rubrik 15)"}
+Pemetaan stakeholder, analisis kepentingan, dan adaptasi solusi menjadi Prototype V4 sudah mendalam, tetapi negosiasi masih berupa skenario role-play yang belum dikonfirmasi pihak eksternal.
+:::
+
+::: {.callout-important title="Status revisi"}
+Bagian di atas tetap saya pertahankan sebagai **rancangan dan skenario role-play**. Saya tidak mengubah skenario tersebut menjadi klaim hasil nyata. Revisi minggu ini berfokus pada pengumpulan bukti pelaksanaan yang dapat diverifikasi. Selama bukti belum terkumpul, status halaman ini tetap **Perlu revisi**.
+:::
+
+### Perubahan yang Saya Lakukan
+
+| Bagian yang dikritik | Perubahan | Status |
+|---|---|---|
+| Negosiasi multi-pihak hanya berupa skenario | Saya memfasilitasi diskusi nyata dengan ketua, penanggung jawab tugas, dan perwakilan anggota (atau teman sekelas sebagai pihak eksternal) | Belum dilaksanakan |
+| Dissent belum divalidasi oleh pihak yang menyampaikannya | Catatan dissent dikirim ke pihak terkait untuk dikonfirmasi apakah rumusannya sudah sesuai | Menunggu bukti |
+| Decision record belum disetujui stakeholder | Decision record dibagikan ke grup dan konfirmasi tiap pihak didokumentasikan | Menunggu bukti |
+
+### Pesan untuk Memperoleh Konfirmasi Target
+
+Pesan berikut saya kirim apa adanya kepada target. Apa pun jawabannya, termasuk penolakan atau permintaan perubahan, akan saya catat sebagai evidence.
+
+> "Dari diskusi tadi, aku catat kesepakatannya: kita uji format hybrid seminggu, daftar tugas tetap di dokumen, dan deadline resmi tetap ngacu ke pengumuman dosen. Aku juga catat keberatan: kemudahan nyari deadline harus dievaluasi. Bener begitu rumusannya? Kalau ada yang kurang pas, koreksi aja ya."
+
+### Evidence Pelaksanaan Nyata
+
+| Artefak | Status | File |
+|---|---|---|
+| Transkrip atau rekaman diskusi multi-pihak (dengan izin) | Belum dikumpulkan | `evidence/w11-transkrip-diskusi.png` |
+| Screenshot konfirmasi decision record dari tiap pihak | Belum dikumpulkan | `evidence/w11-konfirmasi-keputusan.png` |
+| Screenshot konfirmasi rumusan dissent dari perwakilan anggota | Belum dikumpulkan | `evidence/w11-konfirmasi-dissent.png` |
+
+Setelah bukti terkumpul, file disimpan di folder `portfolio/images/evidence/` dan ditampilkan di bagian ini. Respons asli target akan menggantikan respons role-play sebagai dasar penilaian agreement dan action.
 
 ## Self-Assessment
 

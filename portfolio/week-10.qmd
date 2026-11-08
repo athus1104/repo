@@ -1,7 +1,7 @@
 ---
 title: "Action & Agreement Challenge"
 week: 10
-status: "Siap dinilai"
+status: "Perlu revisi"
 self_score: "18"
 assessor_score: "—"
 description: "Barrier, authority, negotiation, agreement, dan action evidence dalam penerapan solusi koordinasi kelompok mahasiswa."
@@ -447,6 +447,40 @@ Saya akan membiasakan diri mengajukan pertanyaan seperti:
 > "Jadi, untuk memastikan kita punya pemahaman yang sama, saya menyiapkan formatnya paling lambat Jumat, lalu kita periksa bersama pada Senin. Apakah pembagian tugas dan waktunya sudah sesuai?"
 
 Dengan cara tersebut, saya dapat memastikan bahwa pihak yang terlibat memiliki pemahaman yang sama mengenai tindakan, tanggung jawab, dan deadline.
+
+## Revisi atas Feedback
+
+::: {.callout-warning title="Feedback tiket 1056 — Perlu revisi (total rubrik 16)"}
+Pemetaan hambatan, kewenangan, dan negosiasi adaptif sudah baik, tetapi bukti agreement dan tindakan aktual masih berupa rancangan tanpa artefak verifikasi eksternal.
+:::
+
+::: {.callout-important title="Status revisi"}
+Bagian di atas tetap saya pertahankan sebagai **rancangan dan skenario role-play**. Saya tidak mengubah skenario tersebut menjadi klaim hasil nyata. Revisi minggu ini berfokus pada pengumpulan bukti pelaksanaan yang dapat diverifikasi. Selama bukti belum terkumpul, status halaman ini tetap **Perlu revisi**.
+:::
+
+### Perubahan yang Saya Lakukan
+
+| Bagian yang dikritik | Perubahan | Status |
+|---|---|---|
+| Action plan belum terbukti terlaksana | Setiap baris action plan diberi kolom status dan tautan bukti, diisi setelah tindakan benar-benar terjadi | Belum dilaksanakan |
+| Belum ada hasil review bersama ketua | Hasil pemeriksaan prototype oleh ketua didokumentasikan lewat chat atau catatan review bertanggal | Menunggu bukti |
+| Deadline belum dikonfirmasi terpenuhi | Tanggal penyelesaian aktual dicatat di samping tanggal rencana, termasuk jika ada keterlambatan | Menunggu bukti |
+
+### Pesan untuk Memperoleh Konfirmasi Target
+
+Pesan berikut saya kirim apa adanya kepada target. Apa pun jawabannya, termasuk penolakan atau permintaan perubahan, akan saya catat sebagai evidence.
+
+> "Prototype pusat info kelompok udah aku kirim ya. Bisa tolong cek apakah tiap bagian (jadwal, tugas, deadline) udah nunjuk ke sumber yang bener? Balas aja 'sesuai' atau tulis bagian yang perlu diperbaiki. Abis itu kita putusin bareng: lanjut uji coba seminggu, perbaiki dulu, atau tunda."
+
+### Evidence Pelaksanaan Nyata
+
+| Artefak | Status | File |
+|---|---|---|
+| Screenshot prototype pusat informasi kelompok | Belum dikumpulkan | `evidence/w10-prototype.png` |
+| Screenshot catatan review dari ketua | Belum dikumpulkan | `evidence/w10-review-ketua.png` |
+| Screenshot keputusan lanjut / perbaiki / tunda di grup | Belum dikumpulkan | `evidence/w10-keputusan.png` |
+
+Setelah bukti terkumpul, file disimpan di folder `portfolio/images/evidence/` dan ditampilkan di bagian ini. Respons asli target akan menggantikan respons role-play sebagai dasar penilaian agreement dan action.
 
 ## Self-Assessment
 

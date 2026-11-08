@@ -1,7 +1,7 @@
 ---
 title: "Desire-State Communication"
 week: 9
-status: "Siap dinilai"
+status: "Perlu revisi"
 self_score: "19"
 assessor_score: "—"
 description: "Current state, desired state, value, evidence, dan risk dalam meningkatkan efektivitas koordinasi kelompok mahasiswa."
@@ -463,6 +463,40 @@ Perilaku spesifik yang akan saya latih adalah mengajukan pertanyaan:
 > "Kalau saya simpulkan, yang paling penting buat kamu adalah informasi mudah ditemukan tanpa menambah pekerjaan koordinasi. Apakah itu sudah sesuai dengan yang kamu maksud?"
 
 Pertanyaan ini membantu saya memastikan bahwa pemahaman saya terhadap kebutuhan target sudah tepat sebelum mengusulkan tindakan berikutnya.
+
+## Revisi atas Feedback
+
+::: {.callout-warning title="Feedback tiket 1055 — Perlu revisi (total rubrik 18)"}
+Pemetaan desired state, adaptation terhadap hidden concern, dan penggunaan AI sudah kuat, tetapi hasil percakapan dan kesepakatan belum dapat diverifikasi karena hanya berupa skenario role-play.
+:::
+
+::: {.callout-important title="Status revisi"}
+Bagian di atas tetap saya pertahankan sebagai **rancangan dan skenario role-play**. Saya tidak mengubah skenario tersebut menjadi klaim hasil nyata. Revisi minggu ini berfokus pada pengumpulan bukti pelaksanaan yang dapat diverifikasi. Selama bukti belum terkumpul, status halaman ini tetap **Perlu revisi**.
+:::
+
+### Perubahan yang Saya Lakukan
+
+| Bagian yang dikritik | Perubahan | Status |
+|---|---|---|
+| Desired state hanya diasumsikan dalam skenario | Saya mengajukan pertanyaan desired state langsung ke ketua kelompok dan mencatat jawabannya kata per kata | Belum dilaksanakan |
+| Tidak ada transkrip percakapan nyata | Percakapan direkam dengan izin ketua, atau dilakukan lewat chat agar transkripnya utuh | Menunggu bukti |
+| Perubahan V2 ke V3 belum dikonfirmasi target | Prototype V3 ditunjukkan ke ketua dan responsnya dicatat sebagai dasar revisi berikutnya | Menunggu bukti |
+
+### Pesan untuk Memperoleh Konfirmasi Target
+
+Pesan berikut saya kirim apa adanya kepada target. Apa pun jawabannya, termasuk penolakan atau permintaan perubahan, akan saya catat sebagai evidence.
+
+> "Aku mau mastiin dulu sebelum lanjut: kalau koordinasi kelompok kita nanti lebih enak, perubahan apa yang paling kamu harapkan? Info lebih gampang dicari, pertanyaan berulang berkurang, atau pembagian tanggung jawab yang lebih jelas? Terus menurutmu versi baru ini (pesan pin yang cuma nunjuk ke sumber utama) lebih cocok atau belum?"
+
+### Evidence Pelaksanaan Nyata
+
+| Artefak | Status | File |
+|---|---|---|
+| Transkrip atau screenshot percakapan desired state dengan ketua | Belum dikumpulkan | `evidence/w09-transkrip-desired-state.png` |
+| Screenshot respons ketua terhadap Prototype V3 | Belum dikumpulkan | `evidence/w09-respons-v3.png` |
+| Catatan perubahan solusi berdasarkan respons asli | Belum dikumpulkan | `Ditulis langsung di halaman ini setelah percakapan` |
+
+Setelah bukti terkumpul, file disimpan di folder `portfolio/images/evidence/` dan ditampilkan di bagian ini. Respons asli target akan menggantikan respons role-play sebagai dasar penilaian agreement dan action.
 
 ## Self-Assessment
 
