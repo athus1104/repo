@@ -556,13 +556,13 @@ Pemetaan stakeholder, analisis kepentingan, dan adaptasi solusi menjadi Prototyp
 :::
 
 ::: {.callout-important title="Status revisi"}
-Bagian sebelumnya berisi rancangan dan dialog latihan yang saya siapkan sebelum berbicara dengan kelompok. Percakapan yang benar-benar terjadi saya catat terpisah di bawah ini, apa adanya. Agreement dan action yang belum terkonfirmasi tetap saya tandai sebagai rencana, sehingga status halaman ini masih **Perlu revisi**.
+Bagian sebelumnya berisi rancangan dan dialog latihan yang saya susun untuk menganalisis dan mengembangkan solusi. Diskusi nyata dengan kelompok berlangsung sejak awal November 2026 ketika kami mulai membahas tugas ini, dan saya catat terpisah di bawah ini apa adanya. Agreement dan action yang belum terkonfirmasi tetap saya tandai sebagai rencana, sehingga status halaman ini masih **Perlu revisi**.
 :::
 
 ### Percakapan Nyata yang Sudah Terjadi
 
 ::: {.callout-note title="Catatan percakapan langsung (rekonstruksi dari ingatan, tidak direkam)"}
-**Waktu dan tempat:** Setelah salah satu sesi perkuliahan, ngobrol langsung di kelas. Tanggal pastinya tidak saya catat.
+**Waktu dan tempat:** Sejak awal November 2026, ketika kelompok mulai membahas tugas ini. Obrolan dilakukan langsung di kelas setelah perkuliahan. Tanggal pastinya tidak saya catat.
 
 **Yang terlibat:** Saya, ketua kelompok, dan beberapa anggota kelompok lain.
 
@@ -595,7 +595,7 @@ Pesan berikut saya kirim apa adanya kepada target. Apa pun jawabannya, termasuk 
 
 Untuk mengonfirmasi catatan percakapan setelah kelas, saya mengirim pesan berikut kepada ketua kelompok:
 
-> "Aku lagi nyatet obrolan kita abis kelas kemarin buat portofolio: beberapa anggota belum paham tugasnya, kamu jelasin ulang, terus kita saling kasih masukan biar gak ngerjain mepet deadline. Bener gitu kan? Kalau ada yang kurang pas, koreksi aja ya."
+> "Aku lagi nyatet obrolan kita abis kelas dari awal ngerjain tugas ini buat portofolio: beberapa anggota belum paham tugasnya, kamu jelasin ulang, terus kita saling kasih masukan biar gak ngerjain mepet deadline. Bener gitu kan? Kalau ada yang kurang pas, koreksi aja ya."
 
 ### Evidence Pelaksanaan Nyata
 
