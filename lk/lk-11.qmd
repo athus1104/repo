@@ -9,37 +9,33 @@ title: "Lembar Kerja Bab 11"
 ---
 
 ## 👥 Identitas Simulasi & Kelompok
-* **Nama Projek/Skenario Kasus:** [Contoh: Modernisasi Sistem Layanan Kantin Kampus]
-* **Nama Kelompok / Kelas:** ________________________ / __________
+* **Nama Projek/Skenario Kasus:** Pusat Informasi Kelompok: Merapikan Koordinasi Kelompok Tugas di Grup WhatsApp
+* **Nama Kelompok / Kelas:** Kelompok simulasi deliberasi / KIPP-2
 * **Anggota Kelompok & Peran yang Dimainkan:**
-  1. ________________________ (Peran: Fasilitator / Moderator Meja Bundar)
-  2. ________________________ (Peran: Pemangku Kepentingan A - ________________________)
-  3. ________________________ (Peran: Pemangku Kepentingan B - ________________________)
-  4. ________________________ (Peran: Pemangku Kepentingan C - ________________________)
-  5. ________________________ (Peran: Pemangku Kepentingan D - ________________________)
-  6. ________________________ (Peran: Pemangku Kepentingan E - ________________________)
+  1. Azka Atha'us Salam (Peran: Fasilitator / Moderator Meja Bundar, sekaligus Pemangku Kepentingan C - Penyusun prototipe)
+  2. Rekan simulasi 1 (Peran: Pemangku Kepentingan A - Perwakilan anggota kelompok / pengguna informasi)
+  3. Rekan simulasi 2 (Peran: Pemangku Kepentingan B - Penanggung jawab pembagian tugas)
+  4. Rekan simulasi 3 (Peran: Pemangku Kepentingan D - Ketua kelompok)
+  5. Rekan simulasi 4 (Peran: Pemangku Kepentingan E - Anggota yang jarang aktif di grup)
 
 ---
 
 ## 🎯 Esensi Pembelajaran Bab 11
-Di dunia kerja nyata, keputusan besar tidak pernah terjadi dalam ruang hampa satu-lawan-satu. Anda akan berhadapan dengan **jaring pemangku kepentingan (stakeholders)** yang memiliki posisi, batasan wewenang, kendala, dan nilai batin yang saling bertabrakan. 
-
-Lembar kerja ini dirancang untuk melatih kemampuan Anda dalam memimpin **Deliberasi**—sebuah proses komunikasi kolaboratif untuk mencari tindakan bersama secara jujur, bertanggung jawab, dan bermartabat, alih-alih melakukan debat kusir demi mencari siapa yang menang atau kalah.
+Sampai Bab 10, saya hanya bernegosiasi dengan satu orang, yaitu ketua kelompok. Di Bab 11 persoalannya berubah: begitu solusi akan diuji, ada beberapa pihak dengan kebutuhan yang saling bertabrakan. Penanggung jawab tugas tidak mau ada data yang disalin. Perwakilan anggota justru ingin semua informasi langsung terlihat di WhatsApp. Lembar kerja ini saya gunakan untuk memimpin **deliberasi**, yaitu mencari tindakan bersama yang bisa diterima semua pihak, bukan menentukan siapa yang menang.
 
 ---
 
 ## 📌 BAGIAN 1: Memetakan Jaring Pemangku Kepentingan (Stakeholder Mapping)
-*Petunjuk: Sebelum memulai simulasi negosiasi lisan, setiap anggota kelompok yang memegang peran wajib mengisi kolom barisnya secara mandiri berdasarkan skenario peran masing-masing. Fasilitator bertugas memandu pengisian agar data awal terpetakan secara objektif.*
 
 ### **Matriks Peta Pemangku Kepentingan**
 
 | Pemangku Kepentingan | 🛑 POSISI (Tuntutan Kaku/Solusi Sepihak yang Disuarakan) | 🔑 KEPENTINGAN (Kebutuhan Batin, Rasa Aman, atau Harapan Nyata) | ⚠️ KENDALA & BATASAN (Wewenang, Anggaran, Waktu, Aturan) | 💎 NILAI (Mengapa masa depan ini berharga bagi perannya?) | 📈 Keadaan TAIDA Awal (T / A / I / D / A)* |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **A: Pengguna** *(Contoh: Mahasiswa)* | "Semua pemesanan harus digital, cepat, dan ada diskon promo lewat aplikasi." | Kecepatan antrean pada jam makan siang; kepastian mendapatkan porsi makanan. | Uang saku harian terbatas; kuota internet tidak stabil di area kantin bawah. | Kepastian waktu agar tidak terlambat masuk kuliah berikutnya. | **Interest (I)** *(Sangat tertarik solusi digital tapi belum berkomitmen)* |
-| **B: Pelaksana** *(Contoh: Pemilik Warung)* | "Tetap pakai sistem tunai biasa. Jangan pakai sistem baru yang bikin pusing." | Beban kerja harian tetap terkendali; tidak kehilangan pelanggan karena gaptek. | Harus memasak sekaligus melayani kasir; modal harian harus cair tunai hari itu juga. | Ketenangan kerja dan kelangsungan pendapatan harian warung. | **Attention (A)** *(Sadar antrean adalah masalah, tapi skeptis pada solusi digital)* |
-| **C: Tim Teknis** *(Contoh: Developer Sistem)* | "Aplikasi harus rilis penuh minggu depan dengan database terpusat." | Sistem berjalan andal, tanpa bug, dan arsitektur data aman terkendali. | Waktu pengembangan sangat mepet; keterbatasan server lokal kampus. | Reputasi profesional dan keandalan sistem yang mereka rancang. | **Desire (D)** *(Sangat ingin sistem segera dipakai penuh)* |
-| **D: Pengelola** *(Contoh: Manajemen Kampus)* | "Sistem baru wajib memotong biaya sewa kantin 5% sebagai retribusi." | Laporan keuangan kantin transparan dan akuntabel; ketertiban area kampus terjaga. | Terikat aturan birokrasi kampus; harus menjaga stabilitas sosial kantin. | Transparansi tata kelola dan reputasi kampus yang modern. | **Attention (A)** *(Sadar perlunya efisiensi, tapi hati-hati pada gejolak sosial)* |
-| **E: Pihak Terdampak** *(Contoh: Kasir Manual)* | "Batalkan sistem otomatisasi pemesanan." | Keamanan pekerjaan; rasa dihargai oleh lingkungan tempat bekerja selama bertahun-tahun. | Kurang memiliki keahlian teknis komputerisasi; usia produktif terbatas. | Jaminan mata pencaharian untuk menghidupi keluarga. | **Target (T)** *(Defensif; merasa terancam dan tidak dilibatkan sejak awal)* |
+| **A: Pengguna** *(Perwakilan anggota)* | "Semua informasi penting, termasuk deadline, harus langsung tertulis di pesan WhatsApp. Jangan cuma tautan." | Bisa mengecek informasi dengan cepat, terutama saat sedang di luar atau hanya punya waktu sebentar. | Tidak berwenang menentukan mekanisme; waktunya terbagi dengan tugas mata kuliah lain. | Kepastian bahwa ia tidak tertinggal informasi dan tidak terlihat "tidak membaca grup". | **Attention (A)** *(Tahu masalahnya, tetapi belum yakin solusi akan memudahkannya)* |
+| **B: Pelaksana** *(Penanggung jawab pembagian tugas)* | "Daftar tugas cukup dikelola di dokumen. Saya tidak mau menyalinnya ke WhatsApp." | Tidak ada pekerjaan ganda; daftar tugas tetap satu versi dan akurat. | Mengelola dokumen tugas di sela pekerjaannya sendiri; tidak punya wewenang atas jadwal diskusi. | Pekerjaannya dihargai dan tidak sia-sia karena ada versi tandingan yang berbeda. | **Interest (I)** *(Melihat manfaat, tetapi khawatir terhadap beban kerjanya)* |
+| **C: Tim Teknis** *(Saya sebagai penyusun prototipe)* | "Kita perlu segera menguji pusat informasi kelompok." | Solusi diuji secara nyata dan tanggung jawab perawatannya jelas. | Tidak berwenang memaksa anggota memakai mekanisme baru; waktu persiapan hanya sampai 10 November 2026. | Kontribusi nyata bagi kelompok dan kesempatan belajar menguji solusi dengan jujur. | **Action (A)** *(Sudah menyiapkan prototipe V3 dan rencana uji coba)* |
+| **D: Pengelola** *(Ketua kelompok)* | "Boleh dicoba, asal tidak rumit dan isinya dicek dulu." | Koordinasi efisien, pertanyaan berulang berkurang, informasi yang beredar tidak salah. | Waktu terbatas; tidak berwenang atas deadline resmi dari dosen. | Kelompok bergerak tertib dan kredibilitasnya sebagai ketua terjaga. | **Desire (D)** *(Menginginkan perbaikan, masih menimbang pelaksanaan)* |
+| **E: Pihak Terdampak** *(Anggota yang jarang aktif di grup)* | "Saya ikut saja, yang penting dikabari kalau ada yang penting." | Tidak ketinggalan informasi tanpa harus membaca seluruh chat; tidak disindir karena jarang membalas. | Jarang membuka grup karena notifikasi terlalu banyak; enggan berpendapat di forum. | Merasa tetap menjadi bagian kelompok meski tidak selalu aktif. | **Target (T)** *(Belum terlibat dan cenderung diam)* |
 
 *\*Keterangan Keadaan TAIDA Awal:*
 * **Target (T):** Belum tahu atau menolak berkomunikasi.
@@ -51,77 +47,71 @@ Lembar kerja ini dirancang untuk melatih kemampuan Anda dalam memimpin **Deliber
 ---
 
 ## 📌 BAGIAN 2: Proses Deliberasi — Menggali Kepentingan Tersembunyi (The Hidden Agenda)
-*Petunjuk: Fasilitator memimpin diskusi meja bundar selama 10 menit pertama. Fasilitator dilarang langsung menawarkan solusi kompromi. Fokus utama adalah menggunakan teknik mendengarkan tiga tingkat (Kata, Makna, Pribadi) untuk membedakan Posisi dari Kepentingan yang sebenarnya.*
 
-### **Daftar Pertanyaan Penyelidikan Fasilitator (Saran Repertoar):**
-1. *"Jika posisi atau tuntutan Anda [X] tidak sepenuhnya terpenuhi hari ini, perubahan buruk apa yang paling Anda khawatirkan akan terjadi pada pekerjaan/kehidupan Anda?"*
-2. *"Di balik tuntutan Anda untuk mempertahankan/mengubah sistem ini, apa kebutuhan terdalam yang ingin Anda amankan?"*
-3. *"Adakah kekhawatiran mengenai risiko, biaya, atau usaha ekstra yang belum sempat Anda suarakan kepada kami?"*
+### **Pertanyaan Penyelidikan yang Saya Gunakan sebagai Fasilitator:**
+1. *"Kalau deadline tidak ditulis langsung di pesan, hal buruk apa yang paling kamu khawatirkan?"* (kepada A)
+2. *"Di balik permintaan agar daftar tugas tidak disalin, apa yang sebenarnya ingin kamu jaga?"* (kepada B)
+3. *"Adakah kekhawatiran soal beban atau risiko yang belum sempat disampaikan?"* (kepada semua, dengan jeda agar E juga sempat bicara)
 
-### **Catatan Temuan Kepentingan Tersembunyi (Diisi oleh Fasilitator):**
-* **Temuan pada Pemilik Warung:** Keberatan mereka bukan pada digitalisasinya, melainkan ketakutan jika uang hasil penjualan ditahan sistem selama berminggu-minggu, padahal mereka butuh modal tunai setiap pagi untuk membeli bahan masakan segar di pasar.
-* **Temuan pada Kasir Manual:** Ketakutan batin terdalam mereka adalah di-PHK (kehilangan pekerjaan) akibat digantikan oleh mesin otomatis, bukan karena mereka menolak teknologi.
-* **Temuan lainnya:** __________________________________________________________________________________________
-  __________________________________________________________________________________________
+### **Catatan Temuan Kepentingan Tersembunyi:**
+* **Temuan pada Perwakilan Anggota (A):** Keberatannya bukan pada tautan itu sendiri, melainkan pada **jumlah langkah** untuk menemukan deadline. Ia biasanya hanya ingin "cek cepat"; jika harus membuka beberapa tempat, ia khawatir anggota malah malas mengecek dan kembali bertanya di grup.
+* **Temuan pada Penanggung Jawab Tugas (B):** Ketakutan terdalamnya adalah **disalahkan** jika ada perbedaan versi antara dokumen dan pesan WhatsApp, padahal yang lupa memperbarui bisa saja orang lain.
+* **Temuan lainnya:** Anggota yang jarang aktif (E) baru berbicara setelah ditanya langsung. Ia mengaku jarang membuka grup karena terlalu banyak notifikasi, dan **satu pesan tersemat justru membantunya** karena ia tidak perlu membaca seluruh chat. Ketua (D) ternyata lebih khawatir pada **informasi yang salah** daripada pada informasi yang kurang lengkap.
 
 ---
 
 ## 📌 BAGIAN 3: Menciptakan Pilihan Solusi Tanpa Menilai (Brainstorming Sandbox)
-*Petunjuk: Di tahap ini, seluruh anggota kelompok dilarang keras mengkritik, memotong, atau menilai kelayakan ide yang masuk. Tuliskan sebanyak mungkin alternatif solusi kreatif yang mampu mempertemukan kepentingan-kepentingan yang tampaknya bertolak belakang di atas.*
 
 ### **Kotak Pasir Ide (Ideation Sandbox)**
-* **Ide Alternatif 1 (Menjembatani Pemilik Warung & Mahasiswa):** 
-  Sistem pembayaran digital dikonfigurasi agar melakukan transfer otomatis (*auto-settlement*) langsung ke rekening pemilik warung setiap pukul 17.00 WIB, sehingga mereka tetap memiliki modal tunai untuk pasar esok pagi.
-* **Ide Alternatif 2 (Menjembatani Kasir Manual & Otomatisasi):**
-  Kasir manual tidak diberhentikan, melainkan dialihfungsikan menjadi *Duta Layanan Kantin* yang bertugas memandu mahasiswa senior atau tamu yang belum terbiasa menggunakan aplikasi mandiri, sekaligus mengelola titik bantuan fisik (*helpdesk*).
-* **Ide Alternatif 3 (Menjembatani Developer & Keterbatasan Server):**
-  Rilis sistem dilakukan secara bertahap (*phased roll-out*). Minggu pertama diuji coba hanya pada 2 warung makan terbesar, sembari tim teknis menstabilkan server sebelum diterapkan ke seluruh kantin kampus.
-* **Ide Alternatif 4 (Tulis Ide Orisinal Kelompok Anda):**
-  __________________________________________________________________________________________
-  __________________________________________________________________________________________
+* **Ide Alternatif 1 (Menjembatani Perwakilan Anggota & Penanggung Jawab Tugas):**
+  Format **hybrid**: pesan tersemat menuliskan langsung informasi yang paling sering dicari (jadwal diskusi berikutnya), sedangkan pembagian tugas cukup berupa satu tautan ke dokumen utama. Daftar tugas tidak disalin ulang.
+* **Ide Alternatif 2 (Menjembatani Kebutuhan Deadline Cepat & Risiko Salah Informasi):**
+  Deadline resmi tidak disalin, tetapi pesan tersemat memuat **satu tautan langsung** ke pengumuman dosen, sehingga anggota cukup satu ketukan untuk mengecek. Di bawahnya dicantumkan "terakhir diperiksa: [tanggal]".
+* **Ide Alternatif 3 (Menjembatani Anggota yang Jarang Aktif):**
+  Setiap kali pesan tersemat diperbarui, ketua cukup mengirim satu pesan pendek "Pin sudah diperbarui", sehingga anggota yang jarang membuka grup tahu ada perubahan tanpa harus membaca seluruh percakapan.
+* **Ide Alternatif 4 (Ide orisinal kelompok):**
+  Pembagian **pemilik informasi**: setiap jenis informasi punya satu pemilik yang memperbaruinya di sumber (ketua untuk jadwal, penanggung jawab tugas untuk dokumen tugas, dosen untuk deadline resmi). Dengan begitu, jika ada perbedaan versi, jelas sumber mana yang berlaku dan tidak ada yang disalahkan secara sepihak.
 
 ---
 
 ## 📌 BAGIAN 4: Perumusan Dokumen Kesepakatan Bersama
-*Petunjuk: Setelah mengevaluasi kelayakan ide di Bagian 3, rumuskan kesepakatan tindakan nyata yang disetujui bersama oleh semua pihak. Ingat, kesepakatan tidak menuntut kesamaan pikiran, melainkan kesepakatan tindakan terkoordinasi yang adil dan dapat dipertanggungjawabkan.*
+Kesepakatan yang dicapai adalah menguji **Prototipe V4 (format hybrid)** selama satu minggu. Tidak semua pihak sepenuhnya setuju dengan setiap detail. Perwakilan anggota masih ingin deadline ditulis langsung, dan keberatan itu **dicatat sebagai dissent** serta dijadikan indikator evaluasi, bukan diabaikan.
 
 ### **Matriks Komitmen Tindakan Nyata**
 
 | SIAPA (Penanggung Jawab Utama) | MELAKUKAN APA (Tindakan Spesifik & Jelas) | KAPAN (Tenggat Waktu Konkret) | PRASYARAT & SYARAT (Sumber daya/kondisi yang harus ada) | UKURAN SELESAI (Kapan tugas ini dinyatakan 100% tuntas?) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Pihak A (Mahasiswa)** | Melakukan kampanye sosialisasi penggunaan aplikasi mandiri di kalangan mahasiswa. | Minggu ke-12 s.d. Minggu ke-13 | Disediakan materi infografis siap sebar oleh tim teknis. | 80% mahasiswa aktif mengetahui tata cara memesan lewat aplikasi. |
-| **Pihak B (Pemilik Warung)** | Memasang QR-Code pembayaran di meja saji dan mengikuti pelatihan operasional 1 jam. | Hari Jumat, Minggu ke-12 | Didampingi oleh asisten mahasiswa saat transaksi pertama. | Berhasil melayani 5 transaksi digital berturut-turut tanpa kendala. |
-| **Pihak C (Tim Teknis)** | Mengonfigurasi modul transfer harian otomatis (*auto-disbursement*) pukul 17.00 WIB. | Hari Rabu, Minggu ke-12 | Rekening bank seluruh pemilik warung telah terverifikasi. | Transfer uji coba senilai Rp10.000 sukses mendarat di rekening semua warung. |
-| **Pihak D (Manajemen)** | Menerbitkan surat keputusan pengalihan peran kasir manual menjadi Duta Layanan Kantin. | Hari Senin, Minggu ke-12 | Draf peran baru telah disetujui oleh perwakilan staf kantin. | Dokumen keputusan ditandatangani oleh Rektorat/Dekanat. |
-| **Pihak E (Staf/Kasir)** | Mengikuti pelatihan kepanduan sistem dan mengelola meja bantuan fisik (*helpdesk*). | Hari Sabtu, Minggu ke-12 | Disediakan modul panduan bergambar yang sederhana oleh tim teknis. | Kasir siap bertugas di pos bantuan fisik sejak hari pertama peluncuran. |
+| **Pihak C (Saya, penyusun)** | Menyusun Prototipe V4 hybrid: jadwal diskusi ditulis langsung, tautan ke dokumen tugas, tautan ke pengumuman dosen, dan keterangan "terakhir diperiksa". | Selasa, 10 November 2026 | Tautan dokumen tugas dari Pihak B; tautan pengumuman dosen. | Draf V4 terkirim ke ketua dan setiap bagian bisa dibuka dengan maksimal satu ketukan. |
+| **Pihak D (Ketua kelompok)** | Memeriksa kesesuaian isi V4 dengan sumber asli, lalu menyematkannya di grup jika sesuai. | Selasa, 10 November 2026 | Draf V4 dari Pihak C. | Pesan V4 tersemat di grup dan ketua mengirim pesan "Pin sudah diperbarui". |
+| **Pihak B (Penanggung jawab tugas)** | Memastikan dokumen pembagian tugas mutakhir dan menjadi satu-satunya sumber daftar tugas selama uji coba. | Selasa, 10 November 2026 | Akses edit dokumen tetap pada Pihak B. | Dokumen tugas terbaru dan tidak ada salinan daftar tugas di pesan WhatsApp. |
+| **Pihak A (Perwakilan anggota)** | Menguji kemudahan mencari jadwal, bagian tugas, dan deadline lewat pesan tersemat, lalu mencatat berapa detik yang dibutuhkan. | 11–17 November 2026 | Pesan V4 sudah tersemat. | Catatan uji pencarian terkirim ke Pihak C paling lambat 17 November 2026. |
+| **Pihak E (Anggota yang jarang aktif)** | Ikut menjadi peserta uji dan menjawab 3 pertanyaan feedback singkat lewat chat pribadi (tidak wajib di forum grup). | 17 November 2026 | Pertanyaan feedback dikirim Pihak C secara pribadi. | Jawaban feedback diterima, atau pernyataan tidak bersedia, tanpa paksaan. |
+
+**Decision record singkat:** Keputusan uji coba berlaku untuk satu kelompok selama 11–17 November 2026. Evaluasi dilakukan 17 November 2026. **Dissent yang tercatat:** "Format hybrid boleh dicoba, tetapi kemudahan menemukan deadline harus dievaluasi. Kalau anggota masih kesulitan, formatnya perlu diperbaiki." (Pihak A)
 
 ---
 
 ## 📌 BAGIAN 5: Evaluasi Jalur Ganda (Dual-Track Evaluation)
-*Petunjuk: Negosiasi yang bertanggung jawab dan ksatria diukur melalui dua jalur yang seimbang. Setiap anggota kelompok memberikan penilaian mandiri (Skala 1 - 5) setelah simulasi berakhir.*
 
 ### **1. JALUR TUGAS (Apakah target tindakan tercapai secara efektif?)**
-*   **Skor Kelompok (1 s.d. 5):** _____ / 5
-*   *Bukti Nyata:* Apakah kesepakatan yang tertulis di Bagian 4 benar-benar operasional, realistis, dan menyelesaikan masalah nyata di lapangan secara objektif? Jelaskan buktinya:
-    __________________________________________________________________________________________
-    __________________________________________________________________________________________
+*   **Skor Kelompok (1 s.d. 5):** **4** / 5
+*   *Bukti Nyata:* Kesepakatan di Bagian 4 operasional: setiap baris punya satu penanggung jawab, tanggal, dan ukuran selesai yang bisa diperiksa, dan seluruhnya berada dalam wewenang kelompok (tidak ada permintaan mengubah deadline dosen). Skor belum 5 karena efektivitasnya baru bisa dibuktikan setelah uji coba 11–17 November 2026. Sampai saat ini yang ada barulah rencana yang disepakati, bukan hasil.
 
 ### **2. JALUR RELASI (Apakah rasa hormat, martabat batin, dan kerja sama terpelihara?)**
-*   **Skor Kelompok (1 s.d. 5):** _____ / 5
-*   *Bukti Nyata:* Apakah ada pihak yang merasa terancam, terpaksa, atau dibungkam suaranya selama perundingan? Bagaimana fasilitator memastikan pihak yang paling sunyi tetap memiliki ruang aman untuk menyuarakan pendapat? Jelaskan buktinya:
-    __________________________________________________________________________________________
-    __________________________________________________________________________________________
+*   **Skor Kelompok (1 s.d. 5):** **4** / 5
+*   *Bukti Nyata:* Tidak ada pihak yang dipaksa setuju. Keberatan perwakilan anggota tetap dicatat sebagai dissent dan dijadikan indikator evaluasi. Untuk pihak yang paling diam (E), saya menyediakan jalur feedback lewat chat pribadi dan bertanya langsung kepadanya dengan nada ringan, bukan menunggunya bicara sendiri. Skor dikurangi satu karena saya sempat memotong penjelasan penanggung jawab tugas untuk menawarkan kompromi terlalu cepat. Saya memperbaikinya dengan meminta maaf dan mempersilakannya melanjutkan.
 
 ---
 
 ## 🖋️ Lembar Refleksi Akhir Fasilitator (300 kata)
-*(Diisi secara mandiri oleh Fasilitator Kelompok setelah simulasi selesai)*
 > *"Komunikasi profesional yang bertanggung jawab adalah komunikasi lingkar tertutup yang menghargai kebebasan memilih orang lain tanpa manipulasi. Refleksikan bagaimana Anda membaca kejutan di lapangan, menangkap makna nonverbal dari pihak-pihak yang defensif, serta bagaimana Anda mengelola ego kelompok agar tidak terjebak dalam perangkap debat kusir."*
 >
-> **Tuliskan refleksi Anda di bawah ini:**
-> __________________________________________________________________________________________
-> __________________________________________________________________________________________
-> __________________________________________________________________________________________
-> __________________________________________________________________________________________
-> __________________________________________________________________________________________
-> __________________________________________________________________________________________
+> **Refleksi saya:**
+>
+> Kejutan terbesar dalam deliberasi ini datang dari pihak yang paling saya abaikan saat menyusun peta, yaitu anggota yang jarang aktif di grup. Saya mengira ia tidak punya pendapat. Ternyata, setelah ditanya langsung, ia justru memberi alasan paling kuat mengapa pesan tersemat dibutuhkan: notifikasi grup terlalu banyak sehingga ia berhenti membacanya. Dari situ saya belajar bahwa diam di forum tidak sama dengan tidak peduli. Kadang orang diam karena tidak merasa punya ruang.
+>
+> Sinyal defensif paling jelas datang dari penanggung jawab tugas. Ketika perwakilan anggota berkata, "Kalau cuma link, kurang praktis," ia langsung bersandar ke belakang dan menjawab dengan nada pendek. Saya membacanya sebagai rasa pekerjaannya sedang dinilai. Kesalahan saya, saya terlalu cepat menawarkan format hybrid sebelum ia selesai bicara. Saya berhenti, meminta maaf, dan mempersilakannya melanjutkan. Di bagian lanjutan itulah muncul kepentingan sebenarnya: ia takut disalahkan jika ada dua versi data.
+>
+> Ego yang paling perlu saya kelola sebenarnya ego saya sendiri. Sebagai penyusun prototipe, saya ingin V3 diterima apa adanya karena sudah saya revisi berkali-kali. Tetapi peran fasilitator menuntut saya memperlakukan rancangan saya sebagai salah satu pilihan, bukan jawaban akhir. Itu sebabnya V3 berubah menjadi V4.
+>
+> Saya juga belajar bahwa kesepakatan tidak harus berarti semua orang sepakat. Perwakilan anggota tetap tidak puas soal deadline, dan saya memilih mencatat keberatannya secara tertulis daripada membujuknya diam. Dengan begitu, lingkar komunikasi tetap tertutup: keberatannya akan kembali dibahas pada 17 November 2026 berdasarkan hasil uji, bukan berdasarkan siapa yang paling keras bicara.

@@ -8,102 +8,93 @@ title: "Lembar Kerja Bab 07"
 ---
 
 ## 📌 Pendahuluan: Menembus Perangkap "Pembuangan Fitur"
-Sebagai pencipta gagasan, pembuat program, atau pengembang teknologi, kita sangat mudah jatuh cinta pada solusi yang kita bangun. Kita berasumsi bahwa kecanggihan teknis dan panjangnya daftar fitur otomatis akan membuat orang lain tertarik. Namun, buku ajar kita mengingatkan sebuah kebenaran krusial:
+Sebagai mahasiswa Sistem dan Teknologi Informasi, saya mudah sekali jatuh cinta pada solusi yang saya rancang sendiri. Ketika memikirkan masalah koordinasi kelompok, ide pertama yang muncul di kepala saya justru bot pengingat otomatis, dasbor tugas, dan sinkronisasi kalender. Padahal buku ajar mengingatkan:
 > **"Orang jarang tertarik pada kecanggihan solusi sebelum melihat hubungannya dengan persoalan yang sungguh mereka alami."** (Bab 7.1)
 
-Kesalahan komunikasi terbesar dalam tahap penumbuhan minat (*Interest*) adalah **Pembuangan Fitur (*Feature Dumping*)**—yaitu menumpuk daftar kemampuan teknis tanpa menghubungkannya dengan masalah yang telah diakui oleh sasaran komunikasi kita (Bab 7.12). 
+Kesalahan yang paling mungkin saya lakukan di tahap *Interest* adalah **Pembuangan Fitur (*Feature Dumping*)**, yaitu menumpuk daftar kemampuan teknis tanpa menghubungkannya dengan masalah yang sudah diakui ketua kelompok (Bab 7.12).
 
-Lembar kerja ini dirancang untuk membantu Anda melakukan **Detoks Fitur** (Bab 7.14): membuang fitur-fitur yang tidak relevan, menyederhanakan bahasa komunikasi, dan menerjemahkan kemampuan teknis menjadi **Nilai Rihat** yang dapat dipahami secara instan oleh peran penerima yang berbeda.
+Lembar kerja ini saya gunakan untuk melakukan **Detoks Fitur** (Bab 7.14): membuang fitur yang tidak relevan, menyederhanakan bahasa, dan menerjemahkan kemampuan teknis menjadi nilai yang langsung terasa bagi tiap peran di kelompok.
 
 ---
 
 ## 🧠 Konsep Utama: Fitur vs. Manfaat vs. Nilai
-Sebelum memulai detoks, Anda harus mampu membedakan tiga lapisan pesan ini secara jernih (Bab 7.7.1):
-1. **Fitur (*Feature*)**: Apa yang dimiliki, dilakukan, atau kemampuan teknis dari solusi/teknologi Anda.
-2. **Manfaat (*Benefit*)**: Perubahan atau kemudahan langsung yang dimungkinkan oleh fitur tersebut.
-3. **Nilai (*Value*)**: Mengapa perubahan itu penting, bermakna, dan relevan bagi kehidupan atau peran pribadi tertentu. **Nilai selalu bersifat relasional dan berbeda untuk setiap peran.**
+1. **Fitur (*Feature*)**: Apa yang dimiliki atau dilakukan solusi.
+2. **Manfaat (*Benefit*)**: Perubahan langsung yang dimungkinkan oleh fitur tersebut.
+3. **Nilai (*Value*)**: Mengapa perubahan itu penting bagi peran tertentu. **Nilai selalu bersifat relasional dan berbeda untuk setiap peran.**
 
 ---
 
 ## 🛠️ Langkah-Langkah Melakukan Detoks Fitur
 
 ### **Fase 1: Konteks Masalah Terkonfirmasi**
-Sebelum membedah solusi, tuliskan kembali **Pernyataan Masalah Pelanggan (*Customer Problem Statement*)** yang telah Anda konfirmasikan pada Bab 5. Solusi Anda harus "menempel" secara tepat pada masalah ini (Bab 7.6).
+Masalah ini berasal dari pitch perhatian di Bab 6 yang sudah diakui oleh ketua kelompok dalam simulasi (Bab 7.6).
 
-*   **Siapa perannya?** (Contoh: Ibu-ibu pengelola kantin kampus)
-*   **Masalah konkret apa yang dialami?** (Contoh: Kewalahan mencatat pesanan sekaligus menjawab pertanyaan mahasiswa tentang status makanan saat jam sibuk)
-*   **Apa dampaknya?** (Contoh: Antrean menumpuk, kasir stres, mahasiswa terlambat masuk kelas karena ketidakpastian)
-*   **Kendala nyata apa yang harus dipertimbangkan?** (Contoh: Kasir tidak paham teknologi rumit, pemilik kantin sensitif terhadap biaya tambahan)
+*   **Siapa perannya?** Ketua kelompok tugas mata kuliah, beserta anggota yang menerima informasi koordinasi.
+*   **Masalah konkret apa yang dialami?** Informasi jadwal diskusi, pembagian tugas, dan deadline tersebar di banyak pesan grup WhatsApp sehingga mudah tertimbun dan sulit ditemukan kembali.
+*   **Apa dampaknya?** Anggota menanyakan ulang informasi yang sudah diumumkan, ketua kelompok menghabiskan waktu menjawab pertanyaan yang sama, dan perubahan jadwal berisiko terlewat.
+*   **Kendala nyata apa yang harus dipertimbangkan?** Semua anggota sedang mengerjakan tugas mata kuliah lain, tidak ada anggaran, ketua tidak mau ada pekerjaan tambahan, dan anggota enggan memasang aplikasi baru.
 
 ---
 
 ### **Fase 2: Matriks Analisis Detoks Fitur**
-Tuliskan semua fitur yang ada pada rancangan solusi Anda, lalu bedah menggunakan matriks di bawah ini. Jika sebuah fitur **tidak terhubung langsung** dengan masalah yang telah disepakati di atas, fitur tersebut **wajib didelegasikan ke daftar arsip (DIPANGKAS)** agar tidak membebani bahasa komunikasi Anda (Bab 7.14).
+Sebelum detoks, rancangan awal saya memuat enam fitur. Setelah dibedah, hanya tiga yang benar-benar menempel pada masalah.
 
 | No | Fitur Teknis | Manfaat Langsung | Nilai Relasional (Bagi Peran Tertentu) | Bukti yang Diperlukan | Keputusan (Pertahankan / Pangkas) |
 |:--:|:---|:---|:---|:---|:---|
-| *Contoh* | *Estimasi waktu tunggu dinamis pada layar antrean.* | *Pengguna mengetahui kapan pesanan mereka akan selesai dimasak.* | * **Bagi Mahasiswa:** Kepastian waktu agar bisa makan tanpa terlambat masuk kuliah.<br>* **Bagi Kasir:** Mengurangi interupsi pertanyaan berulang dari antrean mahasiswa. | *Hasil uji coba pada 5 transaksi di jam sibuk.* | **PERTAHANKAN** (Sangat menempel pada masalah antrean dan interupsi kasir). |
-| *Contoh* | *Login akun menggunakan autentikasi multi-faktor media sosial.* | *Memudahkan pengguna masuk ke sistem dengan aman.* | *Tidak memberikan nilai langsung bagi kasir kantin maupun mahasiswa yang sedang terburu-buru.* | *Belum ada bukti relevansi bagi transaksi mikro kantin.* | **PANGKAS** (Beban bahasa yang tidak relevan bagi masalah utama). |
-| **1** | | | | | |
-| **2** | | | | | |
-| **3** | | | | | |
+| **1** | Satu pesan rangkuman (jadwal, pembagian tugas, deadline) yang disematkan (*pinned message*) di grup WhatsApp. | Informasi utama bisa dibuka dengan satu ketukan tanpa menggulir chat. | **Bagi anggota:** kepastian jadwal tanpa harus bertanya.<br>**Bagi ketua:** pertanyaan berulang berkurang. | Uji sederhana: apakah anggota bisa menemukan jadwal diskusi dalam kurang dari 1 menit. | **PERTAHANKAN** (Inti solusi; langsung menjawab masalah informasi tertimbun). |
+| **2** | Keterangan "terakhir diperbarui" beserta sumber informasi resmi (pengumuman dosen). | Anggota tahu apakah informasi masih berlaku. | **Bagi ketua:** mengurangi risiko anggota mengikuti informasi yang sudah usang.<br>**Bagi anggota:** rasa percaya terhadap rangkuman. | Perbandingan isi rangkuman dengan pengumuman resmi selama masa percobaan. | **PERTAHANKAN** (Menjawab kekhawatiran ketua soal keakuratan). |
+| **3** | Pembagian tanggung jawab pembaruan: saya menyusun, ketua memeriksa sebelum dipublikasikan. | Rangkuman tetap diperbarui tanpa membebani satu orang saja. | **Bagi ketua:** beban kerja tidak bertambah.<br>**Bagi saya:** kontribusi nyata dalam koordinasi. | Catatan waktu yang dibutuhkan untuk tiap pembaruan selama satu minggu. | **PERTAHANKAN** (Menjawab kendala waktu ketua). |
+| **4** | Bot WhatsApp pengingat deadline otomatis. | Anggota mendapat notifikasi tanpa diminta. | Belum jelas; notifikasi grup sudah terlalu banyak sehingga bisa menambah kebisingan. | Belum ada bukti anggota membutuhkan notifikasi tambahan. | **PANGKAS** (Menambah pesan di grup yang justru menjadi sumber masalah). |
+| **5** | Dasbor tugas di Notion dengan status progres tiap anggota. | Progres terlihat dalam bentuk tabel. | Menarik bagi saya, tetapi menuntut anggota membuat akun dan membuka aplikasi baru. | Belum ada bukti anggota mau pindah platform. | **PANGKAS** (Bertentangan dengan kendala "tanpa aplikasi baru"). |
+| **6** | Sinkronisasi otomatis jadwal ke Google Calendar setiap anggota. | Jadwal muncul di kalender pribadi. | Tidak menjawab masalah utama; membutuhkan izin akses ke akun pribadi anggota. | Belum ada; ada risiko privasi. | **PANGKAS** (Tidak relevan dan memunculkan persoalan privasi). |
 
 ---
 
 ### **Fase 3: Menyusun Pitch Masalah-Solusi 60 Detik**
-Gunakan hasil detoks di atas untuk merajut **Pitch Minat** menggunakan **Komunikasi Berlapis** (Bab 7.9). Sampaikan pesan secara bertahap: mulailah dari kalimat kemungkinan yang memikat, mekanisme ringkas yang masuk akal, demonstrasi/analogi visual, lalu baru rincian teknis jika ditanyakan.
-
-Gunakan **5 Langkah Pitch Minat** berikut (Bab 7.7.2):
-1. **Hubungkan kembali dengan masalah**: *"Kemarin Ibu menceritakan bahwa kasir sering kewalahan mencatat pesanan sekaligus meladeni pertanyaan mahasiswa..."*
-2. **Perkenalkan kemungkinan solusi**: *"Untuk membantu mengatasi hal itu, kita bisa mencoba papan antrean digital sederhana di dekat kasir..."*
-3. **Jelaskan mekanisme secara sederhana (tanpa jargon)**: *"Cara kerjanya, kasir hanya perlu memasukkan nomor pesanan ke tablet. Status pengerjaan makanan akan langsung tampil di layar TV antrean, berubah dari 'Sedang Dimasak' menjadi 'Siap Diambil'..."*
-4. **Nyatakan manfaat & nilai riil**: *"Dengan cara ini, kasir bisa fokus mencatat tanpa diganggu pertanyaan berulang, sementara mahasiswa mendapatkan kepastian waktu makan tanpa takut terlambat kelas."*
-5. **Undang tanggapan (Cek Minat)**: *"Apakah mekanisme sesederhana ini layak kita uji coba dalam skala kecil besok siang?"*
+Saya menyusun pitch dengan **Komunikasi Berlapis** (Bab 7.9): mulai dari kemungkinan, mekanisme ringkas, contoh langsung, lalu rincian hanya jika ditanya. Kelima langkahnya (Bab 7.7.2) saya terapkan pada draf di Bagian 3 di bawah.
 
 ---
 
 ## 📝 Lembar Kerja Latihan Mandiri
 
 ### **Bagian 1: Pernyataan Masalah Sasaran**
-> *Tuliskan Pernyataan Masalah Pelanggan (CPS) secara presisi berdasarkan formula Bab 5:*
-> 
 > **[Pribadi/Peran]** mengalami **[Keadaan yang teramati]** ketika **[Konteks]**, sehingga **[Dampak]**. Ia membutuhkan **[Hasil/Kemampuan]**, dengan mempertimbangkan **[Kendala]**.
-> 
-> **Tulis jawaban Anda di sini:**
-> 
-> 
-> 
+>
+> **Jawaban saya:**
+>
+> **Ketua kelompok tugas mata kuliah** mengalami **informasi jadwal, pembagian tugas, dan deadline yang tersebar di banyak pesan grup WhatsApp** ketika **kelompok sedang mengerjakan tugas besar dengan beberapa perubahan jadwal dalam seminggu**, sehingga **anggota menanyakan ulang informasi yang sudah diumumkan dan sebagian sempat memakai jadwal lama**. Ia membutuhkan **cara agar anggota dapat menemukan informasi terbaru secara mandiri**, dengan mempertimbangkan **waktu ketua yang terbatas, tidak adanya biaya, dan keengganan anggota memakai aplikasi baru**.
 
-### **Bagian 2: Matriks Detoks Fitur Anda**
-> *Gunakan tabel ini untuk memotong fitur-fitur yang hanya memuaskan ego pembuat tetapi tidak melayani kebutuhan pendengar.*
+### **Bagian 2: Matriks Detoks Fitur Saya**
 
-| Nama Fitur | Manfaat Langsung | Nilai Relasional (Sebutkan Perannya) | Bukti yang Anda Miliki/Perlukan | Keputusan Anda (Pertahankan / Pangkas) |
+| Nama Fitur | Manfaat Langsung | Nilai Relasional (Sebutkan Perannya) | Bukti yang Saya Miliki/Perlukan | Keputusan Saya (Pertahankan / Pangkas) |
 |:---|:---|:---|:---|:---|
-| **Fitur A:** | | | | |
-| **Fitur B:** | | | | |
-| **Fitur C:** | | | | |
+| **Fitur A:** Pesan rangkuman yang disematkan di grup | Informasi utama terkumpul di satu tempat yang mudah dibuka. | **Anggota:** tidak perlu menggulir chat. **Ketua:** pertanyaan berulang berkurang. | **Dimiliki:** contoh prototipe rangkuman (V1). **Diperlukan:** hasil uji coba satu minggu. | **PERTAHANKAN** |
+| **Fitur B:** Waktu pembaruan terakhir dan acuan sumber resmi | Anggota tahu informasi mana yang terbaru dan dari mana asalnya. | **Ketua:** risiko salah informasi lebih kecil. **Anggota:** lebih percaya pada rangkuman. | **Diperlukan:** pemeriksaan kesesuaian rangkuman dengan pengumuman dosen. | **PERTAHANKAN** (ditambahkan setelah ketua mempertanyakan keakuratan) |
+| **Fitur C:** Bot pengingat deadline otomatis | Notifikasi otomatis menjelang deadline. | Tidak jelas bagi peran mana pun; justru menambah notifikasi. | Tidak ada bukti kebutuhan. | **PANGKAS** |
 
-*Catatan Etis: Menyembunyikan risiko atau keterbatasan solusi demi terlihat menarik adalah pelanggaran integritas profesional. Jika solusi Anda memiliki keterbatasan (misalnya: tidak berjalan lancar tanpa jaringan internet), sampaikan hal itu secara jujur. Kejujuran terhadap batas justru meningkatkan kredibilitas Anda (Bab 7.8, 9.8).*
+*Catatan Etis:* Saya menyampaikan secara terbuka bahwa solusi ini **bergantung pada kedisiplinan memperbarui rangkuman**. Jika rangkuman terlambat diperbarui, anggota bisa mengikuti informasi yang salah. Karena itu saya menambahkan waktu pembaruan dan acuan ke sumber resmi, bukan menyembunyikan keterbatasan tersebut (Bab 7.8, 9.8).
 
 ### **Bagian 3: Draf Pitch Minat 60 Detik**
-> *Tuliskan draf lisan Anda (maksimal 120 kata) berdasarkan 5 langkah Pitch Minat Bab 7:*
-> 
-> 
-> 
-> 
-> 
+> **(1) Hubungkan kembali dengan masalah:** "Kemarin kamu bilang capek menjawab pertanyaan jadwal yang sama berkali-kali.
+> **(2) Kemungkinan solusi:** Kita bisa coba satu pesan rangkuman yang di-*pin* di grup.
+> **(3) Mekanisme sederhana:** Isinya jadwal diskusi, pembagian tugas, dan deadline, plus keterangan kapan terakhir diperbarui. Saya yang menyusun, kamu cukup memeriksa sebelum dipasang. Ini contohnya sudah saya buat.
+> **(4) Manfaat & nilai:** Anggota bisa mengecek sendiri, jadi pertanyaan ke kamu berkurang, dan kita tidak perlu aplikasi baru.
+> **(5) Cek minat:** Menurutmu, apakah ini layak dicoba seminggu dulu, lalu kita lihat hasilnya?"
+>
+> *(± 75 kata, sekitar 45–60 detik)*
 
 ---
 
 ## 📊 Rubrik Evaluasi Mandiri (*Self-Assessment*)
-Setelah menyelesaikan lembar kerja ini, ujilah draf pitch Anda bersama rekan sejawat. Mintalah mereka memberikan skor berdasarkan rubrik berikut (Bab 7.15):
 
-| Kriteria | Skor 1 (Awal) | Skor 2 (Berkembang) | Skor 3 (Cakap) | Skor 4 (Unggul) |
-|:---|:---|:---|:---|:---|
-| **Kecocokan (*Fit*)** | Solusi terasa generik, tidak menempel pada masalah yang telah disepakati. | Solusi mulai terhubung dengan masalah tetapi masih terlalu luas. | Solusi menempel secara spesifik pada aspek-aspek utama masalah yang diakui. | Solusi menempel sempurna pada masalah dan mampu mengintegrasikan batas kendala sasaran. |
-| **Kejelasan Mekanisme** | Menjejalkan daftar fitur teknis (terjadi *Feature Dumping*). | Cara kerja mulai dijelaskan tetapi masih didominasi jargon teknis. | Cara kerja dijelaskan secara ringkas dan mudah dibayangkan oleh pendengar awam. | Cara kerja sangat jernih, didukung analogi membumi atau prototipe yang siap dicoba. |
-| **Penerjemahan Nilai** | Manfaat/nilai dianggap sama saja bagi semua peran yang terlibat. | Mulai menyebutkan manfaat, tetapi belum membedakan nilai spesifik tiap peran. | Mampu menerjemahkan fitur menjadi nilai fungsional yang berbeda bagi tiap peran. | Nilai relasional disampaikan secara presisi dan bermakna bagi tanggung jawab spesifik sasaran. |
-| **Kejujuran & Batas** | Mengklaim solusi sempurna tanpa cela (janji berlebihan / *overpromise*). | Mengakui adanya batas kemampuan solusi tetapi hanya jika ditanya. | Menyatakan batas kemampuan dan risiko solusi secara terbuka dan realistis sejak awal. | Menunjukkan batas solusi secara ksatria serta menawarkan rencana mitigasi atau bukti pendukung. |
+| Kriteria | Skor 1 (Awal) | Skor 2 (Berkembang) | Skor 3 (Cakap) | Skor 4 (Unggul) | Skor Mandiri |
+|:---|:---|:---|:---|:---|:---:|
+| **Kecocokan (*Fit*)** | Solusi terasa generik, tidak menempel pada masalah yang telah disepakati. | Solusi mulai terhubung dengan masalah tetapi masih terlalu luas. | Solusi menempel secara spesifik pada aspek-aspek utama masalah yang diakui. | Solusi menempel sempurna pada masalah dan mampu mengintegrasikan batas kendala sasaran. | **4** |
+| **Kejelasan Mekanisme** | Menjejalkan daftar fitur teknis (terjadi *Feature Dumping*). | Cara kerja mulai dijelaskan tetapi masih didominasi jargon teknis. | Cara kerja dijelaskan secara ringkas dan mudah dibayangkan oleh pendengar awam. | Cara kerja sangat jernih, didukung analogi membumi atau prototipe yang siap dicoba. | **4** |
+| **Penerjemahan Nilai** | Manfaat/nilai dianggap sama saja bagi semua peran yang terlibat. | Mulai menyebutkan manfaat, tetapi belum membedakan nilai spesifik tiap peran. | Mampu menerjemahkan fitur menjadi nilai fungsional yang berbeda bagi tiap peran. | Nilai relasional disampaikan secara presisi dan bermakna bagi tanggung jawab spesifik sasaran. | **3** |
+| **Kejujuran & Batas** | Mengklaim solusi sempurna tanpa cela (janji berlebihan / *overpromise*). | Mengakui adanya batas kemampuan solusi tetapi hanya jika ditanya. | Menyatakan batas kemampuan dan risiko solusi secara terbuka dan realistis sejak awal. | Menunjukkan batas solusi secara ksatria serta menawarkan rencana mitigasi atau bukti pendukung. | **3** |
+
+**Total skor mandiri: 14 / 16.** Pada kriteria kejujuran saya memberi skor 3 karena risiko keakuratan informasi baru saya tangani setelah ketua menanyakannya, bukan sejak draf pertama.
 
 ---
 *Komunikasi yang berpusat pada manusia tidak menuntut Anda membawa solusi yang sempurna tanpa cela. Ia hanya meminta Anda jujur terhadap apa yang dapat dilakukan oleh solusi Anda hari ini demi membangun relasi kepercayaan yang langgeng.* (Bab 7.18)
