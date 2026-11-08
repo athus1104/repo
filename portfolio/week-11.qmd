@@ -556,8 +556,28 @@ Pemetaan stakeholder, analisis kepentingan, dan adaptasi solusi menjadi Prototyp
 :::
 
 ::: {.callout-important title="Status revisi"}
-Bagian di atas tetap saya pertahankan sebagai **rancangan dan skenario role-play**. Saya tidak mengubah skenario tersebut menjadi klaim hasil nyata. Revisi minggu ini berfokus pada pengumpulan bukti pelaksanaan yang dapat diverifikasi. Selama bukti belum terkumpul, status halaman ini tetap **Perlu revisi**.
+Bagian sebelumnya berisi rancangan dan dialog latihan yang saya siapkan sebelum berbicara dengan kelompok. Percakapan yang benar-benar terjadi saya catat terpisah di bawah ini, apa adanya. Agreement dan action yang belum terkonfirmasi tetap saya tandai sebagai rencana, sehingga status halaman ini masih **Perlu revisi**.
 :::
+
+### Percakapan Nyata yang Sudah Terjadi
+
+::: {.callout-note title="Catatan percakapan langsung (rekonstruksi dari ingatan, tidak direkam)"}
+**Waktu dan tempat:** Setelah salah satu sesi perkuliahan, ngobrol langsung di kelas. Tanggal pastinya tidak saya catat.
+
+**Yang terlibat:** Saya, ketua kelompok, dan beberapa anggota kelompok lain.
+
+**Yang terjadi:**
+
+- Kami membicarakan tugas kelompok yang sedang dikerjakan.
+- Beberapa anggota menyampaikan bahwa mereka belum terlalu paham tugasnya.
+- Ketua kelompok menjelaskan ulang tugas tersebut dengan lebih jelas kepada anggota yang belum paham.
+- Setelah itu, beberapa dari kami, termasuk saya, saling memberi masukan. Salah satu masukan yang muncul adalah agar setiap anggota tidak mengerjakan bagian tugasnya terlalu mepet dengan deadline.
+
+**Yang tidak terjadi dalam percakapan ini:** Belum ada pembahasan atau persetujuan tentang pesan rangkuman yang disematkan, prototype, maupun uji coba satu minggu. Bagian tersebut tetap saya anggap rencana.
+:::
+
+**Kaitan dengan minggu ini:** Ini adalah diskusi nyata yang melibatkan lebih dari dua pihak. Ketua berperan menjelaskan ulang, anggota yang belum paham menyampaikan kebutuhannya, dan beberapa anggota saling memberi masukan. Kepentingan bersama yang terlihat adalah tugas dipahami dengan jelas dan tidak dikerjakan terburu-buru. Diskusi ini belum menghasilkan decision record atau dissent tertulis, sehingga keduanya masih perlu saya konfirmasikan kepada pihak yang terlibat.
+
 
 ### Perubahan yang Saya Lakukan
 
@@ -573,10 +593,16 @@ Pesan berikut saya kirim apa adanya kepada target. Apa pun jawabannya, termasuk 
 
 > "Dari diskusi tadi, aku catat kesepakatannya: kita uji format hybrid seminggu, daftar tugas tetap di dokumen, dan deadline resmi tetap ngacu ke pengumuman dosen. Aku juga catat keberatan: kemudahan nyari deadline harus dievaluasi. Bener begitu rumusannya? Kalau ada yang kurang pas, koreksi aja ya."
 
+Untuk mengonfirmasi catatan percakapan setelah kelas, saya mengirim pesan berikut kepada ketua kelompok:
+
+> "Aku lagi nyatet obrolan kita abis kelas kemarin buat portofolio: beberapa anggota belum paham tugasnya, kamu jelasin ulang, terus kita saling kasih masukan biar gak ngerjain mepet deadline. Bener gitu kan? Kalau ada yang kurang pas, koreksi aja ya."
+
 ### Evidence Pelaksanaan Nyata
 
 | Artefak | Status | File |
 |---|---|---|
+| Catatan percakapan langsung setelah kelas (di atas) | Sudah ditulis, belum dikonfirmasi | Halaman ini |
+| Screenshot balasan ketua yang membenarkan catatan percakapan | Belum dikumpulkan | `evidence/w11-konfirmasi-catatan.png` |
 | Transkrip atau rekaman diskusi multi-pihak (dengan izin) | Belum dikumpulkan | `evidence/w11-transkrip-diskusi.png` |
 | Screenshot konfirmasi decision record dari tiap pihak | Belum dikumpulkan | `evidence/w11-konfirmasi-keputusan.png` |
 | Screenshot konfirmasi rumusan dissent dari perwakilan anggota | Belum dikumpulkan | `evidence/w11-konfirmasi-dissent.png` |
