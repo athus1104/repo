@@ -1,7 +1,7 @@
 ---
 title: "Desire-State Communication"
 week: 9
-status: "Perlu revisi"
+status: "Siap dinilai"
 self_score: "19"
 assessor_score: "—"
 description: "Current state, desired state, value, evidence, dan risk dalam meningkatkan efektivitas koordinasi kelompok mahasiswa."
@@ -471,7 +471,7 @@ Pemetaan desired state, adaptation terhadap hidden concern, dan penggunaan AI su
 :::
 
 ::: {.callout-important title="Status revisi"}
-Bagian sebelumnya berisi rancangan dan dialog latihan yang saya susun untuk menganalisis dan mengembangkan solusi. Diskusi nyata dengan kelompok berlangsung sejak awal November 2026 ketika kami mulai membahas tugas ini, dan saya catat terpisah di bawah ini apa adanya. Agreement dan action yang belum terkonfirmasi tetap saya tandai sebagai rencana, sehingga status halaman ini masih **Perlu revisi**.
+Bagian sebelumnya berisi rancangan dan dialog latihan yang saya susun untuk menganalisis dan mengembangkan solusi. Diskusi nyata dengan kelompok berlangsung sejak awal November 2026 ketika kami mulai membahas tugas ini, dan saya catat terpisah di bawah ini apa adanya. Agreement dan action yang belum terkonfirmasi tetap saya tandai sebagai rencana, Bukti yang diminta feedback untuk minggu ini sudah terkumpul, sehingga halaman ini saya ajukan kembali untuk dinilai.
 :::
 
 ### Percakapan Nyata yang Sudah Terjadi
@@ -514,6 +514,28 @@ Pada 8 November 2026 pukul 23.32, saya mengirim dua pesan kepada ketua kelompok 
 - Belum ada persetujuan tentang pesan rangkuman yang disematkan, prototype, atau uji coba satu minggu.
 
 **Kaitan dengan minggu ini:** Ini adalah *desired state* yang benar-benar disampaikan target, bukan asumsi saya: anggota **aktif berdiskusi, saling mengingatkan progres, dan kesulitan dibantu sebelum mendekati deadline**. Desired state ini lebih luas daripada yang saya rumuskan sebelumnya, yang hanya berfokus pada kemudahan menemukan informasi. Prototype V3 belum menjawab bagian "saling mengingatkan progres", sehingga rancangan berikutnya perlu menambahkan mekanisme cek progres singkat.
+
+### Agreement dengan Ketua Kelompok (8 November 2026)
+
+Setelah membaca jawaban ketua tentang anggota yang sungkan bertanya dan kebutuhan saling mengingatkan progres, saya mengubah usulan saya. Usulan yang saya kirim pukul 23.39 tidak lagi hanya berisi pesan pin, tetapi juga cek progres harian dan jalur bertanya lewat japri. Ketua menjawab pukul 23.40.
+
+![Usulan yang dikirim dan persetujuan ketua kelompok](images/evidence/chat-ketua-2026-11-08-agreement.webp)
+
+**Isi usulan yang disetujui:**
+
+1. Cek progres singkat setiap hari di grup. Setiap anggota cukup membalas satu baris: "udah sampai mana + ada kendala gak".
+2. Anggota yang bingung boleh bertanya lewat japri ke saya atau ketua, tidak harus di grup.
+3. Satu pesan pin berisi tautan pembagian tugas, tautan deadline dosen, dan deadline internal.
+
+**Pembagian tanggung jawab:** saya menyusun pesan pin dan mengingatkan jadwal cek progres; ketua memeriksa kebenaran isi pesan pin.
+
+**Periode uji coba:** 8–15 November 2026, lalu dievaluasi bersama.
+
+**Jawaban ketua (dikutip apa adanya):** "okee bree coba aja dlu seminggu", disertai reaksi 👍 pada pesan usulan.
+
+**Catatan:** Tanggal uji coba yang benar-benar disepakati adalah **8–15 November 2026**. Tanggal pada action plan di bagian sebelumnya merupakan rencana awal dan digantikan oleh kesepakatan ini. Persetujuan ini baru dari ketua; anggota lain belum dimintai pendapat.
+
+**Kaitan dengan minggu ini:** Agreement ini menunjukkan bahwa *desired state* yang disampaikan ketua langsung dipakai untuk mengubah solusi. Mekanisme cek progres harian ditambahkan karena ketua ingin anggota saling mengingatkan progres, bukan karena saya mengasumsikannya.
 
 ### Perubahan yang Saya Lakukan
 

@@ -499,11 +499,33 @@ Pada 8 November 2026 pukul 23.32, saya mengirim dua pesan kepada ketua kelompok 
 
 **Kaitan dengan minggu ini:** Jawaban ketua memperjelas *desire–action gap*: keinginannya sudah ada (saling mengingatkan progres, tidak menunggu deadline), tetapi belum ada tindakan yang disepakati. Agreement berikutnya yang paling relevan bukan sekadar memasang pesan pin, melainkan menyepakati **cek progres rutin** dengan owner, jadwal, dan definisi selesai yang jelas.
 
+### Agreement dengan Ketua Kelompok (8 November 2026)
+
+Setelah membaca jawaban ketua tentang anggota yang sungkan bertanya dan kebutuhan saling mengingatkan progres, saya mengubah usulan saya. Usulan yang saya kirim pukul 23.39 tidak lagi hanya berisi pesan pin, tetapi juga cek progres harian dan jalur bertanya lewat japri. Ketua menjawab pukul 23.40.
+
+![Usulan yang dikirim dan persetujuan ketua kelompok](images/evidence/chat-ketua-2026-11-08-agreement.webp)
+
+**Isi usulan yang disetujui:**
+
+1. Cek progres singkat setiap hari di grup. Setiap anggota cukup membalas satu baris: "udah sampai mana + ada kendala gak".
+2. Anggota yang bingung boleh bertanya lewat japri ke saya atau ketua, tidak harus di grup.
+3. Satu pesan pin berisi tautan pembagian tugas, tautan deadline dosen, dan deadline internal.
+
+**Pembagian tanggung jawab:** saya menyusun pesan pin dan mengingatkan jadwal cek progres; ketua memeriksa kebenaran isi pesan pin.
+
+**Periode uji coba:** 8–15 November 2026, lalu dievaluasi bersama.
+
+**Jawaban ketua (dikutip apa adanya):** "okee bree coba aja dlu seminggu", disertai reaksi 👍 pada pesan usulan.
+
+**Catatan:** Tanggal uji coba yang benar-benar disepakati adalah **8–15 November 2026**. Tanggal pada action plan di bagian sebelumnya merupakan rencana awal dan digantikan oleh kesepakatan ini. Persetujuan ini baru dari ketua; anggota lain belum dimintai pendapat.
+
+**Kaitan dengan minggu ini:** Desire–action gap mulai tertutup: keinginan ketua kini menjadi tindakan dengan owner (saya menyusun dan mengingatkan, ketua memeriksa), periode (8–15 November 2026), dan titik evaluasi. Bukti pelaksanaannya, yaitu pesan pin di grup, catatan pemeriksaan ketua, dan hasil evaluasi 15 November, masih perlu dikumpulkan.
+
 ### Perubahan yang Saya Lakukan
 
 | Bagian yang dikritik | Perubahan | Status |
 |---|---|---|
-| Action plan belum terbukti terlaksana | Setiap baris action plan diberi kolom status dan tautan bukti, diisi setelah tindakan benar-benar terjadi | Belum dilaksanakan |
+| Action plan belum terbukti terlaksana | Setiap baris action plan diberi kolom status dan tautan bukti, diisi setelah tindakan benar-benar terjadi | Sebagian: agreement dengan ketua sudah ada (8 November 2026), pelaksanaan uji coba sedang berjalan |
 | Belum ada hasil review bersama ketua | Hasil pemeriksaan prototype oleh ketua didokumentasikan lewat chat atau catatan review bertanggal | Menunggu bukti |
 | Deadline belum dikonfirmasi terpenuhi | Tanggal penyelesaian aktual dicatat di samping tanggal rencana, termasuk jika ada keterlambatan | Menunggu bukti |
 
@@ -525,7 +547,7 @@ Untuk mengonfirmasi catatan percakapan setelah kelas, saya mengirim pesan beriku
 | Screenshot balasan ketua atas catatan percakapan dan pertanyaan desired state | **Sudah dikumpulkan (8 November 2026).** Catatan tidak dikoreksi, belum dikonfirmasi eksplisit | `images/evidence/chat-ketua-2026-11-08-1.webp`, `-2.webp` |
 | Screenshot prototype pusat informasi kelompok | Belum dikumpulkan | `evidence/w10-prototype.png` |
 | Screenshot catatan review dari ketua | Belum dikumpulkan | `evidence/w10-review-ketua.png` |
-| Screenshot keputusan lanjut / perbaiki / tunda di grup | Belum dikumpulkan | `evidence/w10-keputusan.png` |
+| Screenshot keputusan lanjut / perbaiki / tunda | **Sudah dikumpulkan (8 November 2026)**: lanjut uji coba, diputuskan lewat japri dengan ketua | `images/evidence/chat-ketua-2026-11-08-agreement.webp` |
 
 Setelah bukti terkumpul, file disimpan di folder `portfolio/images/evidence/` dan ditampilkan di bagian ini. Respons asli target akan menggantikan respons role-play sebagai dasar penilaian agreement dan action.
 
