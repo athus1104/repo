@@ -471,7 +471,7 @@ Pemetaan desired state, adaptation terhadap hidden concern, dan penggunaan AI su
 :::
 
 ::: {.callout-important title="Status revisi"}
-Bagian sebelumnya berisi rancangan dan dialog latihan yang saya susun untuk menganalisis dan mengembangkan solusi. Diskusi nyata dengan kelompok berlangsung sejak awal November 2026 ketika kami mulai membahas tugas ini, dan saya catat terpisah di bawah ini apa adanya. Agreement dan action yang belum terkonfirmasi tetap saya tandai sebagai rencana, Bukti yang diminta feedback untuk minggu ini sudah terkumpul, sehingga halaman ini saya ajukan kembali untuk dinilai.
+Bagian sebelumnya berisi rancangan dan dialog latihan yang saya susun untuk menganalisis dan mengembangkan solusi. Diskusi nyata dengan kelompok berlangsung sejak awal November 2026 ketika kami mulai membahas tugas ini, dan saya catat terpisah di bawah ini apa adanya. Agreement dan action yang belum terkonfirmasi tetap saya tandai sebagai rencana. Bukti yang diminta feedback untuk minggu ini sudah terkumpul, sehingga halaman ini saya ajukan kembali untuk dinilai.
 :::
 
 ### Percakapan Nyata yang Sudah Terjadi
@@ -537,12 +537,33 @@ Setelah membaca jawaban ketua tentang anggota yang sungkan bertanya dan kebutuha
 
 **Kaitan dengan minggu ini:** Agreement ini menunjukkan bahwa *desired state* yang disampaikan ketua langsung dipakai untuk mengubah solusi. Mekanisme cek progres harian ditambahkan karena ketua ingin anggota saling mengingatkan progres, bukan karena saya mengasumsikannya.
 
+### Pengumuman ke Grup Kelompok (9 November 2026)
+
+Pada 9 November 2026 pukul 15.19, saya menyampaikan usulan yang sudah disetujui ketua ke grup WhatsApp kelompok. Satu menit kemudian (15.20), saya mengirim pesan info kelompok yang akan dipakai sebagai pesan pin.
+
+![Pengumuman uji coba dan pesan info kelompok di grup](images/evidence/grup-2026-11-09-pengumuman.jpg)
+
+**Isi pengumuman:** tiga mekanisme yang disepakati dengan ketua (cek progres harian, boleh japri kalau bingung, info tugas dan deadline di pesan pin), pembagian peran (saya mengingatkan cek progres, Kafka memeriksa isi pin), evaluasi bersama tanggal 15, serta ajakan terbuka: *"Ada yang keberatan atau mau usul? Misalnya jamnya, atau lebih enak deadline ditulis langsung di pin? Tulis aja ya."*
+
+**Isi pesan info kelompok:** pembagian tugas (Google Docs kelompok, tautan menyusul), deadline resmi mengikuti pengumuman dosen di Edunex, deadline internal 13 November 2026, cek progres setiap hari pukul 20.00 WIB, kontak jika bingung (Azka/Kafka), dan tanggal terakhir dicek (9 November 2026).
+
+**Yang bisa dan tidak bisa saya simpulkan dari screenshot ini:**
+
+- Usulan sudah benar-benar disampaikan ke seluruh anggota, bukan hanya ke ketua.
+- Belum ada tanggapan anggota lain pada saat screenshot diambil.
+- Screenshot ini belum memperlihatkan penanda bahwa pesan sudah disematkan (*pinned*). Bukti pin perlu screenshot terpisah.
+- Tautan pembagian tugas masih "menyusul", sehingga isi pin belum sepenuhnya sesuai poin 3 agreement.
+- Pengumuman ke grup baru dilakukan 9 November, satu hari setelah agreement dengan ketua. Uji coba di grup praktis berjalan 9–15 November 2026.
+- Belum ada bukti tertulis bahwa ketua sudah memeriksa isi pesan info.
+
+**Kaitan dengan minggu ini:** Pesan info dan mekanisme cek progres adalah bentuk nyata dari *desired state* ketua: anggota saling mengingatkan progres dan punya jalur aman untuk bertanya. Respons ketua terhadap Prototype V3 tetap belum ada, sehingga perubahan V2 ke V3 belum dikonfirmasi target.
+
 ### Perubahan yang Saya Lakukan
 
 | Bagian yang dikritik | Perubahan | Status |
 |---|---|---|
 | Desired state hanya diasumsikan dalam skenario | Saya mengajukan pertanyaan desired state langsung ke ketua kelompok dan mencatat jawabannya kata per kata | **Sudah dilaksanakan (8 November 2026)** |
-| Tidak ada transkrip percakapan nyata | Percakapan direkam dengan izin ketua, atau dilakukan lewat chat agar transkripnya utuh | Menunggu bukti |
+| Tidak ada transkrip percakapan nyata | Percakapan direkam dengan izin ketua, atau dilakukan lewat chat agar transkripnya utuh | **Sudah dilaksanakan (8 November 2026)**: percakapan lewat chat, screenshot ditampilkan di atas |
 | Perubahan V2 ke V3 belum dikonfirmasi target | Prototype V3 ditunjukkan ke ketua dan responsnya dicatat sebagai dasar revisi berikutnya | Menunggu bukti |
 
 ### Pesan untuk Memperoleh Konfirmasi Target
@@ -562,14 +583,14 @@ Untuk mengonfirmasi catatan percakapan setelah kelas, saya mengirim pesan beriku
 | Catatan percakapan langsung setelah kelas (di atas) | Sudah ditulis dan dikirim ke ketua; tidak dikoreksi | Halaman ini |
 | Screenshot balasan ketua atas catatan percakapan dan pertanyaan desired state | **Sudah dikumpulkan (8 November 2026).** Catatan tidak dikoreksi, belum dikonfirmasi eksplisit | `images/evidence/chat-ketua-2026-11-08-1.webp`, `-2.webp` |
 | Transkrip atau screenshot percakapan desired state dengan ketua | **Sudah dikumpulkan (8 November 2026)** | `images/evidence/chat-ketua-2026-11-08-1.webp`, `-2.webp` |
-| Screenshot respons ketua terhadap Prototype V3 | Belum dikumpulkan | `evidence/w09-respons-v3.png` |
+| Screenshot respons ketua terhadap Prototype V3 | Belum dikumpulkan | `images/evidence/w09-respons-v3.png` (rencana nama file) |
 | Catatan perubahan solusi berdasarkan respons asli | Belum dikumpulkan | `Ditulis langsung di halaman ini setelah percakapan` |
 
 Setelah bukti terkumpul, file disimpan di folder `portfolio/images/evidence/` dan ditampilkan di bagian ini. Respons asli target akan menggantikan respons role-play sebagai dasar penilaian agreement dan action.
 
 ## Self-Assessment
 
-Penilaian berikut merupakan target berdasarkan kualitas rancangan komunikasi. Skor akhir perlu dikonfirmasi melalui evidence dari pelaksanaan.
+Penilaian berikut didasarkan pada rancangan komunikasi dan bukti nyata yang sudah terkumpul (jawaban desired state dari ketua, agreement 8 November, dan pengumuman ke grup 9 November). Respons ketua terhadap Prototype V3 belum tersedia.
 
 | Dimensi | Skor 1–4 | Evidence Singkat |
 |---|---:|---|
@@ -577,7 +598,7 @@ Penilaian berikut merupakan target berdasarkan kualitas rancangan komunikasi. Sk
 | Objective & State | 4 | Current state, desired state, value, acceptable risk, dan evidence threshold dirumuskan secara jelas. |
 | Repertoire, Language & AI | 4 | Komunikasi menggunakan pertanyaan terbuka, konfirmasi pemahaman, value chain, dan AI secara transparan. |
 | Response & Adaptation | 4 | Hidden concern mengenai duplikasi pekerjaan menghasilkan perubahan substantif dari prototype V2 menjadi V3. |
-| Agreement, Action & Relationship | 3 | Rencana pemeriksaan dan evaluasi sudah terstruktur, tetapi hasil kesepakatan serta penerapannya masih memerlukan bukti nyata. |
+| Agreement, Action & Relationship | 3 | Agreement dengan ketua sudah tertulis (8 November) dan diumumkan ke grup (9 November), tetapi respons terhadap V3 dan hasil evaluasi penerapan belum ada. |
 
 ### Refleksi Akhir
 

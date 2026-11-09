@@ -622,11 +622,32 @@ Setelah membaca jawaban ketua tentang anggota yang sungkan bertanya dan kebutuha
 
 **Kaitan dengan minggu ini:** Agreement ini baru melibatkan satu stakeholder, yaitu ketua. Untuk negosiasi banyak pihak, usulan ini masih perlu disampaikan ke grup agar anggota lain, termasuk yang sungkan bertanya, bisa menyetujui, mengusulkan perubahan, atau menyampaikan keberatan yang kemudian dicatat sebagai dissent.
 
+### Pengumuman ke Grup Kelompok (9 November 2026)
+
+Pada 9 November 2026 pukul 15.19, saya menyampaikan usulan yang sudah disetujui ketua ke grup WhatsApp kelompok. Satu menit kemudian (15.20), saya mengirim pesan info kelompok yang akan dipakai sebagai pesan pin.
+
+![Pengumuman uji coba dan pesan info kelompok di grup](images/evidence/grup-2026-11-09-pengumuman.jpg)
+
+**Isi pengumuman:** tiga mekanisme yang disepakati dengan ketua (cek progres harian, boleh japri kalau bingung, info tugas dan deadline di pesan pin), pembagian peran (saya mengingatkan cek progres, Kafka memeriksa isi pin), evaluasi bersama tanggal 15, serta ajakan terbuka: *"Ada yang keberatan atau mau usul? Misalnya jamnya, atau lebih enak deadline ditulis langsung di pin? Tulis aja ya."*
+
+**Isi pesan info kelompok:** pembagian tugas (Google Docs kelompok, tautan menyusul), deadline resmi mengikuti pengumuman dosen di Edunex, deadline internal 13 November 2026, cek progres setiap hari pukul 20.00 WIB, kontak jika bingung (Azka/Kafka), dan tanggal terakhir dicek (9 November 2026).
+
+**Yang bisa dan tidak bisa saya simpulkan dari screenshot ini:**
+
+- Usulan sudah benar-benar disampaikan ke seluruh anggota, bukan hanya ke ketua.
+- Belum ada tanggapan anggota lain pada saat screenshot diambil.
+- Screenshot ini belum memperlihatkan penanda bahwa pesan sudah disematkan (*pinned*). Bukti pin perlu screenshot terpisah.
+- Tautan pembagian tugas masih "menyusul", sehingga isi pin belum sepenuhnya sesuai poin 3 agreement.
+- Pengumuman ke grup baru dilakukan 9 November, satu hari setelah agreement dengan ketua. Uji coba di grup praktis berjalan 9–15 November 2026.
+- Belum ada bukti tertulis bahwa ketua sudah memeriksa isi pesan info.
+
+**Kaitan dengan minggu ini:** Ini langkah pertama dari ketua sebagai satu-satunya stakeholder menuju negosiasi banyak pihak. Usulan dibuka ke seluruh anggota dengan ajakan menyampaikan keberatan atau usul. Namun, belum ada anggota yang menanggapi, sehingga negosiasi multi-pihak dan dissent belum terjadi. Tanggapan anggota dan diskusi evaluasi 15 November akan menjadi bukti utama minggu ini.
+
 ### Perubahan yang Saya Lakukan
 
 | Bagian yang dikritik | Perubahan | Status |
 |---|---|---|
-| Negosiasi multi-pihak hanya berupa skenario | Saya memfasilitasi diskusi nyata dengan ketua, penanggung jawab tugas, dan perwakilan anggota (atau teman sekelas sebagai pihak eksternal) | Belum dilaksanakan |
+| Negosiasi multi-pihak hanya berupa skenario | Saya memfasilitasi diskusi nyata dengan ketua, penanggung jawab tugas, dan perwakilan anggota (atau teman sekelas sebagai pihak eksternal) | Dimulai (9 November 2026): usulan dibuka ke grup dengan ajakan menyampaikan keberatan atau usul; belum ada tanggapan anggota |
 | Dissent belum divalidasi oleh pihak yang menyampaikannya | Catatan dissent dikirim ke pihak terkait untuk dikonfirmasi apakah rumusannya sudah sesuai | Menunggu bukti |
 | Decision record belum disetujui stakeholder | Decision record dibagikan ke grup dan konfirmasi tiap pihak didokumentasikan | Sebagian: ketua sudah setuju (8 November 2026); anggota lain belum |
 
@@ -646,15 +667,16 @@ Untuk mengonfirmasi catatan percakapan setelah kelas, saya mengirim pesan beriku
 |---|---|---|
 | Catatan percakapan langsung setelah kelas (di atas) | Sudah ditulis dan dikirim ke ketua; tidak dikoreksi | Halaman ini |
 | Screenshot balasan ketua atas catatan percakapan dan pertanyaan desired state | **Sudah dikumpulkan (8 November 2026).** Catatan tidak dikoreksi, belum dikonfirmasi eksplisit | `images/evidence/chat-ketua-2026-11-08-1.webp`, `-2.webp` |
-| Transkrip atau rekaman diskusi multi-pihak (dengan izin) | Belum dikumpulkan | `evidence/w11-transkrip-diskusi.png` |
-| Screenshot konfirmasi decision record dari tiap pihak | Belum dikumpulkan | `evidence/w11-konfirmasi-keputusan.png` |
-| Screenshot konfirmasi rumusan dissent dari perwakilan anggota | Belum dikumpulkan | `evidence/w11-konfirmasi-dissent.png` |
+| Screenshot usulan yang dibuka ke seluruh anggota grup | **Sudah dikumpulkan (9 November 2026)**; belum ada tanggapan anggota | `images/evidence/grup-2026-11-09-pengumuman.jpg` |
+| Transkrip atau rekaman diskusi multi-pihak (dengan izin) | Belum dikumpulkan | `images/evidence/w11-transkrip-diskusi.png` (rencana nama file) |
+| Screenshot konfirmasi decision record dari tiap pihak | Belum dikumpulkan | `images/evidence/w11-konfirmasi-keputusan.png` (rencana nama file) |
+| Screenshot konfirmasi rumusan dissent dari perwakilan anggota | Belum dikumpulkan | `images/evidence/w11-konfirmasi-dissent.png` (rencana nama file) |
 
 Setelah bukti terkumpul, file disimpan di folder `portfolio/images/evidence/` dan ditampilkan di bagian ini. Respons asli target akan menggantikan respons role-play sebagai dasar penilaian agreement dan action.
 
 ## Self-Assessment
 
-Penilaian berikut merupakan target berdasarkan rancangan komunikasi. Skor akhir perlu didukung evidence dari negosiasi yang benar-benar dilaksanakan.
+Penilaian berikut didasarkan pada rancangan komunikasi dan bukti nyata yang sudah terkumpul (agreement dengan ketua 8 November dan usulan yang dibuka ke grup 9 November). Negosiasi dengan anggota lain belum terjadi.
 
 | Dimensi | Skor 1–4 | Evidence Singkat |
 |---|---:|---|

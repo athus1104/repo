@@ -521,6 +521,27 @@ Setelah membaca jawaban ketua tentang anggota yang sungkan bertanya dan kebutuha
 
 **Kaitan dengan minggu ini:** Desire–action gap mulai tertutup: keinginan ketua kini menjadi tindakan dengan owner (saya menyusun dan mengingatkan, ketua memeriksa), periode (8–15 November 2026), dan titik evaluasi. Bukti pelaksanaannya, yaitu pesan pin di grup, catatan pemeriksaan ketua, dan hasil evaluasi 15 November, masih perlu dikumpulkan.
 
+### Pengumuman ke Grup Kelompok (9 November 2026)
+
+Pada 9 November 2026 pukul 15.19, saya menyampaikan usulan yang sudah disetujui ketua ke grup WhatsApp kelompok. Satu menit kemudian (15.20), saya mengirim pesan info kelompok yang akan dipakai sebagai pesan pin.
+
+![Pengumuman uji coba dan pesan info kelompok di grup](images/evidence/grup-2026-11-09-pengumuman.jpg)
+
+**Isi pengumuman:** tiga mekanisme yang disepakati dengan ketua (cek progres harian, boleh japri kalau bingung, info tugas dan deadline di pesan pin), pembagian peran (saya mengingatkan cek progres, Kafka memeriksa isi pin), evaluasi bersama tanggal 15, serta ajakan terbuka: *"Ada yang keberatan atau mau usul? Misalnya jamnya, atau lebih enak deadline ditulis langsung di pin? Tulis aja ya."*
+
+**Isi pesan info kelompok:** pembagian tugas (Google Docs kelompok, tautan menyusul), deadline resmi mengikuti pengumuman dosen di Edunex, deadline internal 13 November 2026, cek progres setiap hari pukul 20.00 WIB, kontak jika bingung (Azka/Kafka), dan tanggal terakhir dicek (9 November 2026).
+
+**Yang bisa dan tidak bisa saya simpulkan dari screenshot ini:**
+
+- Usulan sudah benar-benar disampaikan ke seluruh anggota, bukan hanya ke ketua.
+- Belum ada tanggapan anggota lain pada saat screenshot diambil.
+- Screenshot ini belum memperlihatkan penanda bahwa pesan sudah disematkan (*pinned*). Bukti pin perlu screenshot terpisah.
+- Tautan pembagian tugas masih "menyusul", sehingga isi pin belum sepenuhnya sesuai poin 3 agreement.
+- Pengumuman ke grup baru dilakukan 9 November, satu hari setelah agreement dengan ketua. Uji coba di grup praktis berjalan 9–15 November 2026.
+- Belum ada bukti tertulis bahwa ketua sudah memeriksa isi pesan info.
+
+**Kaitan dengan minggu ini:** Ini bukti pertama bahwa agreement berubah menjadi *action*: usulan diumumkan, pesan info dibuat, dan jadwal cek progres ditetapkan (20.00 WIB). Masih perlu dibuktikan: pesan benar-benar disematkan, ketua memeriksa isinya, cek progres harian berjalan, dan hasil evaluasi 15 November.
+
 ### Perubahan yang Saya Lakukan
 
 | Bagian yang dikritik | Perubahan | Status |
@@ -545,15 +566,16 @@ Untuk mengonfirmasi catatan percakapan setelah kelas, saya mengirim pesan beriku
 |---|---|---|
 | Catatan percakapan langsung setelah kelas (di atas) | Sudah ditulis dan dikirim ke ketua; tidak dikoreksi | Halaman ini |
 | Screenshot balasan ketua atas catatan percakapan dan pertanyaan desired state | **Sudah dikumpulkan (8 November 2026).** Catatan tidak dikoreksi, belum dikonfirmasi eksplisit | `images/evidence/chat-ketua-2026-11-08-1.webp`, `-2.webp` |
-| Screenshot prototype pusat informasi kelompok | Belum dikumpulkan | `evidence/w10-prototype.png` |
-| Screenshot catatan review dari ketua | Belum dikumpulkan | `evidence/w10-review-ketua.png` |
+| Screenshot pengumuman uji coba dan pesan info kelompok di grup | **Sudah dikumpulkan (9 November 2026)**; penanda pin belum terlihat | `images/evidence/grup-2026-11-09-pengumuman.jpg` |
+| Screenshot prototype pusat informasi kelompok | Belum dikumpulkan | `images/evidence/w10-prototype.png` (rencana nama file) |
+| Screenshot catatan review dari ketua | Belum dikumpulkan | `images/evidence/w10-review-ketua.png` (rencana nama file) |
 | Screenshot keputusan lanjut / perbaiki / tunda | **Sudah dikumpulkan (8 November 2026)**: lanjut uji coba, diputuskan lewat japri dengan ketua | `images/evidence/chat-ketua-2026-11-08-agreement.webp` |
 
 Setelah bukti terkumpul, file disimpan di folder `portfolio/images/evidence/` dan ditampilkan di bagian ini. Respons asli target akan menggantikan respons role-play sebagai dasar penilaian agreement dan action.
 
 ## Self-Assessment
 
-Penilaian berikut merupakan target berdasarkan rancangan komunikasi. Skor akhir perlu disesuaikan dengan evidence pelaksanaan.
+Penilaian berikut didasarkan pada rancangan komunikasi dan bukti nyata yang sudah terkumpul (agreement 8 November dan pengumuman ke grup 9 November). Bukti pelaksanaan harian dan hasil review belum tersedia.
 
 | Dimensi | Skor 1–4 | Evidence Singkat |
 |---|---:|---|
@@ -561,7 +583,7 @@ Penilaian berikut merupakan target berdasarkan rancangan komunikasi. Skor akhir 
 | Objective & State | 4 | Desire–action gap, hambatan, initial state, dan objective dirumuskan secara spesifik. |
 | Repertoire, Language & AI | 3 | Negosiasi menggunakan alternatif, trade-off, dan bahasa kolaboratif. AI digunakan secara transparan, tetapi efektivitas pendekatan masih perlu diuji melalui praktik. |
 | Response & Adaptation | 4 | Keberatan target menjadi dasar perubahan strategi dari implementasi langsung menjadi pemeriksaan prototype yang lebih realistis. |
-| Agreement, Action & Relationship | 3 | Agreement memiliki owner, deadline, output, dan review. Namun, konfirmasi kesepakatan serta hasil action aktual belum terdokumentasi. |
+| Agreement, Action & Relationship | 3 | Agreement memiliki owner, deadline, output, dan review, sudah dikonfirmasi ketua (8 November) dan mulai dijalankan di grup (9 November). Hasil action harian dan review belum terdokumentasi. |
 
 ### Refleksi Akhir
 

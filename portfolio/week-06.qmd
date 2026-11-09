@@ -270,11 +270,13 @@ Keberhasilan komunikasi tetap bergantung pada kemampuan saya mendengarkan, menil
 
 ### Feedback yang diterima
 
-Berikut merupakan contoh feedback yang disiapkan untuk evaluasi role-play dan perlu disesuaikan setelah pelaksanaan:
+**Feedback dari latihan role-play (bukan dari target nyata):**
 
 > "Permasalahan yang disampaikan cukup relevan dengan kondisi kelompok. Solusinya juga sederhana, tetapi pada awalnya belum jelas siapa yang akan bertanggung jawab memperbarui informasi."
 
-Feedback tersebut menunjukkan bahwa kekuatan komunikasi terletak pada relevansi masalah dan kesederhanaan solusi, sedangkan kelemahannya adalah kurangnya kejelasan pembagian tanggung jawab pada pitch awal.
+Feedback latihan tersebut menunjukkan bahwa kekuatan komunikasi terletak pada relevansi masalah dan kesederhanaan solusi, sedangkan kelemahannya adalah kurangnya kejelasan pembagian tanggung jawab pada pitch awal.
+
+**Feedback dari target nyata (8 November 2026):** Jawaban ketua kelompok justru mengoreksi framing masalah saya. Ia tidak menekankan informasi yang tertimbun di chat, tetapi anggota yang *sungkan bertanya* dan pembahasan yang menumpuk menjelang deadline. Rincian dan screenshot-nya ada di bagian *Bukti Pelaksanaan Nyata*.
 
 ### Adaptation/Replay
 
@@ -301,9 +303,83 @@ Pada latihan berikutnya, saya akan berfokus pada kemampuan **menyampaikan attent
 
 Saya juga akan berlatih mengajukan pertanyaan terbuka setelah pitch agar dapat memahami perspektif target sebelum menawarkan solusi lebih lanjut.
 
+## Bukti Pelaksanaan Nyata
+
+::: {.callout-important title="Status"}
+Bagian-bagian sebelumnya adalah rancangan dan dialog latihan yang saya susun pada 5 November 2026. Bagian ini mencatat apa yang benar-benar terjadi setelahnya, apa adanya. Bila berbeda dengan skenario, yang dipakai sebagai dasar penilaian adalah bagian ini.
+:::
+
+### Percakapan setelah kelas (awal November 2026)
+
+::: {.callout-note title="Catatan percakapan langsung (rekonstruksi dari ingatan, tidak direkam)"}
+**Waktu dan tempat:** Awal November 2026, ketika kelompok mulai membahas tugas ini. Obrolan dilakukan langsung di kelas setelah perkuliahan. Tanggal pastinya tidak saya catat.
+
+**Yang terlibat:** Saya, ketua kelompok, dan beberapa anggota kelompok lain.
+
+**Yang terjadi:** Beberapa anggota menyampaikan bahwa mereka belum terlalu paham tugasnya, lalu ketua menjelaskannya ulang. Setelah itu kami saling memberi masukan, salah satunya agar tidak mengerjakan bagian masing-masing terlalu mepet deadline.
+:::
+
+**Kaitan dengan minggu ini:** Ini adalah *evidence* nyata bahwa masalah koordinasi memang terjadi, dan bahwa ketua sudah berada di state **Problem Aware**: ia sendiri yang harus menjelaskan ulang tugas kepada anggota.
+
+### Membangun attention: pertanyaan ke ketua (8 November 2026, 23.32)
+
+Saya tidak menyampaikan attention pitch persis seperti naskah di atas. Saya mengirim catatan percakapan setelah kelas untuk dikoreksi, lalu bertanya kondisi koordinasi seperti apa yang ia harapkan. Ketua membalas pada menit yang sama.
+
+::: {layout-ncol=2}
+![Pesan konfirmasi dan pertanyaan kepada ketua](images/evidence/chat-ketua-2026-11-08-1.webp)
+
+![Balasan ketua kelompok](images/evidence/chat-ketua-2026-11-08-2.webp)
+:::
+
+**Balasan ketua (dikutip apa adanya):**
+
+> "Kalau menurut gua sih komunikasi antaranggota yang paling perlu ditingkatin bro. Kadang ada yang belum paham tapi sungkan buat nanya, jadi ujung-ujungnya malah bingung sendiri. Gua pengennya ke depannya kita bisa lebih aktif buat diskusi dan saling ngingetin progres tugas masing-masing. Jadi kalau ada yang kesulitan bisa langsung dibantu, ga harus nunggu pas udah deket deadline baru dibahas bareng."
+
+Ketua tidak mengoreksi catatan saya, tetapi juga tidak menulis "benar" secara eksplisit. Karena itu saya menyebutnya **tidak dikoreksi**, bukan **dikonfirmasi penuh**.
+
+### Agreement (8 November 2026, 23.39–23.40)
+
+Berdasarkan jawaban tersebut, saya mengubah usulan dari sekadar pesan pin menjadi tiga hal: cek progres singkat harian di grup, boleh bertanya lewat japri ke saya atau ketua, dan satu pesan pin berisi info tugas dan deadline. Ketua menjawab "okee bree coba aja dlu seminggu" dan memberi reaksi 👍.
+
+![Usulan yang dikirim dan persetujuan ketua kelompok](images/evidence/chat-ketua-2026-11-08-agreement.webp)
+
+### Pengumuman ke grup (9 November 2026, 15.19–15.20)
+
+Usulan yang disetujui ketua saya sampaikan ke grup kelompok, disertai pesan info kelompok dan ajakan bagi anggota untuk menyampaikan keberatan atau usul.
+
+![Pengumuman uji coba dan pesan info kelompok di grup](images/evidence/grup-2026-11-09-pengumuman.jpg)
+
+Pada saat screenshot diambil belum ada tanggapan anggota, penanda pin belum terlihat, dan tautan pembagian tugas masih "menyusul".
+
+### State assessment berdasarkan bukti nyata
+
+| Tahap | State | Evidence nyata |
+|---|---|---|
+| Setelah kelas, awal November | Problem Aware | Ketua menjelaskan ulang tugas kepada anggota yang belum paham |
+| Setelah pertanyaan 8 November | Attention | Ketua merumuskan sendiri masalahnya (anggota sungkan bertanya) dan kondisi yang ia inginkan |
+| Setelah usulan 8 November | Setuju uji coba satu minggu | "okee bree coba aja dlu seminggu" + reaksi 👍 |
+| 9 November | Uji coba diumumkan ke grup | Screenshot pengumuman; tanggapan anggota belum ada |
+
+### Perbedaan antara skenario dan kenyataan
+
+| Aspek | Skenario (5 November) | Kenyataan (8–9 November) |
+|---|---|---|
+| Cara membangun attention | Attention pitch berisi masalah dan usulan | Pertanyaan terbuka tentang kondisi yang diharapkan ketua |
+| Inti masalah | Informasi tertimbun di chat | Anggota sungkan bertanya dan progres baru dibahas menjelang deadline |
+| Keberatan target | Takut menambah pekerjaan ketua | Tidak ada keberatan; ketua langsung setuju mencoba |
+| Solusi | Satu pesan rangkuman yang di-pin | Cek progres harian, jalur japri, dan pesan pin |
+
+**Pelajaran utama:** Dugaan saya tentang masalahnya hanya benar sebagian. Bertanya lebih dulu sebelum mengajukan solusi membuat target menyebutkan masalah dengan kata-katanya sendiri, dan solusi yang dihasilkan lebih sesuai dengan kebutuhannya.
+
+### Yang belum ada
+
+- Screenshot penanda pesan yang disematkan dan konfirmasi ketua sudah memeriksa isinya.
+- Tanggapan anggota lain terhadap pengumuman di grup.
+- Hasil evaluasi uji coba pada 15 November 2026.
+
 ## Self-Assessment
 
-Penilaian berikut merupakan target penilaian diri berdasarkan rancangan simulasi. Skor perlu diperiksa kembali menggunakan evidence dari pelaksanaan sebenarnya.
+Penilaian berikut didasarkan pada rancangan komunikasi dan bukti nyata yang sudah terkumpul (percakapan setelah kelas, balasan ketua dan agreement 8 November, serta pengumuman ke grup 9 November). Hasil evaluasi uji coba belum tersedia.
 
 | Dimensi | Skor 1–4 | Evidence Singkat |
 |---|---:|---|
@@ -311,7 +387,7 @@ Penilaian berikut merupakan target penilaian diri berdasarkan rancangan simulasi
 | Objective & State | 4 | Objective jelas serta terdapat identifikasi state awal, respons target, dan kemungkinan perubahan state setelah adaptation. |
 | Repertoire, Language & AI | 4 | Pitch menggunakan bahasa relevan, mengakui keterbatasan evidence, dan penggunaan AI dijelaskan secara transparan. |
 | Response & Adaptation | 4 | Keberatan target dianalisis dan direspons melalui perubahan cakupan solusi, pembagian tanggung jawab, serta evaluasi. |
-| Agreement, Action & Relationship | 3 | Action plan dan indikator telah dirancang secara spesifik, tetapi keberhasilan pelaksanaan dan hasil evaluasi belum dapat dibuktikan. |
+| Agreement, Action & Relationship | 3 | Ketua setuju tertulis mencoba uji coba satu minggu (8 November) dan usulan sudah diumumkan ke grup (9 November), tetapi tanggapan anggota dan hasil evaluasi belum ada. |
 
 ### Refleksi Akhir
 
