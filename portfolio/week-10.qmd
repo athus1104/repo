@@ -587,10 +587,32 @@ Pukul 15.39 saya memberi tahu grup bahwa saya akan memasukkan tautan Google Docs
 
 - Poin 3 agreement kini terpenuhi: pesan pin berisi tautan pembagian tugas, rujukan deadline resmi dosen, dan deadline internal.
 - Header grup menunjukkan anggota grup adalah Kafka (ketua), Rasya, dan saya. Artinya "anggota lain" dalam uji coba ini adalah Rasya.
-- Hingga screenshot diambil, Rasya belum menanggapi pengumuman maupun pesan info.
-- Versi baru ini disematkan tanpa diperiksa ulang oleh ketua. Perubahannya hanya penambahan tautan, tetapi ini tetap tidak sesuai dengan komitmen saya untuk mengirim pembaruan pin ke ketua lebih dulu.
+- Rasya tidak menanggapi pengumuman maupun pesan info secara langsung.
+- Versi baru ini disematkan sebelum diperiksa ulang oleh ketua. Ketua membalas "amsbey" pukul 15.43, setelah pin dipasang, tanpa mengutip pesan tertentu, sehingga saya anggap sebagai tanggapan umum, bukan pemeriksaan eksplisit. Perubahannya hanya penambahan tautan, tetapi urutan ini tetap tidak sesuai dengan komitmen saya untuk mengirim pembaruan pin ke ketua lebih dulu.
 
 **Kaitan dengan minggu ini:** Action "menyusun pesan pin" kini selesai sesuai isi agreement. Namun, pemeriksaan oleh ketua untuk versi ini terlewat, dan ini saya catat sebagai penyimpangan kedua dari action plan.
+
+### Cek Progres Pertama (9 November 2026, 20.03–20.08)
+
+Pada malam hari yang sama, saya mengirim pengingat cek progres pertama ke grup pukul 20.03. Saya menuliskan progres saya lebih dulu sebagai contoh, lalu menandai Rasya dan Kafka. Jam pada menu bar laptop di screenshot menunjukkan "Mon 9 Nov 20.12".
+
+![Cek progres pertama di grup, dengan banner pin dan pesan info versi bertautan (tautan disensor)](images/evidence/grup-2026-11-09-cek-progres.jpg)
+
+**Pesan saya (20.03):** "Cek progres hari ini guys 🙏 Bales 1 baris aja: udah sampai mana + ada kendala gak. gua duluan: gua udah ngerjain bagian perancangan prototype sama penjelasannya. @Rasya stei k @Kafka"
+
+**Balasan Rasya (20.05, dikutip apa adanya):** "Gua udah ngerjain bagian desain tampilan, tinggal nyesuaiin beberapa bagian sama prototype yang udah dibuat. Belum ada kendala sama lagi nyusun bagian dokumentasi sama laporan, sebagian udah selesai cuma masih perlu beberapa informasi dari yang lain"
+
+**Balasan Kafka (20.05 dan 20.08, dikutip apa adanya):** "Cek progres hari ini guys 🙏" lalu "Gua udah mulai ngerjain bagian analisis kebutuhan, tinggal ngerapiin beberapa poin aja. Sejauh ini aman sih."
+
+**Yang bisa dan tidak bisa saya simpulkan:**
+
+- Cek progres hari pertama berjalan: ketiga anggota melaporkan progres dalam lima menit setelah pengingat.
+- Tidak ada yang melaporkan kendala. Namun, Rasya menyebut masih perlu informasi dari anggota lain. Ini belum disebut "kendala", tetapi perlu saya tindak lanjuti sebelum menjadi hambatan.
+- Rasya ikut menjalankan mekanisme, tetapi belum menyampaikan pendapat tentang mekanisme itu sendiri (setuju, usul, atau keberatan).
+- Screenshot ini juga memperlihatkan balasan Kafka "amsbey" pukul 15.43, setelah pesan info versi bertautan disematkan.
+- Antara pukul 15.43 dan 20.03 ada beberapa pesan obrolan di luar topik tugas yang tidak tampak pada screenshot ini.
+
+**Kaitan dengan minggu ini:** Ini bukti action saya sebagai owner pengingat cek progres, sekaligus bukti bahwa anggota benar-benar menjalankannya. Hari 1 dari 7 sudah terdokumentasi; hari berikutnya dan hasil evaluasi masih perlu dikumpulkan.
 
 ### Perubahan yang Saya Lakukan
 
@@ -618,7 +640,8 @@ Untuk mengonfirmasi catatan percakapan setelah kelas, saya mengirim pesan beriku
 | Screenshot balasan ketua atas catatan percakapan dan pertanyaan desired state | **Sudah dikumpulkan (8 November 2026).** Catatan tidak dikoreksi, belum dikonfirmasi eksplisit | `images/evidence/chat-ketua-2026-11-08-1.webp`, `-2.webp` |
 | Screenshot pengumuman uji coba dan pesan info kelompok di grup | **Sudah dikumpulkan (9 November 2026)** | `images/evidence/grup-2026-11-09-pengumuman.jpg` |
 | Screenshot pesan info yang disematkan dan konfirmasi ketua di grup | **Sudah dikumpulkan (9 November 2026)** | `images/evidence/grup-2026-11-09-pin-konfirmasi.jpg` |
-| Screenshot banner pin dengan tautan Google Docs | **Sudah dikumpulkan (9 November 2026)**; tautan disensor; versi ini belum diperiksa ulang ketua | `images/evidence/grup-2026-11-09-pin-link-docs.jpg` |
+| Screenshot banner pin dengan tautan Google Docs | **Sudah dikumpulkan (9 November 2026)**; tautan disensor; dipasang sebelum diperiksa ulang ketua | `images/evidence/grup-2026-11-09-pin-link-docs.jpg` |
+| Screenshot cek progres harian | **Hari 1 sudah dikumpulkan (9 November 2026)**: ketiga anggota melapor | `images/evidence/grup-2026-11-09-cek-progres.jpg` |
 | Screenshot prototype pusat informasi kelompok | Belum dikumpulkan | `images/evidence/w10-prototype.png` (rencana nama file) |
 | Screenshot catatan review dari ketua | **Sudah dikumpulkan (9 November 2026)**: isi pin diperiksa, tidak ada koreksi | `images/evidence/japri-ketua-2026-11-09-cek-pin.jpg` |
 | Screenshot catatan review prototype lengkap dari ketua | Belum dikumpulkan | `images/evidence/w10-review-ketua.png` (rencana nama file) |
