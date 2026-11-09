@@ -529,9 +529,27 @@ Pada 9 November 2026 pukul 15.19, saya menyampaikan usulan yang sudah disetujui 
 - Screenshot ini belum memperlihatkan penanda bahwa pesan sudah disematkan (*pinned*). Bukti pin perlu screenshot terpisah.
 - Tautan pembagian tugas masih "menyusul", sehingga isi pin belum sepenuhnya sesuai poin 3 agreement.
 - Pengumuman ke grup baru dilakukan 9 November, satu hari setelah agreement dengan ketua. Uji coba di grup praktis berjalan 9–15 November 2026.
-- Belum ada bukti tertulis bahwa ketua sudah memeriksa isi pesan info.
+- Pemeriksaan isi pesan info oleh ketua dilakukan lewat japri pukul 15.34, setelah pesan sudah dikirim ke grup.
 
 **Kaitan dengan minggu ini:** Solusi yang membangun *interest* ketua kini sudah disampaikan ke seluruh kelompok dalam bentuk nyata, bukan lagi prototype di halaman ini. Respons anggota dan hasil evaluasi 15 November akan menunjukkan apakah ketertarikan itu juga dirasakan anggota lain.
+
+### Pemeriksaan Isi Pin oleh Ketua (9 November 2026, 15.34)
+
+Sesuai pembagian tanggung jawab, saya mengirim isi pesan info kelompok kepada ketua lewat japri dan meminta ia memeriksanya. Ketua membalas pada menit yang sama.
+
+![Permintaan pemeriksaan isi pin dan balasan ketua](images/evidence/japri-ketua-2026-11-09-cek-pin.jpg)
+
+**Pesan saya:** "Kaf, info di pin udah bener belum? Kalau ada yang salah koreksi aja y"
+
+**Balasan ketua (dikutip apa adanya):** "ams beyy kirim aja", yang saya pahami sebagai "aman, kirim saja".
+
+**Yang bisa dan tidak bisa saya simpulkan:**
+
+- Ketua sudah memeriksa isi pesan info dan tidak meminta perubahan. Ini bukti bahwa ia menjalankan perannya dalam agreement.
+- Pemeriksaan ini terjadi pukul 15.34, setelah pesan info sudah saya kirim ke grup pukul 15.20. Urutan yang benar menurut action plan adalah diperiksa dulu, baru dipublikasikan. Ke depannya, pembaruan pin akan saya kirim ke ketua lebih dulu.
+- Tautan pembagian tugas di pesan tersebut masih "menyusul", dan penanda pin di grup belum terdokumentasi.
+
+**Kaitan dengan minggu ini:** Hidden concern ketua di skenario adalah keakuratan informasi. Pemeriksaan ini menunjukkan mekanisme cek oleh ketua benar-benar dipakai, bukan hanya dirancang di prototype V2.
 
 ### Perubahan yang Saya Lakukan
 
@@ -559,6 +577,7 @@ Untuk mengonfirmasi catatan percakapan setelah kelas, saya mengirim pesan beriku
 | Screenshot balasan ketua atas catatan percakapan dan pertanyaan desired state | **Sudah dikumpulkan (8 November 2026).** Catatan tidak dikoreksi, belum dikonfirmasi eksplisit | `images/evidence/chat-ketua-2026-11-08-1.webp`, `-2.webp` |
 | Screenshot chat konfirmasi ketua (setuju / menolak / minta revisi) | **Sudah dikumpulkan (8 November 2026)**: setuju | `images/evidence/chat-ketua-2026-11-08-agreement.webp` |
 | Screenshot pesan rangkuman di grup | **Sebagian (9 November 2026)**: pesan info sudah dikirim ke grup; penanda pin belum terlihat di screenshot | `images/evidence/grup-2026-11-09-pengumuman.jpg` |
+| Screenshot pemeriksaan isi pin oleh ketua | **Sudah dikumpulkan (9 November 2026)**: tidak ada koreksi | `images/evidence/japri-ketua-2026-11-09-cek-pin.jpg` |
 | Screenshot penanda pesan yang disematkan | Belum dikumpulkan | `images/evidence/w07-pinned-message.png` (rencana nama file) |
 | Catatan hasil evaluasi setelah satu minggu | Belum dikumpulkan | `images/evidence/w07-evaluasi.png` (rencana nama file) |
 
