@@ -364,8 +364,23 @@ Sesuai pembagian tanggung jawab, saya mengirim isi pesan info kelompok kepada ke
 **Yang bisa dan tidak bisa saya simpulkan:**
 
 - Ketua sudah memeriksa isi pesan info dan tidak meminta perubahan. Ini bukti bahwa ia menjalankan perannya dalam agreement.
-- Pemeriksaan ini terjadi pukul 15.34, setelah pesan info sudah saya kirim ke grup pukul 15.20. Urutan yang benar menurut action plan adalah diperiksa dulu, baru dipublikasikan. Ke depannya, pembaruan pin akan saya kirim ke ketua lebih dulu.
-- Tautan pembagian tugas di pesan tersebut masih "menyusul", dan penanda pin di grup belum terdokumentasi.
+- Pemeriksaan ini terjadi pukul 15.34, setelah pesan info sudah saya kirim ke grup pukul 15.20. Urutan yang benar menurut action plan adalah diperiksa dulu, baru dipublikasikan. Pesan baru disematkan setelah pemeriksaan ini. Ke depannya, pembaruan pin akan saya kirim ke ketua lebih dulu.
+- Tautan pembagian tugas di pesan tersebut masih "menyusul".
+
+### Pin dan Konfirmasi Ketua di Grup (9 November 2026, 15.37)
+
+Ketua juga membalas pengumuman langsung di grup pukul 15.37. Setelah itu saya menyematkan pesan info kelompok. Ikon pin pada pesan pukul 15.20 dan notifikasi "You pinned a message" terlihat pada screenshot.
+
+![Konfirmasi ketua di grup dan pesan info yang sudah disematkan](images/evidence/grup-2026-11-09-pin-konfirmasi.jpg)
+
+**Balasan ketua di grup (dikutip apa adanya, membalas pengumuman):** "amngs beyy, udah bener kok ituh", yang saya pahami sebagai "aman, sudah benar kok itu".
+
+**Yang bisa dan tidak bisa saya simpulkan:**
+
+- Pesan info kelompok sudah benar-benar disematkan, dan baru disematkan setelah ketua memeriksa isinya.
+- Ketua menyatakan persetujuannya secara terbuka di depan anggota lain, bukan hanya lewat japri.
+- Tanda centang biru menunjukkan pengumuman sudah dibaca, tetapi belum ada anggota selain ketua yang menanggapi.
+- Tautan pembagian tugas masih "menyusul".
 
 ### State assessment berdasarkan bukti nyata
 
@@ -376,6 +391,7 @@ Sesuai pembagian tanggung jawab, saya mengirim isi pesan info kelompok kepada ke
 | Setelah usulan 8 November | Setuju uji coba satu minggu | "okee bree coba aja dlu seminggu" + reaksi 👍 |
 | 9 November | Uji coba diumumkan ke grup | Screenshot pengumuman; tanggapan anggota belum ada |
 | 9 November | Ketua menjalankan perannya | Memeriksa isi pin lewat japri: "ams beyy kirim aja" |
+| 9 November | Ketua mendukung secara terbuka di grup | "amngs beyy, udah bener kok ituh"; pesan info disematkan |
 
 ### Perbedaan antara skenario dan kenyataan
 
@@ -390,7 +406,7 @@ Sesuai pembagian tanggung jawab, saya mengirim isi pesan info kelompok kepada ke
 
 ### Yang belum ada
 
-- Screenshot penanda pesan yang disematkan di grup.
+- Tautan Google Docs pembagian tugas di pesan pin.
 - Tanggapan anggota lain terhadap pengumuman di grup.
 - Hasil evaluasi uji coba pada 15 November 2026.
 

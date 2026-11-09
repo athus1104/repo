@@ -551,12 +551,29 @@ Pada 9 November 2026 pukul 15.19, saya menyampaikan usulan yang sudah disetujui 
 
 - Usulan sudah benar-benar disampaikan ke seluruh anggota, bukan hanya ke ketua.
 - Belum ada tanggapan anggota lain pada saat screenshot diambil.
-- Screenshot ini belum memperlihatkan penanda bahwa pesan sudah disematkan (*pinned*). Bukti pin perlu screenshot terpisah.
+- Screenshot ini belum memperlihatkan penanda pin. Pin baru dipasang setelah ketua menanggapi (lihat bagian *Pin dan Konfirmasi Ketua di Grup*).
 - Tautan pembagian tugas masih "menyusul", sehingga isi pin belum sepenuhnya sesuai poin 3 agreement.
 - Pengumuman ke grup baru dilakukan 9 November, satu hari setelah agreement dengan ketua. Uji coba di grup praktis berjalan 9–15 November 2026.
 - Pemeriksaan isi pesan info oleh ketua dilakukan lewat japri pukul 15.34, setelah pesan sudah dikirim ke grup.
 
 **Kaitan dengan minggu ini:** Pesan info dan mekanisme cek progres adalah bentuk nyata dari *desired state* ketua: anggota saling mengingatkan progres dan punya jalur aman untuk bertanya. Respons ketua terhadap Prototype V3 tetap belum ada, sehingga perubahan V2 ke V3 belum dikonfirmasi target.
+
+### Pin dan Konfirmasi Ketua di Grup (9 November 2026, 15.37)
+
+Ketua juga membalas pengumuman langsung di grup pukul 15.37. Setelah itu saya menyematkan pesan info kelompok. Ikon pin pada pesan pukul 15.20 dan notifikasi "You pinned a message" terlihat pada screenshot.
+
+![Konfirmasi ketua di grup dan pesan info yang sudah disematkan](images/evidence/grup-2026-11-09-pin-konfirmasi.jpg)
+
+**Balasan ketua di grup (dikutip apa adanya, membalas pengumuman):** "amngs beyy, udah bener kok ituh", yang saya pahami sebagai "aman, sudah benar kok itu".
+
+**Yang bisa dan tidak bisa saya simpulkan:**
+
+- Pesan info kelompok sudah benar-benar disematkan, dan baru disematkan setelah ketua memeriksa isinya.
+- Ketua menyatakan persetujuannya secara terbuka di depan anggota lain, bukan hanya lewat japri.
+- Tanda centang biru menunjukkan pengumuman sudah dibaca, tetapi belum ada anggota selain ketua yang menanggapi.
+- Tautan pembagian tugas masih "menyusul".
+
+**Kaitan dengan minggu ini:** Ketua menyetujui bentuk nyata solusi di depan grup. Namun, ini persetujuan atas pesan info dan mekanisme uji coba, bukan respons terhadap Prototype V3.
 
 ### Perubahan yang Saya Lakukan
 

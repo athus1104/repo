@@ -636,12 +636,29 @@ Pada 9 November 2026 pukul 15.19, saya menyampaikan usulan yang sudah disetujui 
 
 - Usulan sudah benar-benar disampaikan ke seluruh anggota, bukan hanya ke ketua.
 - Belum ada tanggapan anggota lain pada saat screenshot diambil.
-- Screenshot ini belum memperlihatkan penanda bahwa pesan sudah disematkan (*pinned*). Bukti pin perlu screenshot terpisah.
+- Screenshot ini belum memperlihatkan penanda pin. Pin baru dipasang setelah ketua menanggapi (lihat bagian *Pin dan Konfirmasi Ketua di Grup*).
 - Tautan pembagian tugas masih "menyusul", sehingga isi pin belum sepenuhnya sesuai poin 3 agreement.
 - Pengumuman ke grup baru dilakukan 9 November, satu hari setelah agreement dengan ketua. Uji coba di grup praktis berjalan 9–15 November 2026.
 - Pemeriksaan isi pesan info oleh ketua dilakukan lewat japri pukul 15.34, setelah pesan sudah dikirim ke grup.
 
 **Kaitan dengan minggu ini:** Ini langkah pertama dari ketua sebagai satu-satunya stakeholder menuju negosiasi banyak pihak. Usulan dibuka ke seluruh anggota dengan ajakan menyampaikan keberatan atau usul. Namun, belum ada anggota yang menanggapi, sehingga negosiasi multi-pihak dan dissent belum terjadi. Tanggapan anggota dan diskusi evaluasi 15 November akan menjadi bukti utama minggu ini.
+
+### Pin dan Konfirmasi Ketua di Grup (9 November 2026, 15.37)
+
+Ketua juga membalas pengumuman langsung di grup pukul 15.37. Setelah itu saya menyematkan pesan info kelompok. Ikon pin pada pesan pukul 15.20 dan notifikasi "You pinned a message" terlihat pada screenshot.
+
+![Konfirmasi ketua di grup dan pesan info yang sudah disematkan](images/evidence/grup-2026-11-09-pin-konfirmasi.jpg)
+
+**Balasan ketua di grup (dikutip apa adanya, membalas pengumuman):** "amngs beyy, udah bener kok ituh", yang saya pahami sebagai "aman, sudah benar kok itu".
+
+**Yang bisa dan tidak bisa saya simpulkan:**
+
+- Pesan info kelompok sudah benar-benar disematkan, dan baru disematkan setelah ketua memeriksa isinya.
+- Ketua menyatakan persetujuannya secara terbuka di depan anggota lain, bukan hanya lewat japri.
+- Tanda centang biru menunjukkan pengumuman sudah dibaca, tetapi belum ada anggota selain ketua yang menanggapi.
+- Tautan pembagian tugas masih "menyusul".
+
+**Kaitan dengan minggu ini:** Ketua kini mendukung usulan secara terbuka di depan anggota lain. Namun, tanggapan ini masih dari stakeholder yang sama. Negosiasi multi-pihak baru terjadi jika anggota lain ikut menanggapi, menyetujui, atau menyampaikan keberatan.
 
 ### Perubahan yang Saya Lakukan
 
@@ -668,6 +685,7 @@ Untuk mengonfirmasi catatan percakapan setelah kelas, saya mengirim pesan beriku
 | Catatan percakapan langsung setelah kelas (di atas) | Sudah ditulis dan dikirim ke ketua; tidak dikoreksi | Halaman ini |
 | Screenshot balasan ketua atas catatan percakapan dan pertanyaan desired state | **Sudah dikumpulkan (8 November 2026).** Catatan tidak dikoreksi, belum dikonfirmasi eksplisit | `images/evidence/chat-ketua-2026-11-08-1.webp`, `-2.webp` |
 | Screenshot usulan yang dibuka ke seluruh anggota grup | **Sudah dikumpulkan (9 November 2026)**; belum ada tanggapan anggota | `images/evidence/grup-2026-11-09-pengumuman.jpg` |
+| Screenshot dukungan ketua secara terbuka di grup | **Sudah dikumpulkan (9 November 2026)**; masih satu stakeholder | `images/evidence/grup-2026-11-09-pin-konfirmasi.jpg` |
 | Transkrip atau rekaman diskusi multi-pihak (dengan izin) | Belum dikumpulkan | `images/evidence/w11-transkrip-diskusi.png` (rencana nama file) |
 | Screenshot konfirmasi decision record dari tiap pihak | Belum dikumpulkan | `images/evidence/w11-konfirmasi-keputusan.png` (rencana nama file) |
 | Screenshot konfirmasi rumusan dissent dari perwakilan anggota | Belum dikumpulkan | `images/evidence/w11-konfirmasi-dissent.png` (rencana nama file) |
