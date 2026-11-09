@@ -349,7 +349,7 @@ Usulan yang disetujui ketua saya sampaikan ke grup kelompok, disertai pesan info
 
 ![Pengumuman uji coba dan pesan info kelompok di grup](images/evidence/grup-2026-11-09-pengumuman.jpg)
 
-Pada saat screenshot diambil belum ada tanggapan anggota, penanda pin belum terlihat, dan tautan pembagian tugas masih "menyusul".
+Pada saat screenshot diambil belum ada tanggapan anggota, penanda pin belum terlihat, dan tautan pembagian tugas masih "menyusul" (dilengkapi pukul 15.40).
 
 ### Pemeriksaan Isi Pin oleh Ketua (9 November 2026, 15.34)
 
@@ -365,7 +365,7 @@ Sesuai pembagian tanggung jawab, saya mengirim isi pesan info kelompok kepada ke
 
 - Ketua sudah memeriksa isi pesan info dan tidak meminta perubahan. Ini bukti bahwa ia menjalankan perannya dalam agreement.
 - Pemeriksaan ini terjadi pukul 15.34, setelah pesan info sudah saya kirim ke grup pukul 15.20. Urutan yang benar menurut action plan adalah diperiksa dulu, baru dipublikasikan. Pesan baru disematkan setelah pemeriksaan ini. Ke depannya, pembaruan pin akan saya kirim ke ketua lebih dulu.
-- Tautan pembagian tugas di pesan tersebut masih "menyusul".
+- Tautan pembagian tugas di pesan tersebut masih "menyusul" (dilengkapi pukul 15.40).
 
 ### Pin dan Konfirmasi Ketua di Grup (9 November 2026, 15.37)
 
@@ -380,7 +380,20 @@ Ketua juga membalas pengumuman langsung di grup pukul 15.37. Setelah itu saya me
 - Pesan info kelompok sudah benar-benar disematkan, dan baru disematkan setelah ketua memeriksa isinya.
 - Ketua menyatakan persetujuannya secara terbuka di depan anggota lain, bukan hanya lewat japri.
 - Tanda centang biru menunjukkan pengumuman sudah dibaca, tetapi belum ada anggota selain ketua yang menanggapi.
-- Tautan pembagian tugas masih "menyusul".
+- Tautan pembagian tugas masih "menyusul" (dilengkapi pukul 15.40).
+
+### Pembaruan Pin: Tautan Google Docs (9 November 2026, 15.39–15.40)
+
+Pukul 15.39 saya memberi tahu grup bahwa saya akan memasukkan tautan Google Docs. Pukul 15.40 saya mengirim versi baru pesan info yang sudah berisi tautan pembagian tugas, lalu menyematkannya. Banner pin di bagian atas grup kini menampilkan pesan tersebut. Tautan pada screenshot saya sensor karena halaman portofolio ini dapat diakses publik.
+
+![Grup kelompok dengan banner pin dan pesan info yang sudah berisi tautan Google Docs (tautan disensor)](images/evidence/grup-2026-11-09-pin-link-docs.jpg)
+
+**Yang bisa dan tidak bisa saya simpulkan:**
+
+- Poin 3 agreement kini terpenuhi: pesan pin berisi tautan pembagian tugas, rujukan deadline resmi dosen, dan deadline internal.
+- Header grup menunjukkan anggota grup adalah Kafka (ketua), Rasya, dan saya. Artinya "anggota lain" dalam uji coba ini adalah Rasya.
+- Hingga screenshot diambil, Rasya belum menanggapi pengumuman maupun pesan info.
+- Versi baru ini disematkan tanpa diperiksa ulang oleh ketua. Perubahannya hanya penambahan tautan, tetapi ini tetap tidak sesuai dengan komitmen saya untuk mengirim pembaruan pin ke ketua lebih dulu.
 
 ### State assessment berdasarkan bukti nyata
 
@@ -406,8 +419,7 @@ Ketua juga membalas pengumuman langsung di grup pukul 15.37. Setelah itu saya me
 
 ### Yang belum ada
 
-- Tautan Google Docs pembagian tugas di pesan pin.
-- Tanggapan anggota lain terhadap pengumuman di grup.
+- Tanggapan Rasya (anggota ketiga di grup) terhadap pengumuman.
 - Hasil evaluasi uji coba pada 15 November 2026.
 
 ## Self-Assessment
