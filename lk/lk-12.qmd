@@ -9,6 +9,10 @@ Mata Kuliah: Komunikasi Interpersonal dan Publik: Membangun Relasi di Era AI
 
 ---
 
+::: {.callout-important title="Status lembar kerja: Draft"}
+Fase 1, Fase 2, dan rancangan Fase 4 diisi pada 10 November 2026 berdasarkan bukti nyata dari portofolio Minggu 9–11. Fase 3, bagian final Fase 4, dan Fase 5 bergantung pada deliberasi evaluasi uji coba pada **15 November 2026** dan akan diisi setelah sesi tersebut.
+:::
+
 ## PENGANTAR: ILUSI KESERAGAMAN VS. MODAL SOSIAL
 
 Dalam kehidupan komunitas, kita sering kali terjebak dalam ilusi bahwa untuk bekerja sama, semua orang harus memiliki keyakinan batin, nilai, atau pendapat yang sama. Ketika perbedaan tajam muncul, rapat warga atau komunitas sering kali berubah menjadi arena **Debat** (saling menyerang posisi untuk mencari pemenang) yang merusak **Modal Sosial**—yaitu jaringan kepercayaan, rasa hormat, dan norma timbal balik yang menjadi perekat utama komunitas.
@@ -18,13 +22,15 @@ Lembar kerja ini dirancang untuk melatih peran Anda sebagai **Fasilitator** atau
 ---
 
 ## IDENTITAS KELOMPOK
-*   **Kasus/Isu Komunitas:** __________________________________________________
+*   **Kasus/Isu Komunitas:** Kelanjutan mekanisme koordinasi kelompok tugas (cek progres harian pukul 20.00, pesan pin yang menunjuk ke Google Docs, dan jalur japri bila bingung) setelah uji coba 8–15 November 2026 berakhir.
 *   **Nama Anggota Kelompok (Peran):**
-    1.  ___________________________________ (Fasilitator)
-    2.  ___________________________________ (Peran Pemangku Kepentingan A: ______________)
-    3.  ___________________________________ (Peran Pemangku Kepentingan B: ______________)
-    4.  ___________________________________ (Peran Pemangku Kepentingan C: ______________)
-    5.  ___________________________________ (Peran Pemangku Kepentingan D: ______________)
+    1.  Azka Atha'us Salam (Fasilitator, sekaligus Pemangku Kepentingan C: pengusul dan pengelola mekanisme)
+    2.  Kafka (Peran Pemangku Kepentingan A: ketua kelompok)
+    3.  Rasya (Peran Pemangku Kepentingan B: anggota, pengerja desain tampilan serta dokumentasi dan laporan)
+    4.  — (Peran Pemangku Kepentingan D: dosen, tidak hadir; posisinya diwakili ketentuan tertulis di Edunex)
+    5.  — (Kelompok hanya beranggotakan tiga orang)
+
+**Catatan:** Saya memegang dua peran, yaitu fasilitator dan pengusul mekanisme. Karena itu saya tidak netral, dan saya menyampaikan pendapat paling akhir dalam deliberasi.
 
 ---
 
@@ -33,10 +39,12 @@ Sebelum memulai diskusi kelompok, petakan batin dan latar belakang masing-masing
 
 | Pemangku Kepentingan | Posisi Kaku (Tuntutan Eksplisit) | Fakta Objektif (Apa yang benar-benar terjadi/terlihat) | Interpretasi Subjektif (Apa narasi/asumsi batin mereka) | Nilai Hidup / Kebutuhan Dasar (Mengapa hal ini penting bagi mereka) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Pihak A:**<br>*(Contoh: Warga Lansia)* | *"Taman harus ditutup total setelah jam 9 malam!"* | Taman menjadi tempat berkumpul anak muda hingga pukul 11 malam. | *"Anak muda zaman sekarang tidak punya sopan santun dan merusak ketertiban."* | Ketenangan istirahat, kesehatan fisik, rasa aman di hari tua. |
-| **Pihak B:**<br>*(Contoh: Remaja/Anak Muda)* | *"Jangan batasi jam taman, kami butuh ruang berkumpul!"* | Tidak ada ruang publik alternatif selain taman tersebut yang gratis. | *"Orang tua terlalu kaku dan selalu mencurigai aktivitas anak muda."* | Ruang ekspresi diri, koneksi sosial, kebebasan berekreasi. |
-| **Pihak C:**<br>*(Contoh: Pedagang Kecil)* | *"Kami bebas berjualan kapan saja di area dalam taman."* | Pendapatan harian dari pengunjung taman menyokong kebutuhan pokok keluarga. | *"Jika dilarang, mereka ingin mematikan mata pencaharian rakyat kecil."* | Kelangsungan hidup ekonomi keluarga, kemandirian finansial. |
-| **Pihak D:**<br>*(Contoh: Pengelola Taman)* | *"Kami tidak bertanggung jawab atas ketertiban malam hari."* | Anggaran pemeliharaan terbatas, tidak ada petugas keamanan malam. | *"Warga terlalu banyak menuntut tanpa mau berkontribusi menjaga taman."* | Efisiensi operasional, kepatuhan aturan, keterbatasan sumber daya. |
+| **Pihak A:**<br>*Kafka (ketua kelompok)* | *"Buat deadline internal sama info penting lainnya tetep ditulis di pin."* (10 November 2026) | Menyetujui uji coba (8 November), memeriksa isi pin (9 November), dan menyetujui prinsip pin yang menunjuk ke Docs (10 November). | *"Kadang ada yang belum paham tapi sungkan buat nanya, jadi ujung-ujungnya malah bingung sendiri."* Bila semua ditulis di grup, *"takutnya malah kepanjangan dan susah dicari lagi."* | Anggota saling membantu sebelum deadline; cara kerja yang praktis; kelompok bergerak tertib. |
+| **Pihak B:**<br>*Rasya (anggota)* | *"Cek progres jam 8 menurut gua udah pas."* Belum ada tuntutan perubahan. (10 November 2026) | Melapor progres pada hari pertama (9 November, 20.05); menyebut butuh info dari anggota lain, lalu menemukannya sendiri (10 November). | Pin membantu *"biar gampang nyari informasi tugas tanpa harus scroll chat lama"*; jam 20.00 cocok *"soalnya biasanya udah pada senggang."* | Kemudahan menemukan informasi; waktu yang tidak mengganggu kegiatan lain. |
+| **Pihak C:**<br>*Azka (pengusul dan pengelola mekanisme)* | Mekanisme dilanjutkan dengan format pin campuran sesuai syarat ketua. | Mengusulkan mekanisme (8 November), mengirim pengingat cek progres (9 November), menindaklanjuti laporan Rasya (10 November). Pernah menyematkan pin sebelum diperiksa ulang ketua (9 November). | *(Tafsiran saya)* Masalah utama kelompok adalah informasi yang tersebar dan kesulitan yang baru dibahas menjelang deadline. | Koordinasi yang tertib; kontribusi yang terlihat; tidak menanggung beban pengelolaan sendirian. |
+| **Pihak D:**<br>*Dosen (tidak hadir)* | Deadline dan ketentuan tugas mengikuti pengumuman resmi. | Deadline resmi diumumkan di Edunex. | Tidak dapat saya wakili; saya tidak menebak pendapat dosen. | Tidak dapat saya wakili. Ketentuan resminya menjadi batas yang tidak dapat diubah kelompok. |
+
+**Kesimpulan Fase 1:** Belum ada perbedaan fakta di antara anggota. Perbedaannya ada pada penekanan: Kafka menekankan anggota yang sungkan bertanya dan kepraktisan, Rasya menekankan kemudahan mencari informasi, dan saya menekankan ketertiban informasi. Perbedaan yang paling mungkin muncul pada 15 November adalah soal **beban**, yaitu siapa yang terus mengingatkan dan memperbarui pin.
 
 ---
 
@@ -44,16 +52,19 @@ Sebelum memulai diskusi kelompok, petakan batin dan latar belakang masing-masing
 "Bingkai Serangan" (*Attack Frame*) biasanya berpusat pada menyalahkan orang lain atau memaksakan satu posisi sepihak. Tugas Anda sebagai komunikator adalah melakukan **Reframing** untuk mengubahnya menjadi "Bingkai Masalah Bersama" (*Collaborative Frame*) yang netral dan dapat dipecahkan bersama tanpa mengorbankan martabat pihak mana pun.
 
 ### **Latihan Reframing Mandiri:**
-1.  **Bingkai Serangan Awal:** *"Pedagang kaki lima liar itu mengotori lingkungan taman dan membuat lansia tidak nyaman!"*
-    *   **Reframing Kolaboratif:** *"Bagaimana kita bisa menjaga kebersihan dan ketenangan lingkungan taman untuk warga, sekaligus memastikan pedagang memiliki ruang yang layak untuk mencari nafkah?"*
-2.  **Bingkai Serangan Awal:** *"Anak-anak muda berisik itu merusak fasilitas taman dan mengganggu jam tidur malam!"*
-    *   **Reframing Kolaboratif:** *"Bagaimana kita bisa menyediakan ruang ekspresi malam yang aman bagi anak muda, tanpa mengorbankan hak istirahat dan ketenangan malam warga sekitar?"*
+Bingkai serangan di bawah ini **belum pernah diucapkan** oleh anggota mana pun. Saya menyusunnya sebagai antisipasi atas kalimat yang mungkin muncul ketika evaluasi menemukan masalah, termasuk dari diri saya sendiri.
+
+1.  **Bingkai Serangan Awal:** *"Yang gak bales cek progres berarti gak niat ngerjain."*
+    *   **Reframing Kolaboratif:** *"Gimana caranya kita tetap tahu progres masing-masing tanpa bikin orang yang lagi sibuk atau lupa bales merasa dicurigai?"*
+2.  **Bingkai Serangan Awal:** *"Pin-nya kepanjangan, percuma, gak ada yang baca."*
+    *   **Reframing Kolaboratif:** *"Info apa yang paling sering kita cari, dan gimana caranya info itu langsung kelihatan tanpa pin jadi kepanjangan?"*
+3.  **Bingkai Serangan Awal (dari diri saya sendiri):** *"Kok gua terus yang ngingetin dan ngurus pin?"*
+    *   **Reframing Kolaboratif:** *"Gimana caranya mekanisme ini tetap jalan tanpa bergantung ke satu orang?"*
 
 ### **Draf Bingkai Masalah Bersama Kelompok Anda:**
 Sempurnakan kalimat masalah bersama yang akan didebatkan dalam sesi deliberasi kelompok Anda:
 > *"Bagaimana kita bisa..."*
-> __________________________________________________________________________________________
-> __________________________________________________________________________________________
+> tetap saling tahu progres dan gampang menemukan info tugas sampai tugas dikumpulkan, tanpa ada yang bingung sendiri, tanpa pin yang kepanjangan, dan tanpa beban pengelolaan yang hanya ditanggung satu orang?
 
 ---
 
@@ -66,64 +77,77 @@ Fasilitator memiliki tanggung jawab mutlak untuk menjaga keadilan proses komunik
 3.  **Parafrasa Netral:** Ketika perdebatan mulai memanas, terjemahkan kalimat emosional menjadi kebutuhan dasar:
     *   *“Saya mendengar bahwa yang Anda butuhkan sebenarnya adalah rasa aman terhadap pendapatan keluarga Anda, benarkah demikian?”*
 
+### **Rencana Fasilitasi (disusun 10 November 2026):**
+*   **Sebelum sesi:** japri Rasya agar ia dapat menyampaikan keberatan tanpa kehadiran ketua.
+*   **Urutan bicara:** Rasya → Kafka → saya. Rasya lebih dulu agar pendapatnya tidak terpengaruh ketua; saya terakhir karena saya pengusul mekanisme.
+*   **Pertanyaan suara sunyi yang disiapkan:** *"Ras, dari posisi lu yang ngerjain dokumentasi, kalau opsi ini dipake, apa yang paling lu khawatirin?"*
+*   **Parafrasa yang disiapkan:** *"Gua denger yang lu butuhin sebenernya [kebutuhan], bener gitu?"*
+
 ### **Catatan Observasi Jalannya Deliberasi (Diisi oleh Fasilitator):**
-*   *Siapa pemangku kepentingan yang paling dominan di awal?* ___________________________________
-*   *Siapa pemangku kepentingan yang paling pasif/diam?* _______________________________________
+*Diisi setelah deliberasi 15 November 2026.*
+
+*   *Siapa pemangku kepentingan yang paling dominan di awal?* —
+*   *Siapa pemangku kepentingan yang paling pasif/diam?* —
 *   *Bagaimana cara Anda memunculkan suara yang sunyi tersebut?*
-    __________________________________________________________________________________________
-    __________________________________________________________________________________________
+    —
 
 ---
 
 ## FASE 4: MERANCANG KESEPAKATAN PILOT (PILOT AGREEMENT) UNTUK BELAJAR
 Ketika para pemangku kepentingan memiliki kekhawatiran dan prediksi risiko yang bertolak belakang, jangan paksa mereka menyetujui kebijakan permanen yang menakutkan. Rancanglah sebuah **Pilot Project**—sebuah kesepakatan jangka pendek yang terukur sebagai wadah untuk belajar bersama di lapangan.
 
+::: {.callout-note title="Rancangan, bukan hasil"}
+Formulir di bawah adalah **usulan pembanding** yang akan dibawa ke deliberasi 15 November 2026, bersama opsi lain: lanjut apa adanya, cek progres lebih jarang, atau hentikan. Isinya akan diganti dengan hasil deliberasi yang sebenarnya.
+:::
+
 ### **Formulir Desain Kesepakatan Pilot Komunitas:**
 
 1.  **Nama Program Uji Coba (Pilot):**
-    __________________________________________________________________________________________
+    Pilot 2: Pin Campuran dan Rotasi Pengingat
 2.  **Durasi Eksperimen (Maksimal 2-4 minggu):**
-    *   Tanggal Mulai: _______________ s/d Tanggal Selesai: _______________
+    *   Tanggal Mulai: 16 November 2026 s/d Tanggal Selesai: 29 November 2026, atau lebih awal bila tugas sudah dikumpulkan.
 3.  **Tindakan Nyata dan Pembagian Tanggung Jawab (Formula Presisi):**
     *   **Siapa** melakukan **Apa**, **Kapan**, dan apa **Definisi Selesai**-nya?
-    
+
 | Peran/Pihak | Tindakan Nyata yang Disepakati | Tenggat Waktu | Definisi Selesai & Indikator Keberhasilan |
 | :--- | :--- | :--- | :--- |
-| **Pihak A:** | | | |
-| **Pihak B:** | | | |
-| **Pihak C:** | | | |
-| **Pihak D:** | | | |
+| **Pihak A:** Kafka | Memeriksa setiap perubahan isi pin sebelum disematkan; menentukan "info penting" yang wajib tertulis di pin | Pemeriksaan pertama 16 November 2026 | Setiap versi pin memiliki balasan "aman/sesuai" dari Kafka sebelum disematkan |
+| **Pihak B:** Rasya | Mengirim pengingat cek progres pada hari gilirannya; menyampaikan bila pin atau jadwal mengganggu | Sesuai jadwal rotasi | Pengingat terkirim pada hari gilirannya |
+| **Pihak C:** Azka | Memperbarui pin sesuai daftar info penting dari Kafka; mengirim pengingat pada hari gilirannya; merekap data untuk review | Pembaruan pin 16 November 2026; rekap sebelum review | Pin memuat info penting yang disepakati; rekap jumlah hari cek progres dibalas semua anggota |
+| **Pihak D:** Dosen *(tidak hadir)* | Tidak ada tindakan; deadline resmi tetap merujuk ke Edunex | — | Tidak ada perbedaan antara pin dan pengumuman Edunex |
 
 4.  **Perlindungan Risiko (Batas Toleransi Dampak Buruk):**
     *   *Apa risiko terbesar yang dikhawatirkan warga selama uji coba ini?*
-        ______________________________________________________________________________________
+        Cek progres terasa sebagai pengawasan, anggota yang sibuk merasa dicurigai, dan beban pengelolaan kembali bertumpu pada satu orang.
     *   *Apa tindakan darurat (tombol darurat) jika batas toleransi risiko tersebut terlewati di tengah jalan?*
-        ______________________________________________________________________________________
+        Bila cek progres tidak dibalas oleh dua anggota selama dua hari berturut-turut, atau ada anggota yang menyatakan keberatan, cek progres dihentikan sementara dan kelompok langsung membahasnya tanpa menunggu tanggal review. Balasan "skip" selalu diterima tanpa teguran.
 5.  **Jadwal Evaluasi Bersama (Kapan semua pihak akan duduk kembali untuk meninjau data hasil uji coba?):**
-    *   Hari/Tanggal: _______________________ Waktu & Tempat: _______________________
+    *   Hari/Tanggal: Minggu, 29 November 2026, atau pada hari tugas dikumpulkan bila lebih awal. Waktu & Tempat: ditentukan bersama saat deliberasi 15 November 2026.
 
 ---
 
 ## FASE 5: EVALUASI JALUR GANDA (DUAL-TRACK EVALUATION)
 Keberhasilan pengelolaan komunitas diukur dari dua jalur secara seimbang. Isilah lembar evaluasi refleksi batin ini setelah sesi kesepakatan pilot selesai dirumuskan:
 
+*Diisi setelah deliberasi 15 November 2026.*
+
 ### **1. JALUR TUGAS (Task Outcome): Skor Mandiri (1 - 5)**
 Apakah kesepakatan pilot yang dirancang realistis, terukur, adil, dan mampu mengatasi akar masalah bersama?
-*   [ ] **Skor: ___ / 5**
-*   *Justifikasi Bukti:* ________________________________________________________________________
+*   [ ] **Skor: — / 5**
+*   *Justifikasi Bukti:* —
 
 ### **2. JALUR RELASI (Relationship Outcome): Skor Mandiri (1 - 5)**
 Apakah selama proses negosiasi, rasa hormat, kenyamanan emosional, kebebasan memilih, dan martabat batin masing-masing pihak tetap terjaga dengan utuh? Apakah mereka siap bekerja sama kembali di masa depan?
-*   [ ] **Skor: ___ / 5**
-*   *Justifikasi Bukti:* ________________________________________________________________________
+*   [ ] **Skor: — / 5**
+*   *Justifikasi Bukti:* —
 
 ---
 
 ### **Pernyataan Penggunaan AI secara Bertanggung Jawab (AI Transparency Statement)**
 *Petunjuk: Jika Anda menggunakan bantuan AI (seperti chatbot) dalam menyusun kalimat reframing, menganalisis peran, atau menyusun draf kesepakatan ini, deklarasikan secara jujur di bawah ini.*
 
-*   *Apakah kelompok Anda menggunakan AI dalam persiapan lembar kerja ini?* **[Ya / Tidak]**
+*   *Apakah kelompok Anda menggunakan AI dalam persiapan lembar kerja ini?* **Ya**
 *   *Jika Ya, apa peran AI dalam membantu kelompok Anda? (Contoh: Menyarankan alternatif kalimat reframing kolaboratif)*
-    __________________________________________________________________________________________
+    Claude (Anthropic) membantu menyusun draf lembar kerja: memetakan fakta dan interpretasi dari screenshot yang sudah ada di portofolio, menyusun antisipasi bingkai serangan beserta reframing-nya, dan merancang draf pilot sebagai pembanding.
 *   *Bagian mana dari saran AI yang akhirnya Anda tolak atau sunting karena tidak sesuai dengan konteks kemanusiaan riil kelompok Anda?*
-    __________________________________________________________________________________________
+    *(Isi setelah meninjau draf dan setelah deliberasi 15 November 2026.)*

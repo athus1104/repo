@@ -1,25 +1,235 @@
 ---
 title: "Community Communication Challenge"
 week: 12
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
-description: "Framing, deliberation, sufficient agreement, dan collective action."
+description: "Person map, fact/story/value/position, frames, options, dan deliberasi evaluasi uji coba koordinasi kelompok mahasiswa."
 categories: [Community, Deliberation]
 ---
 
-## Kompetensi target
-
-Memfasilitasi community communication melintasi perbedaan dan power menuju action yang layak.
-
-## Evidence wajib
-
-- Community person map dan fact/story/value/position.
-- Sedikitnya tiga frames dan lima options.
-- Deliberation evidence, safeguard, action, dan review plan.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 12](../examples/week-12.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+::: {.callout-important title="Status halaman: Draft"}
+Bagian analisis (person map, fact/story/value/position, frames, options, dan rancangan deliberasi) disusun pada 10 November 2026 dari bukti nyata Minggu 9–11. Deliberasi baru akan berlangsung pada **15 November 2026**, bersamaan dengan evaluasi uji coba. Bagian yang bergantung pada deliberasi tersebut saya tandai **Belum terjadi** dan akan saya isi apa adanya setelah sesi berlangsung.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Kompetensi Target
+
+Kompetensi yang ingin saya kembangkan adalah memfasilitasi komunikasi dalam sebuah komunitas kecil yang anggotanya memiliki peran, kewenangan, dan cara berpartisipasi yang berbeda, sampai menghasilkan tindakan bersama yang cukup disepakati (*sufficient agreement*).
+
+Secara khusus, saya ingin berlatih:
+
+1. Memetakan anggota sebagai **person**, bukan sebagai kubu yang setuju atau menolak.
+2. Memisahkan fakta, interpretasi, nilai, dan posisi sebelum mengusulkan keputusan.
+3. Menawarkan lebih dari satu cara memandang masalah (*frame*) dan lebih dari satu pilihan tindakan.
+4. Menjaga agar suara yang paling sedikit kewenangannya tetap terdengar, termasuk ketika saya sendiri adalah pengusul solusi.
+
+## Konteks Performance
+
+**Tanggal dan setting:** Analisis disusun 10 November 2026. Deliberasi direncanakan pada 15 November 2026, sebagai sesi evaluasi uji coba koordinasi yang sudah disepakati sejak 8 November 2026.
+
+**Persons dan relationship:** Kelompok tugas yang terdiri dari tiga mahasiswa: Kafka (ketua kelompok), Rasya (anggota, mengerjakan desain tampilan serta dokumentasi dan laporan), dan saya (anggota yang mengusulkan mekanisme dan bertugas mengingatkan cek progres). Dosen tidak terlibat langsung, tetapi aturannya (deadline resmi di Edunex) membatasi pilihan kelompok.
+
+### Mengapa kelompok ini saya perlakukan sebagai komunitas
+
+Kelompok kami kecil, tetapi memiliki ciri komunitas yang dibahas minggu ini:
+
+| Ciri komunitas | Wujud dalam kelompok |
+|---|---|
+| *Shared space* | Grup WhatsApp, pesan pin, dan Google Docs pembagian tugas dipakai bersama. Perubahan oleh satu orang dirasakan semua anggota. |
+| *Common good* | Tugas kelompok selesai tepat waktu dan setiap anggota memahami bagiannya. |
+| *Memory* | Ada riwayat yang membentuk sikap: obrolan setelah kelas tentang anggota yang belum paham tugas, serta agreement dan uji coba 8–15 November 2026. |
+| *Power* yang tidak merata | Kafka memiliki kewenangan sebagai ketua. Saya memegang inisiatif karena saya yang mengusulkan dan mengelola mekanisme. Rasya tidak memegang peran formal dalam mekanisme ini. |
+
+### Latar Belakang
+
+- **Minggu 6–7:** saya mengidentifikasi informasi kelompok yang tersebar di chat dan mengusulkan rangkuman yang disematkan.
+- **Minggu 9:** ketua menyampaikan *desired state*: anggota aktif berdiskusi, saling mengingatkan progres, dan kesulitan dibantu sebelum mendekati deadline. Pada 10 November ketua menyetujui prinsip pin yang menunjuk ke Docs, dengan syarat deadline internal dan info penting tetap ditulis di pin.
+- **Minggu 10:** agreement uji coba 8–15 November 2026 dengan ketua; cek progres hari pertama berjalan 9 November.
+- **Minggu 11:** usulan dibuka ke grup; Rasya menyatakan setuju dengan jam 20.00 dan pesan pin pada 10 November.
+
+Minggu ini, pertanyaannya bergeser. Bukan lagi "apakah mekanisme ini disetujui", melainkan "**setelah uji coba berakhir, kelompok mau melanjutkan seperti apa, dan siapa yang menanggung apa**".
+
+### Objective
+
+1. Memfasilitasi evaluasi 15 November 2026 sehingga setiap anggota menyampaikan pengalamannya sendiri sebelum keputusan dibuat.
+2. Membandingkan minimal lima opsi kelanjutan secara terbuka, bukan langsung mengusulkan satu jawaban.
+3. Menghasilkan *sufficient agreement* yang mencatat keputusan, dissent (jika ada), safeguard, pembagian tindakan, dan jadwal review.
+
+### Initial State (10 November 2026)
+
+| Person | State | Dasar |
+|---|---|---|
+| Kafka | Mendukung, dengan syarat | Menyetujui uji coba (8 November) dan prinsip pin (10 November), tetapi meminta info penting tetap tertulis di pin. |
+| Rasya | Mendukung, belum pernah menyampaikan keberatan | Menyatakan jam 20.00 pas dan pin membantu (10 November). Pendapatnya baru disampaikan di grup, di depan ketua. |
+| Saya | Berinisiatif dan berkepentingan | Saya pengusul mekanisme sekaligus fasilitator, sehingga cenderung ingin mekanisme ini dilanjutkan. |
+
+## Community Person Map
+
+Saya memetakan setiap orang berdasarkan bukti yang benar-benar ada, bukan berdasarkan dugaan tentang "tipe" anggota.
+
+| Person | Peran dalam kelompok | Kewenangan | Cara berpartisipasi yang teramati | Hal yang perlu dijaga |
+|---|---|---|---|---|
+| **Kafka** | Ketua kelompok; pemeriksa isi pin | Paling tinggi: dapat menyetujui atau menolak perubahan cara kerja kelompok | Membalas cepat lewat japri maupun grup; menulis pendapat panjang dan jelas bila ditanya langsung | Agar pendapatnya tidak otomatis menjadi keputusan hanya karena ia ketua |
+| **Rasya** | Anggota; desain tampilan, dokumentasi, dan laporan | Tidak memegang peran dalam mekanisme | Rajin membalas cek progres; baru berpendapat tentang mekanisme setelah ditanya langsung | Pendapatnya baru muncul di grup, di depan ketua; keberatan mungkin tidak disampaikan |
+| **Saya** | Anggota; pengusul mekanisme, pengingat cek progres, pengelola pin | Inisiatif dan kendali atas isi pin | Mengirim pengingat, menyusun pesan, menindaklanjuti laporan | Konflik kepentingan: saya fasilitator sekaligus pihak yang mengusulkan solusi |
+| **Dosen** *(tidak hadir)* | Pemberi tugas | Menentukan deadline resmi dan ketentuan tugas | Melalui pengumuman di Edunex | Keputusan kelompok tidak boleh bertentangan dengan ketentuan resmi |
+
+### Catatan tentang power
+
+- **Kafka** memiliki kewenangan formal. Jika ia berbicara lebih dulu, Rasya mungkin cenderung mengikuti.
+- **Saya** memiliki kewenangan informal karena saya yang menyusun dan mengelola mekanisme. Ada satu kejadian yang perlu saya akui: pada 9 November saya menyematkan pin versi bertautan sebelum diperiksa ulang ketua. Artinya, saya pernah bertindak lebih cepat dari kesepakatan.
+- **Rasya** memegang kewenangan paling kecil dalam mekanisme ini, padahal ia salah satu dari dua pengguna utamanya.
+
+## Fact, Story, Value, dan Position
+
+Kolom fakta hanya berisi hal yang dapat diperiksa dari screenshot. Kolom *story* adalah interpretasi orang tersebut menurut kata-katanya sendiri. Bila kolom itu berisi tafsiran saya, saya tandai.
+
+| Person | Fact (dapat diperiksa) | Story / interpretasi | Value | Position |
+|---|---|---|---|---|
+| **Kafka** | Membalas pertanyaan desired state (8 November); menyetujui uji coba (8 November); memeriksa isi pin (9 November); menyetujui prinsip pin yang menunjuk ke Docs (10 November) | "Kadang ada yang belum paham tapi sungkan buat nanya, jadi ujung-ujungnya malah bingung sendiri." Kalau semua ditulis di grup, "takutnya malah kepanjangan dan susah dicari lagi." | Anggota saling membantu sebelum deadline; kerja yang praktis | Pin menunjuk ke Docs, tetapi deadline internal dan info penting tetap ditulis langsung di pin |
+| **Rasya** | Melapor progres pukul 20.05 pada 9 November; menyebut masih perlu info dari anggota lain, lalu menemukannya sendiri (10 November) | Jam 20.00 pas "soalnya biasanya udah pada senggang"; pin membantu "biar gampang nyari informasi tugas tanpa harus scroll chat lama" | Kemudahan menemukan informasi; waktu yang tidak mengganggu | Lanjutkan jam 20.00 dan pin (belum ada usul perubahan) |
+| **Saya** | Mengusulkan mekanisme (8 November); mengirim pengingat pertama (9 November); menindaklanjuti laporan Rasya (10 November) | *(Tafsiran saya sendiri)* Masalah utama kelompok adalah informasi yang tersebar dan kesulitan yang baru dibahas menjelang deadline | Koordinasi yang tertib; kontribusi yang terlihat | Lanjutkan dengan format pin campuran sesuai syarat ketua |
+| **Dosen** | Deadline resmi diumumkan di Edunex | — *(tidak dapat saya wakili)* | — | Ketentuan resmi tidak dapat diubah kelompok |
+
+**Yang saya pelajari dari pemisahan ini:** belum ada perbedaan *fakta* di antara anggota. Perbedaan ada pada *penekanan*. Kafka menekankan anggota yang sungkan bertanya dan kepraktisan. Rasya menekankan kemudahan mencari informasi dan waktu yang pas. Saya menekankan ketertiban informasi. Karena itu, deliberasi perlu dimulai dari pengalaman tiap orang selama uji coba, bukan dari usulan saya.
+
+## Tiga Frames
+
+Frame menentukan pertanyaan apa yang dianggap penting dalam diskusi. Saya menyiapkan tiga frame dan akan menanyakan ke kelompok frame mana yang paling sesuai, alih-alih memilihkannya.
+
+| Frame | Pertanyaan yang diajukan | Siapa yang paling terwakili | Risiko frame ini |
+|---|---|---|---|
+| **1. Informasi yang mudah ditemukan** | "Gimana caranya semua info tugas gampang dicari tanpa scroll chat lama?" | Rasya, saya | Bisa menyempitkan masalah menjadi soal teknis pin saja, dan melupakan anggota yang sungkan bertanya |
+| **2. Saling jaga progres** | "Gimana caranya gak ada yang bingung sendiri atau ketinggalan sampai mepet deadline?" | Kafka | Bisa terasa seperti pengawasan bila cek progres dipandang sebagai kewajiban lapor |
+| **3. Beban yang adil** | "Gimana caranya mekanisme ini gak nambah kerjaan dan gak cuma bergantung ke satu orang?" | Semua, termasuk saya sebagai pengelola | Bisa mendorong kelompok menghentikan mekanisme yang sebenarnya berguna demi mengurangi beban |
+
+**Rencana penggunaan frame:** Saya akan membuka dengan frame 2, karena frame ini berasal dari *desired state* ketua dan tidak menempatkan siapa pun sebagai pihak yang bermasalah. Frame 1 dan 3 akan saya ajukan sebagai pembanding, lalu saya tanyakan: "Dari tiga ini, mana yang paling pas buat kelompok kita?"
+
+## Lima Options dan Trade-Off
+
+| Opsi | Isi | Kelebihan | Kekurangan / risiko |
+|---|---|---|---|
+| **A. Lanjut apa adanya** | Cek progres harian pukul 20.00, pin seperti sekarang, japri bila bingung | Tidak ada perubahan; semua sudah terbiasa | Belum menjawab syarat ketua tentang info penting di pin; beban pengingat tetap pada saya |
+| **B. Lanjut dengan pin campuran** | Seperti A, ditambah info penting yang ditulis langsung di pin sesuai permintaan Kafka | Menjawab satu-satunya syarat yang sudah disampaikan | "Info penting lainnya" belum didefinisikan; pin bisa memanjang |
+| **C. Cek progres lebih jarang** | Cek progres 2–3 kali seminggu, pin tetap | Lebih ringan; mengurangi risiko jenuh | Kesulitan bisa terlambat diketahui, padahal ini *desired state* ketua |
+| **D. Rotasi peran** | Pengingat cek progres dan pembaruan pin dilakukan bergantian | Beban adil; mekanisme tidak bergantung pada saya | Bila giliran terlupa, mekanisme berhenti; perlu satu pengingat cadangan |
+| **E. Hentikan setelah uji coba** | Kembali ke cara sebelum 8 November | Tidak ada beban tambahan | Kembali ke masalah awal: info tersebar dan pembahasan menumpuk menjelang deadline |
+
+Saya juga menyiapkan kemungkinan kombinasi, misalnya **B + D sebagai pilot dua minggu**. Kombinasi ini hanya akan saya tawarkan bila muncul dari diskusi, bukan sebagai usulan pembuka.
+
+## Rancangan Deliberasi (15 November 2026)
+
+**Format:** obrolan langsung setelah kelas atau panggilan singkat 15–20 menit. Bila tidak memungkinkan, deliberasi dilakukan di grup dengan batas waktu balasan, dan dicatat sebagai keterbatasan.
+
+**Urutan:** `Listen → Frame → Deliberate → Agree → Act → Measure → Repair/Adapt`
+
+| Tahap | Yang saya lakukan | Kalimat pembuka yang disiapkan |
+|---|---|---|
+| **Sebelum sesi** | Japri Rasya agar ia bisa menyampaikan keberatan tanpa ada ketua | "Sebelum evaluasi besok, ada yang pengen lu ubah atau gak lu suka dari cek progres sama pin? Ngomong ke gua aja dulu kalau sungkan di grup. Btw chat kita soal ini gua pake buat portofolio kuliah, gak apa-apa kan?" |
+| **Listen** | Round-robin dengan urutan **Rasya → Kafka → saya**, agar pendapat Rasya tidak terpengaruh ketua dan pendapat saya tidak mengarahkan yang lain | "Selama seminggu ini, apa yang kerasa ngebantu dan apa yang ganggu?" |
+| **Data** | Menunjukkan data uji coba tanpa tafsiran | Jumlah hari cek progres yang dibalas semua anggota; apakah deadline internal 13 November terpenuhi; pertanyaan berulang di grup (bila ada) |
+| **Frame** | Menawarkan tiga frame | "Masalah kita lebih ke info susah dicari, ke saling jaga progres, atau ke beban yang gak adil?" |
+| **Deliberate** | Membahas opsi A–E; menanyakan kekhawatiran setiap opsi | "Kalau kita pilih opsi ini, apa yang paling lu khawatirin?" |
+| **Agree** | Merumuskan ulang keputusan dan menanyakan keberatan secara eksplisit | "Jadi kesepakatannya ini. Ada yang belum sreg? Gak apa-apa kalau ada, nanti gua catat." |
+| **Act** | Menetapkan siapa melakukan apa dan kapan | — |
+| **Measure** | Menyepakati indikator dan tanggal review | — |
+
+**Aturan fasilitasi yang saya pegang:**
+
+- Diam tidak saya anggap setuju. Bila seseorang belum berbicara tentang suatu opsi, saya bertanya langsung kepadanya.
+- Saya menyampaikan pendapat saya paling akhir dan menyebut bahwa saya pengusul mekanisme, sehingga pendapat saya tidak netral.
+- Bila keputusan condong ke opsi yang menambah beban saya, saya tetap menyebutkan bebannya secara terbuka, tidak diam-diam menanggungnya.
+
+## Sufficient Agreement
+
+::: {.callout-warning title="Belum terjadi"}
+Bagian ini diisi setelah deliberasi 15 November 2026. Kolom di bawah adalah format pencatatan, bukan hasil.
+:::
+
+| Elemen | Isi |
+|---|---|
+| Keputusan | — |
+| Siapa menyetujui | — |
+| Dissent (siapa, apa, dan apakah rumusannya sudah dikonfirmasi) | — |
+| Safeguard | — |
+| Tindakan (siapa, apa, kapan) | — |
+| Indikator dan tanggal review | — |
+
+### Draf Safeguard
+
+Safeguard berikut akan saya ajukan dalam deliberasi. Bagian yang diterima, diubah, atau ditolak kelompok akan saya catat.
+
+1. Tidak ada sindiran atau teguran di grup bagi anggota yang tidak membalas cek progres. Balasan "skip" atau "aman" sudah cukup.
+2. Jalur japri ke saya atau ketua tetap tersedia untuk anggota yang bingung atau keberatan.
+3. Setiap perubahan isi pin diperiksa ketua sebelum disematkan. Ini memperbaiki kejadian 9 November ketika saya menyematkan pin sebelum diperiksa ulang.
+4. Deadline resmi selalu merujuk ke Edunex. Bila ada perbedaan, yang berlaku adalah Edunex.
+5. Setiap anggota boleh meminta mekanisme dihentikan sebelum tanggal review bila terasa membebani.
+
+## Deliberation Evidence
+
+::: {.callout-warning title="Belum terjadi"}
+Evidence akan berupa screenshot japri sebelum sesi, catatan atau screenshot jalannya diskusi, dan screenshot konfirmasi keputusan dari setiap anggota.
+:::
+
+| Artefak | Status | File |
+|---|---|---|
+| Screenshot japri dengan Rasya sebelum sesi | Belum dikumpulkan | `images/evidence/w12-japri-rasya.png` (rencana nama file) |
+| Catatan atau screenshot jalannya deliberasi | Belum dikumpulkan | `images/evidence/w12-deliberasi.png` (rencana nama file) |
+| Screenshot konfirmasi keputusan dari setiap anggota | Belum dikumpulkan | `images/evidence/w12-konfirmasi.png` (rencana nama file) |
+| Rekap data uji coba 9–15 November | Belum dikumpulkan | Ditulis di halaman ini |
+
+## Analisis Komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Tiga anggota dipetakan berdasarkan peran, kewenangan, dan cara berpartisipasi yang teramati dari screenshot Minggu 9–11; dosen dicatat sebagai pihak yang tidak hadir tetapi membatasi pilihan. |
+| Objective & state | Fakta, *story*, nilai, dan posisi dipisahkan. Belum ada perbedaan fakta; perbedaan ada pada penekanan. |
+| Repertoire & language | Tiga frame, lima opsi, round-robin, dan japri sebelum sesi telah disiapkan. Efektivitasnya belum teruji. |
+| Response & adaptation | *Belum terjadi.* Akan diisi dengan perubahan rencana yang dipicu oleh tanggapan anggota saat deliberasi. |
+| Agreement/action | *Belum terjadi.* |
+| Relationship outcome | *Belum terjadi.* |
+
+## Penggunaan AI
+
+::: {.callout-note title="Draf — periksa sebelum dinilai"}
+Pernyataan berikut menggambarkan penggunaan AI saat menyusun draf halaman ini. Perbarui bila ada penggunaan lain setelah deliberasi.
+:::
+
+- **Alat dan peran AI:** Claude (Anthropic) membantu menyusun struktur halaman, merumuskan tiga frame dan lima opsi, serta menyusun kalimat pembuka deliberasi berdasarkan bukti yang sudah ada di portofolio Minggu 9–11.
+- **Prompt atau instruksi penting:** meminta draf portofolio Minggu 12 yang melanjutkan kasus grup kelompok dan memakai evaluasi 15 November sebagai sesi deliberasi.
+- **Output yang digunakan, diubah, atau ditolak:** *(isi setelah saya meninjau draf)*.
+- **Accuracy, privacy, dan authority:** semua fakta pada tabel fact/story/value/position diambil dari screenshot yang sudah ada. AI tidak diberi akses ke grup kelompok. Kata-kata anggota hanya dikutip dari screenshot yang sudah ada. Kafka mengetahui bahwa percakapan kami dipakai untuk portofolio; izin dari Rasya akan saya minta saat japri sebelum deliberasi. Keputusan kelompok tetap diambil oleh anggota, bukan oleh AI.
+- **Yang tetap saya pelajari sebagai manusia:** *(isi setelah deliberasi)*.
+
+## Feedback dan Tindak Lanjut
+
+**Feedback yang diterima:** *Belum ada.*
+
+**Adaptation/replay:** *Belum terjadi.*
+
+**Next practice:** *Ditentukan setelah deliberasi.*
+
+## Self-Assessment
+
+Skor belum saya isi karena evidence deliberasi belum ada. Menilai diri sebelum sesi berlangsung berarti menilai rencana, bukan performance.
+
+| Dimensi | Skor 1–4 | Evidence Singkat |
+|---|---:|---|
+| Person & Character | — | — |
+| Objective & State | — | — |
+| Repertoire, Language & AI | — | — |
+| Response & Adaptation | — | — |
+| Agreement, Action & Relationship | — | — |
+
+**Total:** — / 20
+
+::: {.assessor-only}
+
+### Assessment Dosen
+
+**Skor:** — / 20
+**Evidence yang mendukung:** —
+**Prioritas perbaikan:** —
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+
+:::
